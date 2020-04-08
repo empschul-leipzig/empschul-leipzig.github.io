@@ -3,7 +3,7 @@ title: Empirische Schul- und Unterrichtsforschung
 subtitle: 
 email: empschul@uni-leipzig.de
 description: 
-baseurl: "/editorial-jekyll-theme" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://empschul-leipzig.github.io" # the base hostname & protocol for your site
 author:
 street_address: 1234 Somewhere Road
