@@ -14,16 +14,9 @@ country: Deutschland
 phone: +49 (0) 341 97-31570
 
 # Social settings
-500px_url:
-facebook_url:
-github_url: 
-gitlab_url: https://gitlab.com/u/andrewbanchich
-googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
-instagram_url: https://instagram.com
-linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
-pinterest_url:
-slack_url: 
-twitter_url: https://twitter.com/andrewbanchich
+github_url: https://github.com/empschul-leipzig
+slack_url: https://empschul.slack.com
+twitter_url: 
 
 # Build settings
 markdown: kramdown
