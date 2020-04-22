@@ -5,35 +5,49 @@ layout: default
 <!-- Section -->
 <section>
 	<header class="major">
-		<h2>Erat lacinia</h2>
+		<h2>Entdecken</h2>
 	</header>
 	<div class="features">
 		<article>
-			<span class="icon fa-diamond"></span>
+			<span class="icon fa-bullhorn"></span>
 			<div class="content">
-				<h3>Portitor ullamcorper</h3>
-				<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
+				<h3><a href="{{ 'news' | absolute_url }}">News</a></h3>
+				<p>Erfahre alle Ankündigungen und Termine für Veranstaltungen.</p>
 			</div>
 		</article>
 		<article>
-			<span class="icon fa-paper-plane"></span>
+			<span class="icon fa-users"></span>
 			<div class="content">
-				<h3>Sapien veroeros</h3>
-				<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
+				<h3><a href="{{ 'team' | absolute_url }}">Team</a></h3>
+				<p>Lerne die MitarbeiterInnen der Professur kennen.</p>
 			</div>
 		</article>
 		<article>
-			<span class="icon fa-rocket"></span>
+			<span class="icon fa-graduation-cap"></span>
 			<div class="content">
-				<h3>Quam lorem ipsum</h3>
-				<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
+				<h3><a href="{{ 'lehre' | absolute_url }}">Studieren</a></h3>
+				<p>Erhalte Informationen zu den Modulen und Lehrveranstaltungen der Professur.</p>
 			</div>
 		</article>
 		<article>
-			<span class="icon fa-signal"></span>
+			<span class="icon fa-balance-scale"></span>
 			<div class="content">
-				<h3>Sed magna finibus</h3>
-				<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
+				<h3><a href="{{ 'ethik' | absolute_url }}">Forschungsethik</a></h3>
+				<p>Entdecke unsere Forschungsethik.</p>
+			</div>
+		</article>
+		<article>
+			<span class="icon fa-user-plus"></span>
+			<div class="content">
+				<h3><a href="{{ 'info' | absolute_url }}">Mitmachen</a></h3>
+				<p>Werde Teil eines unserer Projekte.</p>
+			</div>
+		</article>
+		<article>
+			<span class="icon fa-paper-plan"></span>
+			<div class="content">
+				<h3><a href="{{ 'kontakt_anfahrt' | absolute_url }}">Kontakt und Anfahrt</a></h3>
+				<p>Kontaktiere uns, wenn du mehr erfahren möchtest.</p>
 			</div>
 		</article>
 	</div>
