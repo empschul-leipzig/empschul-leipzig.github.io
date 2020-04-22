@@ -26,7 +26,7 @@ layout: default
 			<span class="icon fa-graduation-cap"></span>
 			<div class="content">
 				<h3><a href="{{ 'lehre' | absolute_url }}">Studieren</a></h3>
-				<p>Erhalte Informationen zu den Modulen und Lehrveranstaltungen der Professur.</p>
+				<p>Finde Informationen zu den  Lehrveranstaltungen der Professur.</p>
 			</div>
 		</article>
 		<article>
