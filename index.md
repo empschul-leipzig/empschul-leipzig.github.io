@@ -12,7 +12,7 @@ layout: default
 			<span class="icon fa-bullhorn"></span>
 			<div class="content">
 				<h3><a href="{{ 'news' | absolute_url }}">News</a></h3>
-				<p>Erfahre alle Ankündigungen und Termine für Veranstaltungen.</p>
+				<p>Entdecke Ankündigungen und Termine für Veranstaltungen.</p>
 			</div>
 		</article>
 		<article>
@@ -33,7 +33,7 @@ layout: default
 			<span class="icon fa-balance-scale"></span>
 			<div class="content">
 				<h3><a href="{{ 'ethik' | absolute_url }}">Forschungsethik</a></h3>
-				<p>Entdecke unsere Forschungsethik.</p>
+				<p>Erhalte Einblick in unsere Forschungsethik.</p>
 			</div>
 		</article>
 		<article>
@@ -44,7 +44,7 @@ layout: default
 			</div>
 		</article>
 		<article>
-			<span class="icon fa-paper-plan"></span>
+			<span class="icon fa-paper-plane"></span>
 			<div class="content">
 				<h3><a href="{{ 'kontakt_anfahrt' | absolute_url }}">Kontakt und Anfahrt</a></h3>
 				<p>Kontaktiere uns, wenn du mehr erfahren möchtest.</p>
