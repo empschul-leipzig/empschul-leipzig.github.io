@@ -48,7 +48,9 @@
       <!-- Section -->
         <section>
           <header class="major">
-            <h2>Kontakt und Anfahrt</h2>
+            <h2>
+              <a href="{{ 'kontakt_anfahrt' | absolute_url }}">Kontakt und Anfahrt</a>
+            </h2>
           </header>
            <ul class="contact">
             <li class="fa-envelope-o"><a href="#">{{ site.email }}</a></li>
@@ -61,6 +63,11 @@
 
       <!-- Footer -->
         <footer id="footer">
+          <header class="major">
+            <h2>
+             <a href="{{ 'impressum' | absolute_url}}">Impressum</a>
+            </h2>
+          </header>
           <p class="copyright">&copy; {{ site.title }}. All rights reserved.</p>
         </footer>
 
