@@ -6,13 +6,13 @@
 
 * Put images in the assets/images folder.
 
-  banner for project sites
+  **banner for project sites**
   - format: .jpg
   - width: 1280
   - height: 416
   - size: -  
   
-  graphics
+  **graphics**
   - format: .png
   - width: -
   - height: - 
