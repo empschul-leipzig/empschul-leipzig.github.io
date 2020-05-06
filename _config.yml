@@ -20,3 +20,8 @@ twitter_url:
 
 # Build settings
 markdown: kramdown
+
+# Plugins<
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
