@@ -60,7 +60,7 @@ layout: default
 	</header>
 	<div class="posts">
 		<article>
-			<a href="#" class="image"><img src="assets/images/Banner_Klatt.jpg" alt="" /></a>
+			<a href="#" class="image"><img src="assets/images/pic01.jpg" alt="" /></a>
 			<h3>Von der Relevanz der Präsenz in der Expertiseentwicklung von Lehrpersonen</h3>
 			<p>Das geplante Forschungsprojekt untersucht, inwiefern Präsenz als eine Dimension der Klassenführung objektiv erfasst werden kann und welche Rolle sie für die Expertiseentwicklung von Lehrpersonen spielt.</p>
 			<ul class="actions">
