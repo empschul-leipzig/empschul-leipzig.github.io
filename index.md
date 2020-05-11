@@ -69,8 +69,8 @@ layout: default
 		</article>
 		<article>
 			<a href="#" class="image"><img src="assets/images/pic02.jpg" alt="" /></a>
-			<h3>Platzhalter 2</h3>
-			<p>In Bearbeitung.</p>
+			<h3>Implizite Überzeugungen bei Lehrkräften</h3>
+			<p>Welche Überzeugungen haben Lehrkräfte von der Veränderbarkeit von Eigenschaften? Welchen Einfluss hat die individuelle Denkweise des Lehrers auf die Wahrnehmung seiner Schüler? Diesen und ähnlichen Fragen widmet sich das Projekt Implizite Überzeugungen bei Lehrkräften.</p>
 			<ul class="actions">
 				<li><a href="#" class="button">Mehr</a></li>
 			</ul>
