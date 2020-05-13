@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Team
-permalink: /team/
 image: assets/images/Gruppenfoto.jpg
 ---
 <p>Kurzankündigung</p>
