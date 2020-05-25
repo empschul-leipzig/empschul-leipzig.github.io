@@ -108,7 +108,7 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 
 <h3><img style="float: left; margin: 0px 15px 15px 0px;" src="assets/images/Pagel.jpg" width="150" hight="200"/>Anne-Kathrin Pagel</h3>
 <p><b>Sekretariat</b></p>
-<p style="padding-left: 165px;">Anne-Katrhin Pagel ist Sekräterin an der Professur „Empirische Schul- und Unterrichtsforschung“ an der Erziehungswissenschaftlichen Fakultät der Universität Leipzig.<br style="clear: both;"/>
+<p style="padding-left: 165px;">Anne-Katrhin Pagel ist Sekretärin an der Professur „Empirische Schul- und Unterrichtsforschung“ an der Erziehungswissenschaftlichen Fakultät der Universität Leipzig.<br style="clear: both;"/>
 
 <script type="text/javascript">
 //<![CDATA[
@@ -175,7 +175,7 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 
 <h3><img style="float: left; margin: 0px 15px 15px 0px;" src="assets/images/Kachel.jpg" width="150" hight="200"/>Dr. Gregor Kachel</h3>
 <p><b>Wissenschaftlicher Mitarbeiter/ PI</b></p>
-<p style="padding-left: 165px;">Gregor Kachel leitet das DFG-Projekt SymLit und forscht darin zur Entwicklung des graphischen Symbolverständnisses im Vorschulalter. Er ist wissenschaftlicher Mitarbeiter an der Professur für Empirische Schul- und Unterrichtsforschung und Gastwissenschaftler in der Abteilung für Vergleichende Kulturpsychologie am MPI EVA.<br style="clear: both;"/>
+<p style="padding-left: 165px;">Gregor Kachel leitet das DFG-Projekt SymLit und forscht darin zur Entwicklung des graphischen Symbolverständnisses im Vorschulalter. Er ist wissenschaftlicher Mitarbeiter an der Professur für "Empirische Schul- und Unterrichtsforschung" und Gastwissenschaftler in der Abteilung für Vergleichende Kulturpsychologie am MPI EVA.<br style="clear: both;"/>
 
 <script type="text/javascript">
 //<![CDATA[
@@ -225,7 +225,8 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 
 <h3><img style="float: left; margin: 0px 15px 15px 0px;" src="assets/images/Klatt.jpg" width="150" hight="200"/>Mandy Klatt</h3>
 <p><b>Wissenschaftliche Mitarbeiterin</b></p>
-<p style="padding-left: 165px;">Mandy Klatt forscht und lehrt als wissenschaftliche Mitarbeiterin an der Professur „Empirische Schul- und Unterrichtsforschung“ an der Erziehungswissenschaftlichen Fakultät der Universität Leipzig.Im Mittelpunkt ihrer Forschungsinteressen stehen neue, multimodale Methoden zur Erforschung von Lehr- und Lernprozessen wie mehrkanalige Prozessmessungen, Eye-Tracking, Audio- und Videografie im Unterricht. Ziel ist es außerdem, automatisierte Analyseverfahren anhand von Beobachtungsdaten zu validieren, um sie für die Unterrichtsforschung nutzbar zu machen. In ihrer Dissertation widmet sie sich u.a. der Fragestellung nach der Expertiseentwicklung von Lehrpersonen.<br>
+<p style="padding-left: 165px;">Mandy Klatt forscht und lehrt als wissenschaftliche Mitarbeiterin an der Professur „Empirische Schul- und Unterrichtsforschung“ an der Erziehungswissenschaftlichen Fakultät der Universität Leipzig.<br>
+Im Mittelpunkt ihrer Forschungsinteressen stehen neue, multimodale Methoden zur Erforschung von Lehr- und Lernprozessen wie mehrkanalige Prozessmessungen, Eye-Tracking, Audio- und Videografie im Unterricht. Ziel ist es außerdem, automatisierte Analyseverfahren anhand von Beobachtungsdaten zu validieren, um sie für die Unterrichtsforschung nutzbar zu machen. In ihrer Dissertation widmet sie sich u.a. der Fragestellung nach der Expertiseentwicklung von Lehrpersonen.<br>
 Mandy Klatt bietet Lehrveranstaltungen im Bereich der bildungswissenschaftlichen Module der Lehramtsstudiengänge (Modul 02 „Praxis- und Studienfeld Schule“) an.<br>
 Vor ihrer Beschäftigung an der Universität Leipzig absolvierte sie einen anderthalbjährigen Aufenthalt in Frankreich mit Lehrtätigkeit.<br style="clear: both;"/>
 
@@ -302,7 +303,7 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 
 <h3><img style="float: left; margin: 0px 15px 15px 0px;" src="assets/images/Frohberg.jpg" width="150" hight="200"/>Franziska Frohberg</h3>
 <p><b>Lehrkraft für besondere Aufgaben</b></p>
-<p style="padding-left: 165px;">Franziska Frohberg lehrt und forscht am Institut für Bildungswissenschaften am Lehrstuhl für Empirische Schul- und Unterrichtsforschung an der Universität Leipzig.<br>
+<p style="padding-left: 165px;">Franziska Frohberg lehrt und forscht am Institut für Bildungswissenschaften am Lehrstuhl für "Empirische Schul- und Unterrichtsforschung" an der Universität Leipzig.<br>
 Sie lehrt in den Modulen 1 und 2 der Bildungswissenschaften.<br>
 Im Mittelpunkt ihrer Forschungsinteressen stehen Implizite Theorie zu Intelligenz, Veränderung von Mindsets bei Lehrpersonen und deren Einfluss auf Lehr-Lern-Arrangements. 
 <br style="clear: both;"/>
@@ -501,7 +502,7 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 
 <h3><img style="float: left; margin: 0px 15px 15px 0px;" src="assets/images/Eulitz.jpg" width="150" hight="200"/>Gereon Eulitz</h3>
 <p><b>Lehrer im Hochschuldienst</b></p>
-<p style="padding-left: 165px;">Gereon Eulitz ist Lehrer im Hochschuldienst und gehört der Professur ‚Empirische Schul- und Unterrichtsforschung‘ an. Sein Forschungsinteresse gilt der kooperativen Unterrichtsentwicklung. Das Modul 05-BWI-02 (SPS) "Praxis- und Studienfeld Schule“ ist Schwerpunkt seiner Lehrtätigkeit. Außerdem wirkt er an der Mentorenqualifizierung im Freistaat Sachsen mit.
+<p style="padding-left: 165px;">Gereon Eulitz ist Lehrer im Hochschuldienst und gehört der Professur "Empirische Schul- und Unterrichtsforschung" an. Sein Forschungsinteresse gilt der kooperativen Unterrichtsentwicklung. Das Modul 05-BWI-02 (SPS) "Praxis- und Studienfeld Schule“ ist Schwerpunkt seiner Lehrtätigkeit. Außerdem wirkt er an der Mentorenqualifizierung im Freistaat Sachsen mit.
 <p style="padding-left: 165px;"><span style="text-decoration: underline;">Arbeitsschwerpunkte und Forschungsinteressen</span><br>
  - Kooperation von Wissenschaftler*innen und Lehrer*innen im Rahmen didaktischer Entwicklungsforschung<br>
 - Unterrichtsentwicklung und Unterrichtsforschung, insbesondere kooperative Formate (z.B. Design-Based Research, Lesson Study, Professional Learning Communities<br>
@@ -551,19 +552,19 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
         <table>
           <tbody>
             <tr>
-              <td>seit WiSe 2019/20</td>
+              <td>seit WiSe<br>2019/20</td>
               <td>Mitarbeit im Arbeitsbereich 'Empirische Schul- und Unterrichtsforschung'</td>
             </tr>
             <tr>
-              <td>seit WiSe 2017/18</td>
+              <td>seit WiSe<br>2017/18</td>
               <td>Doktorand bei Prof. Dr. Hallitzky / Arbeitstitel  "Die interprofessionelle Kooperation von Lehrkräften und Forschenden im Rahmen des Design-Based Research-Ansatzes"</td>
             </tr>
             <tr>
-              <td>seit WiSe 2016/17</td>
+              <td>seit WiSe<br>2016/17</td>
               <td>Mitarbeit im Arbeitsbereich 'Allgemeine Didaktik & Schulpädagogik des Sekundarbereichs'</td>
             </tr>
             <tr>
-              <td>seit WiSe 2014/15</td>
+              <td>seit WiSe<br>2014/15</td>
               <td>Lehrer im Hochschuldienst / ZLS der Universität Leipzig
               Professur International und interkulturell vergleichende Bildungswissenschaft</td>
             </tr>
@@ -579,7 +580,7 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 
 <h3><img style="float: left; margin: 0px 15px 15px 0px;" src="assets/images/Schmidtke.jpg" width="150" hight="200"/>Anna Schmidtke</h3>
 <p><b>Studentische Hilfskraft</b></p>
-<p style="padding-left: 165px;">Anna Schmidtke studiert an der Universität Leipzig Höheres Lehramt an Gymnasien mit den Fächern Deutsch und Ethik. Sie ist als studentische Hilfskraft an der Professur für "Empirische Schul- und Unterrichtsforschung" tätig.<br style="clear: both;"/>
+<p style="padding-left: 165px;">Anna Schmidtke studiert Höheres Lehramt an Gymnasien mit den Fächern Deutsch und Ethik an der Universität Leipzig. Sie ist als studentische Hilfskraft an der Professur für "Empirische Schul- und Unterrichtsforschung" tätig.<br style="clear: both;"/>
 
 <script type="text/javascript">
 //<![CDATA[
@@ -623,7 +624,7 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 
 <h3><img style="float: left; margin: 0px 15px 15px 0px;" src="assets/images/Lugovaya.jpg" width="150" hight="200"/>Anna Lugovaya</h3>
 <p><b>Studentische Hilfskraft</b></p>
-<p style="padding-left: 165px;">Anna Lugovaya studiert Lehramt an Grundschulen mit den Kernfach Ethik und dem Lehramtserweiterungsfach Deutsch als Zweitsprache. An der Professur "Empirische Schul- und Unterrichtsforschung" ist sie als studentische Hilfskraft tätig. <br style="clear: both;"/>
+<p style="padding-left: 165px;">Anna Lugovaya studiert Lehramt an Grundschulen mit dem Kernfach Ethik und dem Lehramtserweiterungsfach Deutsch als Zweitsprache. An der Professur "Empirische Schul- und Unterrichtsforschung" ist sie als studentische Hilfskraft tätig. <br style="clear: both;"/>
 
 <script type="text/javascript">
 //<![CDATA[
