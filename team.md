@@ -303,7 +303,7 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 
 <h3><img style="float: left; margin: 0px 15px 15px 0px;" src="assets/images/Frohberg.jpg" width="150" hight="200"/>Franziska Frohberg</h3>
 <p><b>Lehrkraft für besondere Aufgaben</b></p>
-<p style="padding-left: 165px;">Franziska Frohberg lehrt und forscht am Institut für Bildungswissenschaften am Lehrstuhl für "Empirische Schul- und Unterrichtsforschung" an der Universität Leipzig.<br>
+<p style="padding-left: 165px;">Franziska Frohberg lehrt und forscht am Institut für Bildungswissenschaften an der Professur für "Empirische Schul- und Unterrichtsforschung" an der Universität Leipzig.<br>
 Sie lehrt in den Modulen 1 und 2 der Bildungswissenschaften.<br>
 Im Mittelpunkt ihrer Forschungsinteressen stehen Implizite Theorie zu Intelligenz, Veränderung von Mindsets bei Lehrpersonen und deren Einfluss auf Lehr-Lern-Arrangements. 
 <br style="clear: both;"/>
@@ -427,7 +427,7 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 
 <h3><img style="float: left; margin: 0px 15px 15px 0px;" src="assets/images/de Groote_Foto.jpg" width="150" hight="200"/>Carola de Groote</h3>
 <p><b>Abgeordnete Lehrerin</b></p>
-<p style="padding-left: 165px;">Carola de Groote lehrt als abgeordnete Lehrerin in den Modulen 1 und 2 am Institut für Bildungswissenschaften am Lehrstuhl für Empirische Schul- und Unterrichtsforschung an der Universität Leipzig und bringt hier ihre 25-jährige gymnasiale Lehrtätigkeit ein.<br>
+<p style="padding-left: 165px;">Carola de Groote lehrt als abgeordnete Lehrerin in den Modulen 1 und 2 am Institut für Bildungswissenschaften an der Professur für Empirische Schul- und Unterrichtsforschung an der Universität Leipzig und bringt hier ihre 25-jährige gymnasiale Lehrtätigkeit ein.<br>
 Im Mittelpunkt ihrer Forschungsinteressen stehen Begabungsförderung an Regelschulen, begabungsförderlicher Unterricht sowie Schulentwicklung.<br style="clear: both;"/>
 
 <script type="text/javascript">
