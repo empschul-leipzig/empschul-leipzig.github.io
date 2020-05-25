@@ -10,7 +10,7 @@ At the chair for empirical school- and classroom research we work on how novice 
 ***
 <span class="image fit"><img src="assets/images/pic01.jpg" alt="" /></span>
 
-## Von der Relevanz der Präsenz in der Expertiseentwicklung von Lehrpersonen
+## `Von der Relevanz der Präsenz in der Expertiseentwicklung von Lehrpersonen`
 
 **Verantwortliche/AnsprechpartnerIn:** <a href="mailto:mandy.klatt@uni-leipzig.de">Mandy Klatt</a>
 
@@ -22,7 +22,7 @@ oder über das [Anmeldeformular](https://empschul-leipzig.github.io/schulen/).
 ***
 <span class="image fit"><img src="assets/images/pic02.jpg" alt="" /></span>
 
-## Implizite Überzeugungen bei Lehrkräften
+## `Implizite Überzeugungen bei Lehrkräften`
 
 **Verantwortliche/AnsprechpartnerIn:** <a href="mailto:franziska.frohberg@uni-leipzig.de">Franziska Frohberg</a>
 
