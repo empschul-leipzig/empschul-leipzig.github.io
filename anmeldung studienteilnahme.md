@@ -49,7 +49,7 @@ Sobald wir Ihre Anfrage erhalten haben, melden wir uns bei Ihnen. Sie erhalten d
 					name="einverständnis-kontaktaufnahme" 
 					required="Bitte füllen Sie dieses Feld aus!"> 
 					<label for="einverständnis-kontaktaufnahme">
-						<b>Einverständnis Kontaktaufnahme</b><br>
+						<b>Einverständnis Kontaktaufnahme*</b><br>
 						Ich bin damit einverstanden, dass Mitarbeiter/innen der Professur für "Empirische Schul- und Unterrichtsforschung" an der Universität Leipzig mit mir zur weiteren Absprache einer Studienteilnahme in Kontakt treten. 
 					</label>
 				</div>
@@ -59,7 +59,7 @@ Sobald wir Ihre Anfrage erhalten haben, melden wir uns bei Ihnen. Sie erhalten d
 					name="einverständnis-datenspeicherung" 
 					required="Bitte füllen Sie dieses Feld aus!"> 
 					<label for="einverständnis-datenspeicherung">
-						<b>Einverständnis Datenspeicherung</b><br>
+						<b>Einverständnis Datenspeicherung*</b><br>
 						Ich bin damit einverstanden, dass meine Daten zum Zweck der Kontaktaufnahme gespeichert werden. Ich kann mein Einverständnis jederzeit widerrufen.
 					</label>
 				</div>
@@ -69,7 +69,7 @@ Sobald wir Ihre Anfrage erhalten haben, melden wir uns bei Ihnen. Sie erhalten d
 					name="datenschutzhinweis"
 					required="Bitte füllen Sie dieses Feld aus!">
 					<label for="datenschutzhinweis">
-						<b>Datenschutzhinweis</b><br>
+						<b>Datenschutzhinweis*</b><br>
 			    		Ich habe die Hinweise zum Datenschutz gelesen und bin einverstanden.
 			    		<p><i>Link zu Datenschutzhinweisen in Bearbeitung.</i></p>
 			    	</label>
