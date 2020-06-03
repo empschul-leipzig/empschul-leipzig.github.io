@@ -4,7 +4,7 @@ title: Publikationen
 permalink: /publikationen/
 ---
 
-### __Prof. Dr. Anne Deiglmayr (geb. Meier)__
+## Prof. Dr. Anne Deiglmayr (geb. Meier)
 
 **Artikel in internationalen Fachzeitschriften mit Peer-Review**
 
@@ -146,7 +146,7 @@ Edelsbrunner, P., **Deiglmayr, A.**, & Schalk, L. (2014). *Das Verständnis expe
 
 ***
 
-### __Dr. Gregor Kachel__
+## Dr. Gregor Kachel
 
 Hildebrandt, F., Glauer, R., & **Kachel, G.** (in press). Coming from a world without objects. Mind and Language.
 
