@@ -1,7 +1,6 @@
 ---
 layout: page
 title: News
-permalink: /news/
 ---
 
 ## Ankündigungen und Termine
@@ -17,6 +16,6 @@ At the chair for empirical school- and classroom research we work on how novice 
 ***
 ## Vergangene und aktuelle Veranstaltungen
 
-***Derzeit liegen keine aktuellen Ankündigungen und Termine für Veranstaltungen vor.***
+*Derzeit liegen keine aktuellen Ankündigungen und Termine für Veranstaltungen vor.*
 
 ***
