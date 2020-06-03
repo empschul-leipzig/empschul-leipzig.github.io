@@ -16,6 +16,6 @@ At the chair for "empirical school- and classroom" research we work on how novic
 ***
 ## Vergangene und aktuelle Veranstaltungen
 
-*Derzeit liegen keine aktuellen Ankündigungen und Termine für Veranstaltungen vor*
+*Derzeit liegen keine aktuellen Ankündigungen und Termine für Veranstaltungen vor.*
 
 ***
