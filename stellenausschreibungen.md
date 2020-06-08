@@ -4,4 +4,4 @@ title: Stellenausschreibungen
 permalink: /stellen/
 ---
 
-*Derzeit werden keine Stellen ausgeschrieben. Initiativbewerbungen können Sie an [empschul@uni-leipzig.de](empschul@uni-leipzig.de) senden.*
+*Derzeit werden keine Stellen ausgeschrieben. Initiativbewerbungen kÃ¶nnen Sie gern an [empschul@uni-leipzig.de](empschul@uni-leipzig.de) senden.* 
