@@ -4,4 +4,4 @@ title: Forschungsethik
 permalink: /ethik/
 ---
 
-*In Kürze finden Sie hier Angaben zu unserer Forschungsethik.*
+*In KÃ¼rze finden Sie hier Angaben zur Forschungsethik der Professur.*
