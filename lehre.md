@@ -34,7 +34,7 @@ Teilnahme am Modul 05-BWI-01- SEK/ PRIM
 
 ***
 
-## Modul: Methoden der qualitativen empirischen Sozialforschung
+## Modul: Methoden der qualitativen empirischen Sozialforschung (05-SQM-48)
 
 #### Modulverantwortung: 
 Prof. Dr. Anne Deiglmayr 
