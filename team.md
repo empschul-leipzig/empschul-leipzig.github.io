@@ -214,8 +214,7 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
   <b>Webseite:</b> <a href="https://gregorkachel.github.io">https://gregorkachel.github.io</a></p>
 
   <p><b>Publikationen</b></p>
-  IKlicken Sie <a href="https://empschul-leipzig.github.io/publikationen/">hier.</a>
-
+  Klicken Sie <a href="https://empschul-leipzig.github.io/publikationen/">hier.</a>
 </div>
 </td>
 </tr>
