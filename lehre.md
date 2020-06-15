@@ -3,7 +3,7 @@ layout: page
 title: Lehrveranstaltungen
 permalink: /lehre/
 ---
-## Modul: Praxis- und Studienfeld Schule (05-BWI-02)
+## Praxis- und Studienfeld Schule (05-BWI-02)
 
 #### Modulverantwortung: 
 Prof. Dr. Anne Deiglmayr 
@@ -34,7 +34,7 @@ Teilnahme am Modul 05-BWI-01- SEK/ PRIM
 
 ***
 
-## Modul: Methoden der qualitativen empirischen Sozialforschung (05-SQM-48)
+## Methoden der qualitativen empirischen Sozialforschung (05-SQM-48)
 
 #### Modulverantwortung: 
 Prof. Dr. Anne Deiglmayr 
