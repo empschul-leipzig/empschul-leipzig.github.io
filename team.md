@@ -97,7 +97,7 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
       </div>
 
   <p><b>Publikationen und Vorträge</b></p>
-  In Bearbeitung
+  Klicken Sie <a href="https://empschul-leipzig.github.io/publikationen/">hier.</a>
 
 </div>
 </td>
@@ -214,7 +214,7 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
   <b>Webseite:</b> <a href="https://gregorkachel.github.io">https://gregorkachel.github.io</a></p>
 
   <p><b>Publikationen</b></p>
-  In Bearbeitung
+  IKlicken Sie <a href="https://empschul-leipzig.github.io/publikationen/">hier.</a>
 
 </div>
 </td>
