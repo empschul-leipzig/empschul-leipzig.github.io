@@ -4,8 +4,8 @@ title: Publikationen
 permalink: /publikationen/
 ---
 <article id="Deiglmayr">
-## Prof. Dr. Anne Deiglmayr (geb. Meier)
-
+<h2>Prof. Dr. Anne Deiglmayr (geb. Meier)</h2>
+</article>
 **Artikel in internationalen Fachzeitschriften mit Peer-Review**
 
 **Deiglmayr, A.**, Stern, E., & Schubert, R. (2019). Beliefs in “brilliance” and belonging uncertainty in male and female STEM students. *Frontiers in Psychology, 10 (1114)*, 1-7. [https://doi.org/10.3389/fpsyg.2019.01114](https://doi.org/10.3389/fpsyg.2019.01114)
@@ -143,11 +143,11 @@ Edelsbrunner, P., **Deiglmayr, A.**, & Schalk, L. (2014). *Das Verständnis expe
 “Cooperative decision making from a psychological, small groups perspective”. 32nd Conference of the European Association for Aviation Psychology (EAAP), September 2016, Cascais, Portugal.
 
 “Die Schule von morgen: Lernen in der Welt 4.0”, Treffpunkt Science City, November 2016, ETH Zürich.
-</article>
 
 ***
 <article id="Kachel">
-## Dr. Gregor Kachel
+<h2>Dr. Gregor Kachel</h2>
+</article>
 
 Hildebrandt, F., Glauer, R., & **Kachel, G.** (in press). Coming from a world without objects. Mind and Language.
 
@@ -158,5 +158,5 @@ O’Madagain, C., **Kachel, G.** & Strickland, B. (2019). Origins of the human p
 **Kachel, G.**, Moore, R. & Tomasello, M. (2018). Two-year-olds use adults’ pointing gestures but not peers’. Developmental Science. e12660.
 
 Schmidtke-Bode, K. & **Kachel, G.** (2018). Exploring the motivational antecedents of Nepalese learners of L2 English. International Review of Applied Linguistics in Language Teaching.
-</article>
+
 
