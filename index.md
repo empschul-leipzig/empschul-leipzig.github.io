@@ -76,11 +76,11 @@ layout: default
 			</ul>
 		</article>
 		<article>
-			<a href="#" class="image"><img src="assets/images/pic03.jpg" alt="" /></a>
-			<h3>Platzhalter 3</h3>
-			<p>In Bearbeitung.</p>
+			<a href="#" class="image"><img src="assets/images/pic06.jpg" alt="" /></a>
+			<h3>Symbolverstehen im Vorschulalter</h3>
+			<p>Welche graphischen Zeichen verstehen Kinder bereits im Vorschulalter und wie leicht fällt es ihnen unbekannte Zeichen zu interpretieren?  Diesen und ähnlichen Fragen widmet sich unser Projekt <i>Symbolic Literacy</i>.</p>
 			<ul class="actions">
-				<li><a href="#" class="button">Mehr</a></li>
+				<li><a href="https://empschul-leipzig.github.io/projekte#Symbolverstehen im Vorschulalter" class="button">Mehr</a></li>
 			</ul>
 		</article>
 		<article>
