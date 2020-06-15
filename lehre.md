@@ -10,11 +10,11 @@ Prof. Dr. Anne Deiglmayr
 
 #### Modulziele
 Die Studierenden...
--	kennen die Besonderheiten ihres späteren Tätigkeitsfeldes Schule
-- kennen Verfahren der Erkundung der Schule und wenden diese für die Beschreibung und Analyse der Praktikumsschule an
--	kennen Verfahren der Unterrichtsbeobachtung und wenden diese für die Beschreibung und Analyse des Unterrichts unter allgemein didaktischen Gesichtspunkten an
--	bereiten unter allgemein didaktischen Gesichtspunkten und unter Anleitung von schulischen Mentor/innen Unterrichtssequenzen vor, führen sie durch und reflektieren sie
--	kennen Belastungen im Lehrer/inberuf und Strategien für deren Bewältigung, analysieren  Aufgaben der Lehrkräfte im Schulalltag und reflektieren den Wechsel von der Schüler/in- zur Lehrer/inrolle und die Berufswahlentscheidung
+-	kennen die Besonderheiten ihres späteren Tätigkeitsfeldes Schule:
+- kennen Verfahren der Erkundung der Schule und wenden diese für die Beschreibung und Analyse der Praktikumsschule an.
+-	kennen Verfahren der Unterrichtsbeobachtung und wenden diese für die Beschreibung und Analyse des Unterrichts unter allgemein didaktischen Gesichtspunkten an.
+-	bereiten unter allgemein didaktischen Gesichtspunkten und unter Anleitung von schulischen Mentor/innen Unterrichtssequenzen vor, führen sie durch und reflektieren sie.
+-	kennen Belastungen im Lehrer/inberuf und Strategien für deren Bewältigung, analysieren  Aufgaben der Lehrkräfte im Schulalltag und reflektieren den Wechsel von der Schüler/in- zur Lehrer/inrolle und die Berufswahlentscheidung.
 
 #### Modulinhalt
 Das Modul führt in Schule als Praxis- und Studienfeld (Projektseminar) ein. 
@@ -42,7 +42,7 @@ Prof. Dr. Anne Deiglmayr
 #### Modulziele
 Die Studierenden werden...
 - die relevanten methodologischen Grundlagen der qualitativen empirischen Sozialforschung kennen lernen. 
-- insbesondere Kompetenzen erwerben, wissenschaftliche Forschungsergebnisse aus der qualitativen Sozialforschung kritisch zu beurteilen
+- insbesondere Kompetenzen erwerben, wissenschaftliche Forschungsergebnisse aus der qualitativen Sozialforschung kritisch zu beurteilen.
 - qualitative Verfahren und ihre Auswertungsmethoden kennenlernen, dies betrifft insbesondere Interviewtechniken, Beobachtungsmethoden, Dokumentenanalysen.
 - die methodologischen Grundlagen der qualitativen empirischen Sozialforschung/der qualitativen empirischen Schul- und Unterrichtsforschung sowie der Evaluation von Schule und Unterricht erarbeiten und vertiefen.
 - angeleitet, diese in eigenen Projektdurchführungen zu erproben.
