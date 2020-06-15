@@ -64,7 +64,7 @@ layout: default
 			<h3>Von der Relevanz der Präsenz in der Expertiseentwicklung von Lehrpersonen</h3>
 			<p>Das geplante Forschungsprojekt untersucht, inwiefern Präsenz als eine Dimension der Klassenführung objektiv erfasst werden kann und welche Rolle sie für die Expertiseentwicklung von Lehrpersonen spielt.</p>
 			<ul class="actions">
-				<li><a href="https://empschul-leipzig.github.io/projekte#Implizite Überzeugungen bei Lehrkräften" class="button">Mehr</a></li>
+				<li><a href="https://empschul-leipzig.github.io/projekte#Klatt" class="button">Mehr</a></li>
 			</ul>
 		</article>
 		<article>
@@ -72,7 +72,7 @@ layout: default
 			<h3>Implizite Überzeugungen bei Lehrkräften</h3>
 			<p>Welche Überzeugungen haben Lehrkräfte von der Veränderbarkeit von Eigenschaften? Welchen Einfluss hat die individuelle Denkweise des Lehrers auf die Wahrnehmung seiner Schüler? Diesen und ähnlichen Fragen widmet sich das Projekt Implizite Überzeugungen bei Lehrkräften.</p>
 			<ul class="actions">
-				<li><a href="https://empschul-leipzig.github.io/projekte#Von der Relevanz der Präsenz in der Expertiseentwicklung von Lehrpersonen" class="button">Mehr</a></li>
+				<li><a href="https://empschul-leipzig.github.io/projekte#Frohberg" class="button">Mehr</a></li>
 			</ul>
 		</article>
 		<article>
@@ -80,7 +80,7 @@ layout: default
 			<h3>Symbolverstehen im Vorschulalter</h3>
 			<p>Welche graphischen Zeichen verstehen Kinder bereits im Vorschulalter und wie leicht fällt es ihnen unbekannte Zeichen zu interpretieren?  Diesen und ähnlichen Fragen widmet sich unser Projekt <i>Symbolic Literacy</i>.</p>
 			<ul class="actions">
-				<li><a href="https://empschul-leipzig.github.io/projekte#Symbolverstehen im Vorschulalter" class="button">Mehr</a></li>
+				<li><a href="https://empschul-leipzig.github.io/projekte#Kachel" class="button">Mehr</a></li>
 			</ul>
 		</article>
 		<article>

@@ -3,7 +3,7 @@ layout: page
 title: Publikationen
 permalink: /publikationen/
 ---
-
+<article id="Deiglmayr"></article>
 ## Prof. Dr. Anne Deiglmayr (geb. Meier)
 
 **Artikel in internationalen Fachzeitschriften mit Peer-Review**
@@ -145,7 +145,7 @@ Edelsbrunner, P., **Deiglmayr, A.**, & Schalk, L. (2014). *Das Verständnis expe
 “Die Schule von morgen: Lernen in der Welt 4.0”, Treffpunkt Science City, November 2016, ETH Zürich.
 
 ***
-
+<article id="Kachel"></article>
 ## Dr. Gregor Kachel
 
 Hildebrandt, F., Glauer, R., & **Kachel, G.** (in press). Coming from a world without objects. Mind and Language.

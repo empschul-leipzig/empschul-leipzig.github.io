@@ -9,7 +9,7 @@ At the chair for empirical school- and classroom research we work on how novice 
 
 ***
 <span class="image fit"><img src="assets/images/pic01.jpg" alt="" /></span>
-
+<article id="Klatt"></article>
 ## Von der Relevanz der Präsenz in der Expertiseentwicklung von Lehrpersonen
 
 **Verantwortliche/AnsprechpartnerIn:** <a href="https://empschul-leipzig.github.io/team#Klatt">Mandy Klatt</a>
@@ -21,7 +21,7 @@ oder über das [Anmeldeformular](https://empschul-leipzig.github.io/anmeldung/).
 
 ***
 <span class="image fit"><img src="assets/images/pic02.jpg" alt="" /></span>
-
+<article id="Frohberg"></article>
 ## Implizite Überzeugungen bei Lehrkräften
 
 **Verantwortliche/AnsprechpartnerIn:** <a href="https://empschul-leipzig.github.io/team#Frohberg">Franziska Frohberg</a>
@@ -32,7 +32,7 @@ oder über das [Anmeldeformular](https://empschul-leipzig.github.io/anmeldung/).
 
 ***
 <span class="image fit"><img src="assets/images/pic06.jpg" alt="" /></span>
-
+<article id="Kachel"></article>
 ## Symbolverstehen im Vorschulalter
 
 **Verantwortliche/AnsprechpartnerIn:** <a href="https://empschul-leipzig.github.io/team#Kachel">Dr. Gregor Kachel</a>

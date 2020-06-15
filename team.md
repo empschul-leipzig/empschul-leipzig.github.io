@@ -97,7 +97,7 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
       </div>
 
   <p><b>Publikationen und Vorträge</b></p>
-  Klicken Sie <a href="https://empschul-leipzig.github.io/publikationen/">hier.</a>
+  Klicken Sie <a href="https://empschul-leipzig.github.io/publikationen/#Deiglmayr">hier.</a>
 
 </div>
 </td>
@@ -215,16 +215,17 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
   <b>Webseite:</b> <a href="https://gregorkachel.github.io">https://gregorkachel.github.io</a></p>
 
   <p><b>Publikationen</b></p>
-  Klicken Sie <a href="https://empschul-leipzig.github.io/publikationen/">hier.</a>
+  Klicken Sie <a href="https://empschul-leipzig.github.io/publikationen/#Kachel">hier.</a>
 </div>
 </td>
 </tr>
 </table>
 
 <!--Klatt-->
-
+<article id="Klatt">
 <h3><img style="float: left; margin: 0px 15px 15px 0px; border-radius: 50%;" src="assets/images/Klatt.jpg" width="150" hight="200"/>Mandy Klatt</h3>
 <p><b>Wissenschaftliche Mitarbeiterin</b></p>
+</article>
 <p style="padding-left: 165px;">Mandy Klatt forscht und lehrt als wissenschaftliche Mitarbeiterin an der Professur „Empirische Schul- und Unterrichtsforschung“ an der Erziehungswissenschaftlichen Fakultät der Universität Leipzig.<br>
 Im Mittelpunkt ihrer Forschungsinteressen stehen neue, multimodale Methoden zur Erforschung von Lehr- und Lernprozessen wie mehrkanalige Prozessmessungen, Eye-Tracking, Audio- und Videografie im Unterricht. Ziel ist es außerdem, automatisierte Analyseverfahren anhand von Beobachtungsdaten zu validieren, um sie für die Unterrichtsforschung nutzbar zu machen. In ihrer Dissertation widmet sie sich u.a. der Fragestellung nach der Expertiseentwicklung von Lehrpersonen.<br>
 Mandy Klatt bietet Lehrveranstaltungen im Bereich der bildungswissenschaftlichen Module der Lehramtsstudiengänge (Modul 02 „Praxis- und Studienfeld Schule“) an.<br>
@@ -300,9 +301,10 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 </table>
 
 <!--Frohberg-->
-
+<article id="Frohberg">
 <h3><img style="float: left; margin: 0px 15px 15px 0px; border-radius: 50%;" src="assets/images/Frohberg.jpg" width="150" hight="200"/>Franziska Frohberg</h3>
 <p><b>Lehrkraft für besondere Aufgaben</b></p>
+</article>
 <p style="padding-left: 165px;">Franziska Frohberg lehrt und forscht am Institut für Bildungswissenschaften an der Professur für "Empirische Schul- und Unterrichtsforschung" an der Universität Leipzig.<br>
 Sie lehrt in den Modulen 1 und 2 der Bildungswissenschaften.<br>
 Im Mittelpunkt ihrer Forschungsinteressen stehen Implizite Theorie zu Intelligenz, Veränderung von Mindsets bei Lehrpersonen und deren Einfluss auf Lehr-Lern-Arrangements. 
