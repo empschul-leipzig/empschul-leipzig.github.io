@@ -9,7 +9,7 @@ At the chair for empirical school- and classroom research we work on how novice 
 
 ***
 <span class="image fit"><img src="assets/images/pic01.jpg" alt="" /></span>
-<article id="Klatt"></article>
+<article id="Klatt">
 ## Von der Relevanz der Präsenz in der Expertiseentwicklung von Lehrpersonen
 
 **Verantwortliche/AnsprechpartnerIn:** <a href="https://empschul-leipzig.github.io/team#Klatt">Mandy Klatt</a>
@@ -18,10 +18,11 @@ Ein wesentliches Strukturmerkmal guten Unterrichts stellt in der Unterrichtsfors
 Um diese und weitere Fragen zu beantworten, werden in verschiedenen Studien Daten mittels multimodaler Prozessmessungen (mobile Eye-Tracking-Technologie, Audio- und Videoaufnahmen, Fragebogen) erhoben. Die in dem Projekt durchzuführenden Untersuchungen sind von kontinuierlicher Relevanz für die Ausbildung von Lehrpersonen, da die Befunde der Studien dazu dienen sollen, Konsequenzen und Implikationen für die Praxis abzuleiten und so in der universitären Vorbereitungszeit aktiv einen Beitrag zur Ausbildung von Lehrpersonen zu leisten.<br> 
 Für die Studien sind wir stets auf der Suche nach Lehrkräften, ReferendarInnen und Lehramtsstudierenden, die mit uns im Labor oder in ihren Schulen zusammenarbeiten wollen. Bei Interesse melden Sie sich bitte per <a href="mailto:mandy.klatt@uni-leipzig.de">E-Mail</a>
 oder über das [Anmeldeformular](https://empschul-leipzig.github.io/anmeldung/).
+</article>
 
 ***
 <span class="image fit"><img src="assets/images/pic02.jpg" alt="" /></span>
-<article id="Frohberg"></article>
+<article id="Frohberg">
 ## Implizite Überzeugungen bei Lehrkräften
 
 **Verantwortliche/AnsprechpartnerIn:** <a href="https://empschul-leipzig.github.io/team#Frohberg">Franziska Frohberg</a>
@@ -29,10 +30,11 @@ oder über das [Anmeldeformular](https://empschul-leipzig.github.io/anmeldung/).
 Bei der Bewältigung von Situationen des alltäglichen Lebens orientieren sich Menschen häufig an Alltagstheorien. Lehrkräfte haben subjektive Überzeugungen darüber, welches Erziehungsverhalten bei bestimmten SchülerInnen effektiv ist. Diese Gewissheit über die Gültigkeit von Alltagtheorien ergibt sich zum einen aus der selektiven Wahrnehmung, und zum anderen als Effekt der Sich-selbst-erfüllenden-Prophezeiung, da man sich gegenüber einer anderen Person so verhält, dass deren Reaktion die eigene Annahme bestätigt. Im Projekt wird untersucht, welche Effekte implizite Überzeugungen von Lehrkräften auf Ihre SchülerInnen haben. In dieser Studie werden Videoaufnahmen von Unterricht gemacht sowie Fragebögen für Lehrkräften und SchülerInnen verwendet.<br> 
 Für unsere Studie suchen wir jederzeit Lehrkräfte, ReferendarInnen und Lehramtsstudierende für Videoaufnahmen in ihren Schulen. Bei Interesse melden Sie sich bitte per <a href="mailto:franziska.frohberg@uni-leipzig.de">E-Mail</a>
 oder über das [Anmeldeformular](https://empschul-leipzig.github.io/anmeldung/).
+</article>
 
 ***
 <span class="image fit"><img src="assets/images/pic06.jpg" alt="" /></span>
-<article id="Kachel"></article>
+<article id="Kachel">
 ## Symbolverstehen im Vorschulalter
 
 **Verantwortliche/AnsprechpartnerIn:** <a href="https://empschul-leipzig.github.io/team#Kachel">Dr. Gregor Kachel</a>
@@ -40,5 +42,5 @@ oder über das [Anmeldeformular](https://empschul-leipzig.github.io/anmeldung/).
 Buchstaben, Zahlen, Schilder und Ikone,…graphische Symbole umgeben uns fast überall. Sie begleiten uns im Alltag so selbstverständlich, dass wir sie kaum noch sehen oder bewusst interpretieren müssen. Wie aber sprechen diese Zeichen zu Kindern, die noch nicht lesen und schreiben können oder es gerade erst lernen? In unserem Projekt Symbolic Literacy untersuchen wir, welche konventionellen graphischen Symbole Kinder schon früh verstehen und ob sie auch in der Lage sind neue und unbekannte Zeichen spontan zu deuten. Für diese Studien nutzen wir Tabletcomputer auf denen Kindern kurze Bilderbuchgeschichten präsentiert werden. Um in der Studie bei einer Frage eine Auswahl zu treffen, können die Kinder dann den Bildschirm an der entsprechenden Stelle berühren. Für unsere Studien suchen wir immer interessierte Eltern mit Kindern im Alter zwischen 2 und 8 Jahren, aber auch regelmäßig Erwachsene, die Lust haben selbst teilzunehmen. Testungen können im Kindergarten, bei uns im Institut aber auch bald schon online stattfinden. Bei Interesse melden Sie sich bitte per <a href="mailto:gregor.kachel@uni-leipzig.de">E-Mail</a>
 oder über das [Anmeldeformular](https://empschul-leipzig.github.io/anmeldung/).<br>
 Symbolic Literacy ist ein <a href="https://www.dfg.de">DFG</a>-gefördertes Forschungsprojekt, das wir gemeinsam mit der Abteilung für vergleichende Kulturpsychologie am <a href="https://www.eva.mpg.de/comparative-cultural-psychology/index.html">MPI für Evolutionäre Anthropologie</a> durchführen.
-
+</article>
 
