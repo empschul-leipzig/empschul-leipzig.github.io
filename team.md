@@ -175,8 +175,9 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 <article id="Kachel">
 <h3><img style="float: left; margin: 0px 15px 15px 0px; border-radius: 50%;" src="assets/images/Kachel.jpg" width="150" hight="200"/>Dr. Gregor Kachel</h3>
 <p><b>Wissenschaftlicher Mitarbeiter/ PI</b></p>
-<p style="padding-left: 165px;">Gregor Kachel leitet das DFG-Projekt SymLit und forscht darin zur Entwicklung des graphischen Symbolverständnisses im Vorschulalter. Er ist wissenschaftlicher Mitarbeiter an der Professur für "Empirische Schul- und Unterrichtsforschung" und Gastwissenschaftler in der Abteilung für Vergleichende Kulturpsychologie am MPI EVA.<br style="clear: both;"/>
 </article>
+<p style="padding-left: 165px;">Gregor Kachel leitet das DFG-Projekt SymLit und forscht darin zur Entwicklung des graphischen Symbolverständnisses im Vorschulalter. Er ist wissenschaftlicher Mitarbeiter an der Professur für "Empirische Schul- und Unterrichtsforschung" und Gastwissenschaftler in der Abteilung für Vergleichende Kulturpsychologie am MPI EVA.<br style="clear: both;"/>
+
 <script type="text/javascript">
 //<![CDATA[
 function swap(openlink,closelink, linkid, dataid)
