@@ -3,44 +3,43 @@ layout: page
 title: Impressum
 permalink: /impressum/
 ---
-### Verantwortlich für den Inhalt nach Â§5 TMG und Â§55 Abs.2 RStV:
-Universität Leipzig
-Erziehungswissenschaftliche Fakultät
-Institut für Bildungswissenschaften
-Empirische Schul- und Unterrichtsforschung
-Dittrichring 5-7
+### Verantwortlich fÃ¼r den Inhalt nach Â§5 TMG und Â§55 Abs.2 RStV:
+UniversitÃ¤t Leipzig<br>
+Erziehungswissenschaftliche FakultÃ¤t<br>
+Institut fÃ¼r Bildungswissenschaften<br>
+Empirische Schul- und Unterrichtsforschung<br>
+Dittrichring 5-7<br>
 04109 Leipzig
 
-##### Kontakt
-Raum: 009
-Tel.: +49 (0) 341 97-31570
+#### Kontakt
+Raum: 009<br>
+Tel.: +49 (0) 341 97-31570<br>
 E-Mail: [empschul@uni-leipzig.de](empschul@uni-leipzig.de)
 
 ***
 
 ### Technische Umsetzung und Design:
-[GitHub Pages](https://pages.github.com/)
+[GitHub Pages](https://pages.github.com/)<br>
 [Jekyll version of the "Editorial" theme by HTML5 UP](https://jekyll-themes.com/editorial/)
 
 ***
 
 ### Haftungsausschluss
 
-##### Haftung für Inhalte
-Die Inhalte unserer Seiten wurden mit größter Sorgfalt erstellt. Für die Richtigkeit, Vollständigkeit, Aktualität und Qualität der Inhalte können wir jedoch keine Gewähr übernehmen. Als Diensteanbieter sind wir gemäß § 7 Abs.1 TMG für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich. Nach §§ 8 bis 10 TMG sind wir als Diensteanbieter jedoch nicht verpflichtet, übermittelte oder gespeicherte fremde Informationen zu überwachen oder nach Umständen zu forschen, die auf eine rechtswidrige Tätigkeit hinweisen. Verpflichtungen zur Entfernung oder Sperrung der Nutzung von Informationen nach den allgemeinen Gesetzen bleiben hiervon unberührt. Eine diesbezügliche Haftung ist jedoch erst ab dem Zeitpunkt der Kenntnis einer konkreten Rechtsverletzung möglich. Bei Bekanntwerden von entsprechenden Rechtsverletzungen werden wir diese Inhalte umgehend entfernen.
+#### Haftung fÃ¼r Inhalte
+Die Inhalte unserer Seiten wurden mit grÃ¶ÃŸter Sorgfalt erstellt. FÃ¼r die Richtigkeit, VollstÃ¤ndigkeit, AktualitÃ¤t und QualitÃ¤t der Inhalte kÃ¶nnen wir jedoch keine GewÃ¤hr Ã¼bernehmen. Als Diensteanbieter sind wir gemÃ¤ÃŸ Â§ 7 Abs.1 TMG fÃ¼r eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich. Nach Â§Â§ 8 bis 10 TMG sind wir als Diensteanbieter jedoch nicht verpflichtet, Ã¼bermittelte oder gespeicherte fremde Informationen zu Ã¼berwachen oder nach UmstÃ¤nden zu forschen, die auf eine rechtswidrige TÃ¤tigkeit hinweisen. Verpflichtungen zur Entfernung oder Sperrung der Nutzung von Informationen nach den allgemeinen Gesetzen bleiben hiervon unberÃ¼hrt. Eine diesbezÃ¼gliche Haftung ist jedoch erst ab dem Zeitpunkt der Kenntnis einer konkreten Rechtsverletzung mÃ¶glich. Bei Bekanntwerden von entsprechenden Rechtsverletzungen werden wir diese Inhalte umgehend entfernen.
 
-Alle Angebote sind freibleibend und unverbindlich. Der Autor behält es sich ausdrücklich vor, Teile der Seiten oder das gesamte Angebot ohne gesonderte Ankündigung zu verändern, zu ergänzen, zu löschen oder die Veröffentlichung zeitweise oder endgültig einzustellen.
+Alle Angebote sind freibleibend und unverbindlich. Der Autor behÃ¤lt es sich ausdrÃ¼cklich vor, Teile der Seiten oder das gesamte Angebot ohne gesonderte AnkÃ¼ndigung zu verÃ¤ndern, zu ergÃ¤nzen, zu lÃ¶schen oder die VerÃ¶ffentlichung zeitweise oder endgÃ¼ltig einzustellen.
 
+#### Haftung fÃ¼r Verweise und Links
+Unser Angebot enthÃ¤lt Links zu externen Webseiten Dritter, auf deren Inhalte wir keinen Einfluss haben. Deshalb kÃ¶nnen wir fÃ¼r den direkten oder indirekten Verweis auf jene fremden Inhalte auch keine GewÃ¤hr Ã¼bernehmen. Eine Haftungsverpflichtung wÃ¼rde ausschlieÃŸlich in dem Fall in Kraft treten, in dem der Autor von den Inhalten Kenntnis hat und es ihm technisch mÃ¶glich und zumutbar wÃ¤re, die Nutzung im Falle rechtswidriger Inhalte zu verhindern. FÃ¼r die Inhalte der verlinkten Seiten ist stets ausschlieÃŸlich der jeweilige Anbieter oder Betreiber der Seiten verantwortlich. Hiermit erklÃ¤ren wir, dass die verlinkten Seiten zum Zeitpunkt der Verlinkung auf mÃ¶gliche RechtsverstÃ¶ÃŸe Ã¼berprÃ¼ft wurden. Rechtswidrige Inhalte waren zum Zeitpunkt der Verlinkung nicht erkennbar. Eine permanente inhaltliche Kontrolle der verlinkten Seiten ist jedoch ohne konkrete Anhaltspunkte einer Rechtsverletzung nicht zumutbar. Deshalb distanzieren wir uns hiermit ausdrÃ¼cklich von allen Inhalten aller gelinkten /verknÃ¼pften Seiten, die nach der Linksetzung verÃ¤ndert wurden. Bei Bekanntwerden von Rechtsverletzungen werden wir dennoch derartige Links umgehend entfernen.
 
-##### Haftung für Verweise und Links
-Unser Angebot enthält Links zu externen Webseiten Dritter, auf deren Inhalte wir keinen Einfluss haben. Deshalb können wir für den direkten oder indirekten Verweis auf jene fremden Inhalte auch keine Gewähr übernehmen. Eine Haftungsverpflichtung würde ausschließlich in dem Fall in Kraft treten, in dem der Autor von den Inhalten Kenntnis hat und es ihm technisch möglich und zumutbar wäre, die Nutzung im Falle rechtswidriger Inhalte zu verhindern. Für die Inhalte der verlinkten Seiten ist stets ausschließlich der jeweilige Anbieter oder Betreiber der Seiten verantwortlich. Hiermit erklären wir, dass die verlinkten Seiten zum Zeitpunkt der Verlinkung auf mögliche Rechtsverstöße überprüft wurden. Rechtswidrige Inhalte waren zum Zeitpunkt der Verlinkung nicht erkennbar. Eine permanente inhaltliche Kontrolle der verlinkten Seiten ist jedoch ohne konkrete Anhaltspunkte einer Rechtsverletzung nicht zumutbar. Deshalb distanzieren wir uns hiermit ausdrücklich von allen Inhalten aller gelinkten /verknüpften Seiten, die nach der Linksetzung verändert wurden. Bei Bekanntwerden von Rechtsverletzungen werden wir dennoch derartige Links umgehend entfernen.
+#### Urheberrecht
+Die auf diesen Seiten dargestellten Inhalte und Werke sind von den Seitenbetreibern erstellt worden und unterliegen dem deutschen Urheberrecht. Die VervielfÃ¤ltigung, Bearbeitung, Verbreitung und jede Art der Verwertung auÃŸerhalb der Grenzen des Urheberrechtes bedÃ¼rfen der schriftlichen Zustimmung der Webseiten-Verantwortlichen. Downloads und Kopien dieser Seite sind nur fÃ¼r den privaten, nicht kommerziellen Gebrauch gestattet. Soweit Inhalte auf dieser Seite nicht vom Betreiber erstellt wurden, werden die Urheberrechte Dritter beachtet. Insbesondere werden Inhalte Dritter als solche gekennzeichnet. Sollten Sie trotzdem auf eine Urheberrechtsverletzung aufmerksam werden, bitten wir um einen entsprechenden Hinweis. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Inhalte umgehend entfernen.
 
-##### Urheberrecht
-Die auf diesen Seiten dargestellten Inhalte und Werke sind von den Seitenbetreibern erstellt worden und unterliegen dem deutschen Urheberrecht. Die Vervielfältigung, Bearbeitung, Verbreitung und jede Art der Verwertung außerhalb der Grenzen des Urheberrechtes bedürfen der schriftlichen Zustimmung der Webseiten-Verantwortlichen. Downloads und Kopien dieser Seite sind nur für den privaten, nicht kommerziellen Gebrauch gestattet. Soweit Inhalte auf dieser Seite nicht vom Betreiber erstellt wurden, werden die Urheberrechte Dritter beachtet. Insbesondere werden Inhalte Dritter als solche gekennzeichnet. Sollten Sie trotzdem auf eine Urheberrechtsverletzung aufmerksam werden, bitten wir um einen entsprechenden Hinweis. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Inhalte umgehend entfernen.
+#### Datenschutz
+Die Nutzung unserer Webseite ist in der Regel ohne Angabe personenbezogener Daten mÃ¶glich. Soweit auf unseren Seiten personenbezogene Daten (beispielsweise Name, Anschrift oder E-Mail-Adressen) erhoben werden, erfolgt dies, soweit mÃ¶glich, stets auf freiwilliger Basis. Diese Daten werden ohne Ihre ausdrÃ¼ckliche Zustimmung nicht an Dritte weitergegeben.
 
-##### Datenschutz
-Die Nutzung unserer Webseite ist in der Regel ohne Angabe personenbezogener Daten möglich. Soweit auf unseren Seiten personenbezogene Daten (beispielsweise Name, Anschrift oder E-Mail-Adressen) erhoben werden, erfolgt dies, soweit möglich, stets auf freiwilliger Basis. Diese Daten werden ohne Ihre ausdrückliche Zustimmung nicht an Dritte weitergegeben.
+Wir weisen darauf hin, dass die DatenÃ¼bertragung im Internet (z.B. bei der Kommunikation per E-Mail) SicherheitslÃ¼cken aufweisen kann. Ein lÃ¼ckenloser Schutz der Daten vor dem Zugriff durch Dritte ist nicht mÃ¶glich.
 
-Wir weisen darauf hin, dass die Datenübertragung im Internet (z.B. bei der Kommunikation per E-Mail) Sicherheitslücken aufweisen kann. Ein lückenloser Schutz der Daten vor dem Zugriff durch Dritte ist nicht möglich.
-
-Der Nutzung von im Rahmen der Impressumspflicht veröffentlichten Kontaktdaten durch Dritte zur Übersendung von nicht ausdrücklich angeforderter Werbung und Informationsmaterialien wird hiermit ausdrücklich widersprochen. Die Betreiber der Seiten behalten sich ausdrücklich rechtliche Schritte im Falle der unverlangten Zusendung von Werbeinformationen, etwa durch Spam-Mails, vor.
+Der Nutzung von im Rahmen der Impressumspflicht verÃ¶ffentlichten Kontaktdaten durch Dritte zur Ãœbersendung von nicht ausdrÃ¼cklich angeforderter Werbung und Informationsmaterialien wird hiermit ausdrÃ¼cklich widersprochen. Die Betreiber der Seiten behalten sich ausdrÃ¼cklich rechtliche Schritte im Falle der unverlangten Zusendung von Werbeinformationen, etwa durch Spam-Mails, vor.
