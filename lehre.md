@@ -4,7 +4,9 @@ title: Lehrveranstaltungen
 permalink: /lehre/
 ---
 
-<h3>Modulverantwortung: <span style="color: ##848484;">Prof. Dr. Anne Deiglmayr</span></h3> 
+<h3>Modulverantwortung: <a href="https://empschul-leipzig.github.io/team#Deiglmayr">Prof. Dr. Anne Deiglmayr</a></h3> 
+
+<p>&nbsp;</p>
 
 <!--05-BWI-02-->
 
