@@ -3,68 +3,143 @@ layout: page
 title: Lehrveranstaltungen
 permalink: /lehre/
 ---
-## Praxis- und Studienfeld Schule (05-BWI-02)
 
-#### Modulverantwortung: 
-Prof. Dr. Anne Deiglmayr 
+<h3>Modulverantwortung:</h3> Prof. Dr. Anne Deiglmayr 
 
-#### Modulziele
-Die Studierenden...
--	kennen die Besonderheiten ihres späteren Tätigkeitsfeldes Schule:
-- kennen Verfahren der Erkundung der Schule und wenden diese für die Beschreibung und Analyse der Praktikumsschule an.
--	kennen Verfahren der Unterrichtsbeobachtung und wenden diese für die Beschreibung und Analyse des Unterrichts unter allgemein didaktischen Gesichtspunkten an.
--	bereiten unter allgemein didaktischen Gesichtspunkten und unter Anleitung von schulischen Mentor/innen Unterrichtssequenzen vor, führen sie durch und reflektieren sie.
--	kennen Belastungen im Lehrer/inberuf und Strategien für deren Bewältigung, analysieren  Aufgaben der Lehrkräfte im Schulalltag und reflektieren den Wechsel von der Schüler/in- zur Lehrer/inrolle und die Berufswahlentscheidung.
+<script type="text/javascript">
+//<![CDATA[
+function swap(openlink,closelink, linkid, dataid)
+{
+if( document.getElementById(dataid).style.display == 'none')
+{
+document.getElementById(dataid).style.display='inline';
+document.getElementById(linkid).firstChild.nodeValue=closelink;
+} else
+{
+document.getElementById(dataid).style.display='none';
+document.getElementById(linkid).firstChild.nodeValue=openlink;
+}
+}
+//]]>
+</script>
+<table class="tab24" align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr bgcolor="#BDBDBD">
+<td width="33%" height="30" style="padding-left:15px; padding-right:15px;">
+<b>Modul "Praxis- und Studienfeld Schule" (05-BWI-02)</b>
+</td>
+<td align="right" width="33%" style="padding-left:15px; padding-right:15px;">
+<a href="#swap" onclick="javascript:swap('Einblenden','Ausblenden', 'swaplink', 'hideme')" id="swaplink" onfocus="this.blur()" name="swaplink">Einblenden</a>
+</td>
+</tr> 
+<tr style=" text-align: justify; font-size: 14px; font-weight: normal; background-color: rgb(242,242,242);">
+<td colspan="3" style="padding-left:15px; padding-right:15px;">
+<div id="hideme" style="display:none">
+<br /> 
+<div align="center">
+</div> 
+   <h4>Modulziele</h4>
+ 	<p>Die Studierenden...<br>
+        <ul>
+  			<li>kennen die Besonderheiten ihres späteren Tätigkeitsfeldes Schule.</li>
+  			<li> kennen Verfahren der Erkundung der Schule und wenden diese für die Beschreibung und Analyse der Praktikumsschule an.</li>
+ 			<li>kennen Verfahren der Unterrichtsbeobachtung und wenden diese für die Beschreibung und Analyse des Unterrichts unter allgemein didaktischen Gesichtspunkten an.</li>
+ 			<li>bereiten unter allgemein didaktischen Gesichtspunkten und unter Anleitung von schulischen Mentor/innen Unterrichtssequenzen vor, führen sie durch und reflektieren sie.</li>
+ 			<li>kennen Belastungen im Lehrer/inberuf und Strategien für deren Bewältigung, analysieren  Aufgaben der Lehrkräfte im Schulalltag und reflektieren den Wechsel von der Schüler/in- zur Lehrer/inrolle und die Berufswahlentscheidung.</li>
+	    </ul>
+    </p>
 
-#### Modulinhalt
-Das Modul führt in Schule als Praxis- und Studienfeld (Projektseminar) ein. 
+   <h4>Modulinhalt</h4>
+    <p>Das Modul führt in Schule als Praxis- und Studienfeld (Projektseminar) ein.</p>
+    
+   <h4>Modulturnus</h4>
+	<p>Das Modul wird in jedem Semester angeboten.</p>
 
-#### Modulturnus
-Das Modul wird in jedem Semester angeboten.
+   <h4>Lehrformen</h4>
+    <ul>
+    	<li>Seminar "Praxis- und Studienfeld Schule" (2 SWS) = 30 h Präsenzzeit und 15 h Selbststudium = 45 h</li>
+    	<li>Schulpraktische Studien "SPS" (5 SWS) = 75 h Präsenzzeit und 30 h Selbststudium = 105 h</li>
+    </ul>
 
-#### Lehrformen
-- Seminar "Praxis- und Studienfeld Schule" (2 SWS) = 30 h Präsenzzeit und 15 h Selbststudium = 45 h  
-- Schulpraktische Studien "SPS" (5 SWS) = 75 h Präsenzzeit und 30 h Selbststudium = 105 h
+   <h4>Prüfungsleistungen</h4>
+   	<p>Die Modulprüfung umfasst ein unbenotetes Portfolio mit einer Bearbeitungszeit von 4 Wochen.</p>
 
-#### Prüfungsleistungen  
-Die Modulprüfung umfasst ein unbenotetes Portfolio mit einer Bearbeitungszeit von 4 Wochen.
+   <h4>Teilnahmevoraussetzungen</h4>
+	<p>Teilnahme am Modul 05-BWI-01- SEK/ PRIM</p>
 
-#### Teilnahmevoraussetzungen  
-Teilnahme am Modul 05-BWI-01- SEK/ PRIM
+</div>
+</td>
+</tr>
+</table> 
 
-***
+<!--Pagel-->
 
-## Methoden der qualitativen empirischen Sozialforschung (05-SQM-48)
+<script type="text/javascript">
+//<![CDATA[
+function swap(openlink,closelink, linkid, dataid)
+{
+if( document.getElementById(dataid).style.display == 'none')
+{
+document.getElementById(dataid).style.display='inline';
+document.getElementById(linkid).firstChild.nodeValue=closelink;
+} else
+{
+document.getElementById(dataid).style.display='none';
+document.getElementById(linkid).firstChild.nodeValue=openlink;
+}
+}
+//]]>
+</script>
+<table class="tab24" align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr bgcolor="#BDBDBD">
+<td width="33%" height="30" style="padding-left:15px; padding-right:15px;">
+<b>Modul "Methoden der qualitativen empirischen Sozialforschung" (05-SQM-48)</b>
+</td>
+<td align="right" width="33%" style="padding-left:15px; padding-right:15px;">
+<a href="#swap" onclick="javascript:swap('Einblenden','Ausblenden', 'swaplink1', 'hideme1')" id="swaplink1" onfocus="this.blur()" name="swaplink1">Einblenden</a>
+</td>
+</tr> 
+<tr style=" text-align: justify; font-size: 14px; font-weight: normal; background-color: rgb(242,242,242);">
+<td colspan="3" style="padding-left:15px; padding-right:15px;">
+<div id="hideme1" style="display:none">
+<br /> 
+<div align="center">
+</div> 
 
-#### Modulverantwortung: 
-Prof. Dr. Anne Deiglmayr 
+ <h4>Modulziele</h4>
+ 	<p>Die Studierenden werden...<br>
+        <ul>
+  			<li>die relevanten methodologischen Grundlagen der qualitativen empirischen Sozialforschung kennenlernen.</li>
+  			<li> insbesondere Kompetenzen erwerben, wissenschaftliche Forschungsergebnisse aus der qualitativen Sozialforschung kritisch zu beurteilen.</li>
+ 			<li>qualitative Verfahren und ihre Auswertungsmethoden kennenlernen, dies betrifft insbesondere Interviewtechniken, Beobachtungsmethoden, Dokumentenanalysen.</li>
+ 			<li>die methodologischen Grundlagen der qualitativen empirischen Sozialforschung/der qualitativen empirischen Schul- und Unterrichtsforschung sowie der Evaluation von Schule und Unterricht erarbeiten und vertiefen.</li>
+ 			<li>angeleitet, diese in eigenen Projektdurchführungen zu erproben.</li>
+ 			<li>sich mit Verfahren der internen und externen Evaluation von Institutionen beschäftigen.</li>
+ 			<li>Prozesse der Schulentwicklung von schulischen und außerschulischen Institutionen verstehen.</li>
+ 			<li>die Verfahren der Schulinspektion und Schulevaluation kennen.</li>
+	    </ul>
+    </p>
 
-#### Modulziele
-Die Studierenden werden...
-- die relevanten methodologischen Grundlagen der qualitativen empirischen Sozialforschung kennen lernen. 
-- insbesondere Kompetenzen erwerben, wissenschaftliche Forschungsergebnisse aus der qualitativen Sozialforschung kritisch zu beurteilen.
-- qualitative Verfahren und ihre Auswertungsmethoden kennenlernen, dies betrifft insbesondere Interviewtechniken, Beobachtungsmethoden, Dokumentenanalysen.
-- die methodologischen Grundlagen der qualitativen empirischen Sozialforschung/der qualitativen empirischen Schul- und Unterrichtsforschung sowie der Evaluation von Schule und Unterricht erarbeiten und vertiefen.
-- angeleitet, diese in eigenen Projektdurchführungen zu erproben.
-- sich mit Verfahren der internen und externen Evaluation von Institutionen beschäftigen.
-- Prozesse der Schulentwicklung von schulischen und außerschulischen Institutionen verstehen. 
-- die Verfahren der Schulinspektion und Schulevaluation kennen.
+   <h4>Modulinhalt</h4>
+    <p>Das Modul führt in die Methodologie, die Methoden und die Forschungsprogramme sowie die grundlegenden Techniken der Auswertung der qualitativen empirischen Sozialforschung ein. Im Profilbereich werden darüber hinaus interne und externe schulische Evaluationsverfahren der Aktionsforschung vermittelt. Die Studierenden lernen die forschungsethischen Grundlagen kennen, die sie während der Datenerhebung und der Datenauswertung und ihrerPräsentation beachten müssen.</p>
+    
+   <h4>Modulturnus</h4>
+	<p>Das Modul wird in jedem Sommersemester angeboten.</p>
 
-#### Modulinhalt
-Das Modul führt in die Methodologie, die Methoden und die Forschungsprogramme sowie die grundlegenden Techniken der Auswertung der qualitativen empirischen Sozialforschung ein. Im Profilbereich werden darüber hinaus interne und externe schulische Evaluationsverfahren der Aktionsforschung vermittelt. Die Studierenden lernen die forschungsethischen Grundlagen kennen, die sie während der Datenerhebung und der Datenauswertung und ihrerPräsentation beachten müssen.
+   <h4>Lehrformen</h4>
+    <ul>
+    	<li>Vorlesung "Einführung in die Methoden der qualitativen empirischen Sozialforschung" (2 SWS) = 30 h Präsenzzeit und 30 h Selbststudium = 60 h</li>
+    	<li>Seminar "Einführung in die Methoden der qualitativen empirischen Sozialforschung" (2 SWS) = 30 h Präsenzzeit und 150 h Selbststudium = 180 h</li>
+    	<li>Tutorium "Einführung in die Methoden der qualitativen empirischen Sozialforschung" (2 SWS) = 30 h Präsenzzeit und 30 h Selbststudium = 60 h</li>
+    </ul>
 
-#### Modulturnus
-Das Modul wird in jedem Sommersemester angeboten.
+   <h4>Prüfungsleistungen</h4>
+   	<p>Die Modulprüfung umfasst eine Hausarbeit mit einer Bearbeitungszeit von 4 Wochen und eine Multiple Choice Klausur (60 Min.).</p>
 
-#### Lehrformen
-- Vorlesung "Einführung in die Methoden der qualitativen empirischen Sozialforschung" (2 SWS) = 30 h Präsenzzeit und 30 h Selbststudium = 60 h
-- Seminar "Einführung in die Methoden der qualitativen empirischen Sozialforschung" (2 SWS) = 30 h Präsenzzeit und 150 h Selbststudium = 180 h
-- Tutorium "Einführung in die Methoden der qualitativen empirischen Sozialforschung" (2 SWS) = 30 h Präsenzzeit und 30 h Selbststudium = 60 h
-
-#### Prüfungsleistungen  
-Die Modulprüfung umfasst eine Hausarbeit mit einer Bearbeitungszeit von 4 Wochen und eine Multiple Choice Klausur (60 Min.).
-
-#### Teilnahmevoraussetzungen  
-keine
+   <h4>Teilnahmevoraussetzungen</h4>
+	<p>keine</p>
+</div>
+</td>
+</tr>
+</table>
 
 
