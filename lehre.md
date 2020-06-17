@@ -4,7 +4,9 @@ title: Lehrveranstaltungen
 permalink: /lehre/
 ---
 
-<h3>Modulverantwortung:</h3> Prof. Dr. Anne Deiglmayr 
+<h2>Modulverantwortung: <span style="color: #grey;">Prof. Dr. Anne Deiglmayr</span></h2> 
+
+<!--05-BWI-02-->
 
 <script type="text/javascript">
 //<![CDATA[
@@ -24,10 +26,10 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 </script>
 <table class="tab24" align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
 <tr bgcolor="#BDBDBD">
-<td width="33%" height="30" style="padding-left:15px; padding-right:15px;">
-<b>Modul "Praxis- und Studienfeld Schule" (05-BWI-02)</b>
+<td width="53%" height="30" style="padding-left:15px; padding-right:15px;">
+<b>Praxis- und Studienfeld Schule (05-BWI-02)</b>
 </td>
-<td align="right" width="33%" style="padding-left:15px; padding-right:15px;">
+<td align="right" width="13%" style="padding-left:15px; padding-right:15px;">
 <a href="#swap" onclick="javascript:swap('Einblenden','Ausblenden', 'swaplink', 'hideme')" id="swaplink" onfocus="this.blur()" name="swaplink">Einblenden</a>
 </td>
 </tr> 
@@ -71,7 +73,7 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 </tr>
 </table> 
 
-<!--Pagel-->
+<!--05-SQM-48-->
 
 <script type="text/javascript">
 //<![CDATA[
@@ -91,10 +93,10 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 </script>
 <table class="tab24" align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
 <tr bgcolor="#BDBDBD">
-<td width="33%" height="30" style="padding-left:15px; padding-right:15px;">
-<b>Modul "Methoden der qualitativen empirischen Sozialforschung" (05-SQM-48)</b>
+<td width="53%" height="30" style="padding-left:15px; padding-right:15px;">
+<b>Methoden der qualitativen empirischen Sozialforschung" (05-SQM-48)</b>
 </td>
-<td align="right" width="33%" style="padding-left:15px; padding-right:15px;">
+<td align="right" width="13%" style="padding-left:15px; padding-right:15px;">
 <a href="#swap" onclick="javascript:swap('Einblenden','Ausblenden', 'swaplink1', 'hideme1')" id="swaplink1" onfocus="this.blur()" name="swaplink1">Einblenden</a>
 </td>
 </tr> 
