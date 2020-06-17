@@ -17,6 +17,7 @@ phone: +49 (0) 341 97-31570
 github_url: https://github.com/empschul-leipzig
 slack_url: https://empschul.slack.com
 twitter_url: 
+university_url: https://www.uni-leipzig.de/
 
 # Build settings
 markdown: kramdown
