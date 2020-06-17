@@ -4,7 +4,7 @@ title: Lehrveranstaltungen
 permalink: /lehre/
 ---
 
-<h3>Modulverantwortung: <span style="color: ##848484;">Prof. Dr. Anne Deiglmayr</span></h2> 
+<h3>Modulverantwortung: <span style="color: ##848484;">Prof. Dr. Anne Deiglmayr</span></h3> 
 
 <!--05-BWI-02-->
 
@@ -111,9 +111,9 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
  	<p>Die Studierenden werden...<br>
         <ul>
   			<li>die relevanten methodologischen Grundlagen der qualitativen empirischen Sozialforschung kennenlernen.</li>
-  			<li> insbesondere Kompetenzen erwerben, wissenschaftliche Forschungsergebnisse aus der qualitativen Sozialforschung kritisch zu beurteilen.</li>
+  			<li> Kompetenzen erwerben, wissenschaftliche Forschungsergebnisse aus der qualitativen Sozialforschung kritisch zu beurteilen.</li>
  			<li>qualitative Verfahren und ihre Auswertungsmethoden kennenlernen, dies betrifft insbesondere Interviewtechniken, Beobachtungsmethoden, Dokumentenanalysen.</li>
- 			<li>die methodologischen Grundlagen der qualitativen empirischen Sozialforschung/der qualitativen empirischen Schul- und Unterrichtsforschung sowie der Evaluation von Schule und Unterricht erarbeiten und vertiefen.</li>
+ 			<li>die methodologischen Grundlagen der qualitativen empirischen Sozialforschung/ der qualitativen empirischen Schul- und Unterrichtsforschung sowie der Evaluation von Schule und Unterricht erarbeiten und vertiefen.</li>
  			<li>angeleitet, diese in eigenen Projektdurchführungen zu erproben.</li>
  			<li>sich mit Verfahren der internen und externen Evaluation von Institutionen beschäftigen.</li>
  			<li>Prozesse der Schulentwicklung von schulischen und außerschulischen Institutionen verstehen.</li>
