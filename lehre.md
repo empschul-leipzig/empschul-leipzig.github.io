@@ -4,7 +4,7 @@ title: Lehrveranstaltungen
 permalink: /lehre/
 ---
 
-<h2>Modulverantwortung: <span style="color: #grey;">Prof. Dr. Anne Deiglmayr</span></h2> 
+<h3>Modulverantwortung: <span style="color: ##848484;">Prof. Dr. Anne Deiglmayr</span></h2> 
 
 <!--05-BWI-02-->
 
