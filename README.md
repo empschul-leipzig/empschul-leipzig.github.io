@@ -35,8 +35,8 @@
  
 1.	Click on "Add file" and choose "Create new file"
 2. Name your file xxx.md 
-3. Add a link/ tab for your file in `_includes/sidebar.html`  
-   (example: <li><a href="{{ 'xxx' | absolute_url }}">tab name</a></li> - important: your file name must match the link name in '  ') 
+3. Add a link/ tab for your file in `_includes/sidebar.html`   
+   (example: `<li><a href="{{ 'xxx' | absolute_url }}">tab name</a></li> - important: your file name must match the link name in '  ')` 
 2.	Add the following header to your xxx.md file:
    - layout: page  
    - title: ...  
