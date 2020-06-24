@@ -428,7 +428,7 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 
 <!--De Groote-->
 
-<h3><img style="float: left; margin: 0px 15px 15px 0px; border-radius: 50%;" src="assets/images/de Groote_Foto.jpg" width="150" hight="200"/>Carola de Groote</h3>
+<h3><img style="float: left; margin: 0px 15px 15px 0px; border-radius: 50%;" src="assets/images/de_Groote.jpg" width="150" hight="200"/>Carola de Groote</h3>
 <p><b>Abgeordnete Lehrerin</b></p>
 <p style="padding-left: 165px;">Carola de Groote lehrt als abgeordnete Lehrerin in den Modulen 1 und 2 am Institut für Bildungswissenschaften an der Professur für Empirische Schul- und Unterrichtsforschung an der Universität Leipzig und bringt hier ihre 25-jährige gymnasiale Lehrtätigkeit ein.<br>
 Im Mittelpunkt ihrer Forschungsinteressen stehen Begabungsförderung an Regelschulen, begabungsförderlicher Unterricht sowie Schulentwicklung.<br style="clear: both;"/>
