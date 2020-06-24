@@ -33,19 +33,20 @@
 
 # Create a new file 
  
-1.	Click on "Add file" and choose "Create new file"
-2. Name your file xxx.md 
-3. Add a link/ tab for your file in `_includes/sidebar.html`   
-   (example: `<li><a href="{{ 'xxx' | absolute_url }}">tab name</a></li> - important: your file name must match the link name in '  ')` 
-2.	Add the following header to your xxx.md file:
+**1.	Click on "Add file" and choose "Create new file"**
+**2. Name your file xxx.md** 
+**3. Add a link/ tab for your file in `_includes/sidebar.html`**  
+     --> example: `<li><a href="{{ 'xxx' | absolute_url }}">tab name</a></li>`
+     --> important: your file name must match the link name in '  '
+**4.	Add the following header to your xxx.md file:**
    - layout: page  
    - title: ...  
    - (permalink: /xxx/ (*optional*))  
    - (image: assets/images/... (*optional*))
-3.	Edit your file  
-   (for HTML or R-Markdown aids look in the stylesheet.md file) 
-4.	Save your file in the repository 
-5. Github will build the site  
-   (If you have edited your xxx.md file in an external program and Github gives an error message, you have to save the file with encoding UTF-8.)
+**5.	Edit your file**
+     --> for HTML or R-Markdown aids look in the stylesheet.md file  
+**6.	Save your file in the repository**
+**7. Github will build the site**  
+     --> If you have edited your file in an external program and Github gives an error message, you have to save the file with encoding UTF-8.
 
  
