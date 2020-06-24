@@ -507,8 +507,8 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 <p><b>Lehrer im Hochschuldienst</b></p>
 <p style="padding-left: 165px;">Gereon Eulitz ist Lehrer im Hochschuldienst und gehört der Professur "Empirische Schul- und Unterrichtsforschung" an. Sein Forschungsinteresse gilt der kooperativen Unterrichtsentwicklung. Das Modul 05-BWI-02 (SPS) "Praxis- und Studienfeld Schule“ ist Schwerpunkt seiner Lehrtätigkeit. Außerdem wirkt er an der Mentorenqualifizierung im Freistaat Sachsen mit.
 <p style="padding-left: 165px;"><span style="text-decoration: underline;">Arbeitsschwerpunkte und Forschungsinteressen</span><br>
- - Kooperation von Wissenschaftler*innen und Lehrer*innen im Rahmen didaktischer&nbsp;Entwicklungsforschung<br>
-- Unterrichtsentwicklung und Unterrichtsforschung, insbesondere kooperative Formate (z.B. Design-&nbsp;Based Research, Lesson Study, Professional Learning Communities<br>
+ - Kooperation von Wissenschaftler*innen und Lehrer*innen im Rahmen didaktischer Entwicklungsforschung<br>
+- Unterrichtsentwicklung und Unterrichtsforschung, insbesondere kooperative Formate (z.B. Design-Based Research, Lesson Study, Professional Learning Communities<br>
 - Theorie-Praxis-Beziehungen / Innovations- und Transferforschung<br>
 - Schul- und Unterrichtsentwicklung in internationalen und interkulturellen Kontexten<br>
 - Schulpraktische Studien: Praxis- und Studienfeld Schule (Bildungswissenschaft)<br>
@@ -695,12 +695,12 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 <b>Kontakt und Weiteres</b>
 </td>
 <td align="right" width="33%" style="padding-left:15px; padding-right:15px;">
-<a href="#swap" onclick="javascript:swap('Einblenden','Ausblenden', 'swaplink9', 'hideme9')" id="swaplink9" onfocus="this.blur()" name="swaplink9">Einblenden</a>
+<a href="#swap" onclick="javascript:swap('Einblenden','Ausblenden', 'swaplink10', 'hideme10')" id="swaplink10" onfocus="this.blur()" name="swaplink10">Einblenden</a>
 </td>
 </tr> 
 <tr style=" text-align: justify; font-size: 14px; font-weight: normal; background-color: rgb(242,242,242);">
 <td colspan="3" style="padding-left:15px; padding-right:15px;">
-<div id="hideme9" style="display:none">
+<div id="hideme10" style="display:none">
 <br /> 
 <div align="center">
 </div> 
