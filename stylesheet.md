@@ -2,8 +2,8 @@
 
 <!-- Websites -->
 
-https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
-https://www.markdownguide.org/basic-syntax/
+https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet  
+https://www.markdownguide.org/basic-syntax/  
 https://markdown.de/
 
 ***
@@ -15,11 +15,11 @@ https://markdown.de/
 <!-- Text stuff -->
 
 <p>
-This is <b>bold</b> and this is <strong>strong</strong>. 
-This is <i>italic</i> and this is <em>emphasized</em>.
-This is <sup>superscript</sup> text and this is <sub>subscript</sub> text.
-This is <u>underlined</u>.
-This is code: <code>for (;;) { ... }</code>.
+This is <b>bold</b> and this is <strong>strong</strong>.<br> 
+This is <i>italic</i> and this is <em>emphasized</em>.<br>
+This is <sup>superscript</sup> text and this is <sub>subscript</sub> text.<br>
+This is <u>underlined</u>.<br>
+This is code: <code>for (;;) { ... }</code>.<br>
 Finally, this is a <a href="#">link</a>.
 </p>
       
