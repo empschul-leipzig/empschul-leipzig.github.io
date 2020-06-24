@@ -507,8 +507,8 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 <p><b>Lehrer im Hochschuldienst</b></p>
 <p style="padding-left: 165px;">Gereon Eulitz ist Lehrer im Hochschuldienst und gehört der Professur "Empirische Schul- und Unterrichtsforschung" an. Sein Forschungsinteresse gilt der kooperativen Unterrichtsentwicklung. Das Modul 05-BWI-02 (SPS) "Praxis- und Studienfeld Schule“ ist Schwerpunkt seiner Lehrtätigkeit. Außerdem wirkt er an der Mentorenqualifizierung im Freistaat Sachsen mit.
 <p style="padding-left: 165px;"><span style="text-decoration: underline;">Arbeitsschwerpunkte und Forschungsinteressen</span><br>
- - Kooperation von Wissenschaftler*innen und Lehrer*innen im Rahmen didaktischer Entwicklungsforschung<br>
-- Unterrichtsentwicklung und Unterrichtsforschung, insbesondere kooperative Formate (z.B. Design-Based Research, Lesson Study, Professional Learning Communities<br>
+ - Kooperation von Wissenschaftler*innen und Lehrer*innen im Rahmen didaktischer&nbsp;Entwicklungsforschung<br>
+- Unterrichtsentwicklung und Unterrichtsforschung, insbesondere kooperative Formate (z.B. Design-&nbsp;Based Research, Lesson Study, Professional Learning Communities<br>
 - Theorie-Praxis-Beziehungen / Innovations- und Transferforschung<br>
 - Schul- und Unterrichtsentwicklung in internationalen und interkulturellen Kontexten<br>
 - Schulpraktische Studien: Praxis- und Studienfeld Schule (Bildungswissenschaft)<br>
@@ -628,6 +628,50 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 <h3><img style="float: left; margin: 0px 15px 15px 0px; border-radius: 50%;" src="assets/images/Lugovaya.jpg" width="150" hight="200"/>Anna Lugovaya</h3>
 <p><b>Studentische Hilfskraft</b></p>
 <p style="padding-left: 165px;">Anna Lugovaya studiert Lehramt an Grundschulen mit dem Kernfach Ethik und dem Lehramtserweiterungsfach Deutsch als Zweitsprache. An der Professur "Empirische Schul- und Unterrichtsforschung" ist sie als studentische Hilfskraft tätig. <br style="clear: both;"/>
+
+<script type="text/javascript">
+//<![CDATA[
+function swap(openlink,closelink, linkid, dataid)
+{
+if( document.getElementById(dataid).style.display == 'none')
+{
+document.getElementById(dataid).style.display='inline';
+document.getElementById(linkid).firstChild.nodeValue=closelink;
+} else
+{
+document.getElementById(dataid).style.display='none';
+document.getElementById(linkid).firstChild.nodeValue=openlink;
+}
+}
+//]]>
+</script>
+<table class="tab24" align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr bgcolor="#BDBDBD">
+<td width="33%" height="30" style="padding-left:15px; padding-right:15px;">
+<b>Kontakt und Weiteres</b>
+</td>
+<td align="right" width="33%" style="padding-left:15px; padding-right:15px;">
+<a href="#swap" onclick="javascript:swap('Einblenden','Ausblenden', 'swaplink9', 'hideme9')" id="swaplink9" onfocus="this.blur()" name="swaplink9">Einblenden</a>
+</td>
+</tr> 
+<tr style=" text-align: justify; font-size: 14px; font-weight: normal; background-color: rgb(242,242,242);">
+<td colspan="3" style="padding-left:15px; padding-right:15px;">
+<div id="hideme9" style="display:none">
+<br /> 
+<div align="center">
+</div> 
+  <p><b>E-Mail:</b> <a href="mailto:empschul_hiwi@uni-leipzig.de">empschul_hiwi@uni-leipzig.de</a><br>
+  <b>Raum:</b> 009<br></p>
+</div>
+</td>
+</tr>
+</table>
+
+<!--Hawlitschek-->
+
+<h3><img style="float: left; margin: 0px 15px 15px 0px; border-radius: 50%;" src="assets/images/Hawlitschek.jpg" width="150" hight="200"/>Patrick Hawlitschek</h3>
+<p><b>Studentische Hilfskraft</b></p>
+<p style="padding-left: 165px;">Patrick Hawlitschek studiert die Studiengänge Lehramt an Gymnasien (Deutsch/Ethik) und Soziologie an der Universität Leipzig. An der Professur für Empirische Schul- und Unterrichtsforschung ist er als Studentische Hilfskraft tätig. Seine Interessen liegen in den Methoden der empirischen Sozialforschung und der angewandten Statistik. <br style="clear: both;"/>
 
 <script type="text/javascript">
 //<![CDATA[
