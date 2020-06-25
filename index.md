@@ -39,7 +39,7 @@ layout: default
 		<article>
 			<span class="icon fa-user-plus"></span>
 			<div class="content">
-				<h3><a href="{{ 'info' | absolute_url }}">Mitmachen</a></h3>
+				<h3><a href="{{ 'studien' | absolute_url }}">Mitmachen</a></h3>
 				<p>Werde Teil eines unserer Projekte.</p>
 			</div>
 		</article>
