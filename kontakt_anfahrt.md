@@ -67,4 +67,4 @@ title: Kontakt und Anfahrt
 
 <p>&nbsp;</p>
 
-<h3>Wir freuen uns Sie kennezulernen!</h3> 
+<h3>Wir freuen uns Sie kennenzulernen!</h3> 
