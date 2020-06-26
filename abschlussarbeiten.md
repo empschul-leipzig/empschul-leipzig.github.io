@@ -6,7 +6,7 @@ permalink: /arbeiten/
 
 **Haben Sie Interesse, Ihre Bachelor-, Master- oder Staatsexamensarbeit in unserem Arbeitsbereich der "Empirischen Schul- und Unterrichtsforschung" zu schreiben?**
 
-Wir bieten Ihnen:<br>
+**Wir bieten Ihnen:**<br>
 *	Mitarbeit in unseren laufenden Forschungsprojekten
 *	die Betreuung beim Verfassen einer wissenschaftlichen Arbeit in einem interessanten, interdisziplinären Forschungsumfeld
 
