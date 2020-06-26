@@ -6,10 +6,10 @@ permalink: /stellen/
 **Wir suchen zum nächstmöglichen Zeitpunkt studentische oder wissenschaftliche Hilfskräfte zur Mitarbeit in Lehre und Forschung an der Professur für "Empirische Schul- und Unterrichtsforschung".**
 
 **Aufgaben:**
-•	Unterstützung bei der Vor- und Nachbereitung von Lehrveranstaltungen (z. B. Moodle)
-•	Literaturrecherche und Pflege von Literaturdatenbanken
-•	Rekrutierung von Probanden für Forschungsprojekte
-•	Mithilfe bei der Datenerhebung,- aufbereitung und –auswertung
+*	Unterstützung bei der Vor- und Nachbereitung von Lehrveranstaltungen (z. B. Moodle)
+*	Literaturrecherche und Pflege von Literaturdatenbanken
+*	Rekrutierung von Probanden für Forschungsprojekte
+*	Mithilfe bei der Datenerhebung,- aufbereitung und –auswertung
 
 **Voraussetzungen:**	  
 *	Studierende der Erziehungswissenschaften, Psychologie oder verwandte Fachbereiche
