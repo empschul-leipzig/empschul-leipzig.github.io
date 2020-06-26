@@ -98,7 +98,7 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
       </div>
 
   <p><b>Publikationen und Vorträge</b></p>
-  Klicken Sie hier:<a href="/assets/pdfs/Deiglmayr_Publikationen.pdf">[&rarr; PDF]</a></li>
+  Klicken Sie hier:<a href="/assets/pdfs/Publikationen_Deiglmayr.pdf">[&rarr; PDF]</a>
 
 </div>
 </td>
