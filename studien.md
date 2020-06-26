@@ -3,9 +3,8 @@ layout: page
 title: Teilnahme an Studien
 ---
 
-<p>Wir freuen uns über ihr Interesse, an einem Forschungsprojekt der "Professur für Empirische Schul- und Unterrichtsforschung" mitzuwirken. In Kürze finden Sie hier detaillierte Informationen rund um das Projekt, unsere Forschungsethik sowie die Teilnahme an der Studie.</p>
+<p><b>Vielen Dank für Ihr Interesse an unseren Forschungsprojekten!</b></p>
+<p>Kontaktieren Sie uns gern per <a href="mailto:empschul_hiwi@uni-leipzig.de">E-Mail</a> oder Telefon <a href="tel:+4903419731570">(+49 (0) 341 97-31570)</a>.</p> 
+<p>Sie erhalten dann ausführliche Informationen zum Thema und zur Durchführung der Studie, sodass Sie entscheiden können, ob Sie an der Studie teilnehmen und einen Termin vereinbaren möchten.</p>
 
-<p>In der Zwischenzeit können Sie uns gern per <a href="mailto:empschul@uni-leipzig.de">E-Mail</a> kontaktieren.</p>
 
-
-<p>Vielen Dank!</p>
