@@ -30,10 +30,10 @@ layout: default
 			</div>
 		</article>
 		<article>
-			<span class="icon fa-balance-scale"></span>
+			<span class="icon fa-book"></span>
 			<div class="content">
-				<h3><a href="{{ 'ethik' | absolute_url }}">Forschungsethik</a></h3>
-				<p>Erhalte Einblick in unsere Forschungsethik.</p>
+				<h3><a href="{{ 'pubs' | absolute_url }}">Publikationen</a></h3>
+				<p>Erhalte Einblick in die Publikationen der Abteilung.</p>
 			</div>
 		</article>
 		<article>
