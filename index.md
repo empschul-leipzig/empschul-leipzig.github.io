@@ -32,7 +32,7 @@ layout: default
 		<article>
 			<span class="icon fa-book"></span>
 			<div class="content">
-				<h3><a href="{{ 'pubs' | absolute_url }}">Publikationen</a></h3>
+				<h3><a href="{{ 'publikationen' | absolute_url }}">Publikationen</a></h3>
 				<p>Erhalte Einblick in die Publikationen der Abteilung.</p>
 			</div>
 		</article>
