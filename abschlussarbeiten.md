@@ -20,7 +20,8 @@ In folgenden **Forschungsprojekten** ist das Verfassen einer wissenschaftlichen 
 *	Anschreiben mit Darlegung der Motivation für eine wissenschaftliche Abschlussarbeit im gewählten Projekt
 *	geplanter Abgabetermin Ihrer Abschlussarbeit
 
-Die jeweiligen **Fristen für die Bewerbung um eine Staatsexamensarbeit** richten sich nach dem Semester, in dem Sie Ihre Abschlussarbeit abgeben wollen.  
+Die jeweiligen **Fristen für die Bewerbung um eine Staatsexamensarbeit** richten sich nach dem Semester, in dem Sie Ihre Abschlussarbeit abgeben wollen:
+
 Für einen Abschluss…
 *	im SoSe 2020 melden Sie sich bitte bis spätestens 15. September 2020
 *	im WiSe 2020/21 melden Sie sich bitte bis spätestens 15. Januar 2021
