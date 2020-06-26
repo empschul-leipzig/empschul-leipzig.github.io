@@ -6,6 +6,8 @@
 
 * Put images in the assets/images folder.
 
+* Put pdf-files in the assets/pdfs folder.
+
   **banner for project sites**
   - format: .jpg
   - width: 1280
