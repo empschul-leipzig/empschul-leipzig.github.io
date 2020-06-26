@@ -98,7 +98,7 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
       </div>
 
   <p><b>Publikationen und Vorträge</b></p>
-  Klicken Sie <a href="https://empschul-leipzig.github.io/publikationen/#Deiglmayr">hier.</a>
+  Klicken Sie hier:<a href="/assets/pdfs/Deiglmayr_Publikationen.pdf">[&rarr; PDF]</a></li>
 
 </div>
 </td>
@@ -216,7 +216,7 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
   <b>Webseite:</b> <a href="https://gregorkachel.github.io">https://gregorkachel.github.io</a></p>
 
   <p><b>Publikationen</b></p>
-  Klicken Sie <a href="https://empschul-leipzig.github.io/publikationen/#Kachel">hier.</a>
+  Klicken Sie <a href="https://gregorkachel.github.io/#two">hier.</a>
 </div>
 </td>
 </tr>
