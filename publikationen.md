@@ -40,7 +40,7 @@ Plesch, C., **Deiglmayr, A.**, Mullins, D., & Spada, H. (2014). Future core rese
 
 **Meier, A.**, Spada, H., & Rummel, N. (2007). A rating scheme for assessing the quality of computer-supported collaboration processes. *International Journal of Computer-Supported Collaborative Learning*, 2(1), 63-86. [DOI: 10.1007/s11412-006-9005-x](https://link.springer.com/article/10.1007%2Fs11412-006-9005-x)
 
-<h2>Publikationen ohne Peer-Review</h2>
+<h2>Buchkapitel und weitere Publikationen</h2>
 
 Ziegler, E., **Deiglmayr, A.**, Schalk, L., & Stern, E. (2018). Kognitive Entwicklung im Jugendalter. In: B. Gniewosz & P. Titzmann (Hrsg.): *Handbuch Jugend* (S. 165-183). Stuttgart: Kohlhammer.
 
@@ -60,7 +60,7 @@ Rummel, N. & **Meier, A.** (2008). Common Ground und Grounding. In N. Krämer, S
 
 Hauser, S., Spada, H., Rummel, N., & **Meier, A.** (2007). Kooperation über räumliche und fachliche Grenzen hinweg – Probleme und Lösungsmöglichkeiten. In: G. Schneider, B. Couné, C. Gayer, E. Vögele, & C. Weber (Eds.). *Neue Medien als Schrittmacher an der Universität Freiburg. Wie Informations- und Kommunikationstechnologien Studium, Verwaltung und Forschung verändern* (S. 355-364). Freiburg: Universitätsbibliothek.
 
-<h2>Publikationen in Konferenzbänden</h2>
+<h2>Konferenzbeiträge</h2>
 
 Peteranderl., S., & **Deiglmayr, A.** (2019). Does Physics instruction in elementary school boost the learning of experimentation skills? Gemeinsame Tagung der Fachgruppen Pädagogische und Entwicklungspsychologie (paePsy) 2019, Leipzig, Deutschland.
 
