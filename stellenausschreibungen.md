@@ -24,7 +24,7 @@ permalink: /stellen/
 * 9,45 €/h (SHK) 
 * 14,97 €/h (WHK)
  
-Wenn Sie Interesse haben melden Sie sich bitte bei <a href="https://empschul-leipzig.github.io/team#Kachel">Dr. Gregor Kachel</a> per <a href="mailto:gregor.kachel@uni-leipzig.de">E-Mail</a>.
+Wenn Sie **Interesse** haben melden Sie sich bitte bei <a href="https://empschul-leipzig.github.io/team#Kachel">Dr. Gregor Kachel</a> per <a href="mailto:gregor.kachel@uni-leipzig.de">E-Mail</a>.
 
 ***
 
@@ -38,5 +38,5 @@ Manuelle Codierung von Verhalten ist eine der aufwendigsten Aspekte empirischer 
 
 BerwerberInnen sollten Erfahrung mit Python, R, und Github (evtl. Studium der Informatik), sowie Interesse an automatisierter Objekt- und Gestenerkennung haben. Wir möchten ausschließlich mit Open Source Software arbeiten und auch unsere Arbeit frei verfügbar machen. Für die allermeisten Aufgaben, welche sich im Rahmen der Tätigkeit ergeben, gibt es bereits verschiedene Lösungen für OpenPose und YOLO, die auf die Anwendung in der Bildungsforschung angepasst werden müssen.
 
-Wenn Sie Interesse haben melden Sie sich bitte bei <a href="https://empschul-leipzig.github.io/team#Kachel">Dr. Gregor Kachel</a> per <a href="mailto:gregor.kachel@uni-leipzig.de">E-Mail</a>.
+Wenn Sie **Interesse** haben melden Sie sich bitte bei <a href="https://empschul-leipzig.github.io/team#Kachel">Dr. Gregor Kachel</a> per <a href="mailto:gregor.kachel@uni-leipzig.de">E-Mail</a>.
 
