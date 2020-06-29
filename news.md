@@ -10,8 +10,7 @@ title: News
 Am Lehrstuhl für "Empirische Schul- und Unterrichtsforschung" untersuchen wir aktuell, wie junge und erfahrene Lehrer sich im Unterrichtskontext bewegen, Gestik einsetzen und ihre Aufmerksamkeit verteilen. Gegenwärtig versuchen wir klassische Verhaltensanalysen mit automatisierter Audio- und Videoanalyse zu kombinieren und Gesten- und Objekterkennungssoftware für die Bildungsforschung nutzbar zu machen.
  
 ***
-## Vergangene und Aktuelle Veranstaltungen
 
-*Derzeit liegen keine aktuellen Ankündigungen und Termine für Veranstaltungen vor.*
+**Dies Award, 02.12.2019**
 
-***
+<p><span class="image left"><img src="assets/images/Dies_Award.jpg" alt="" /></span>Beim diesjährigen "Dies Academicus" hat das Poster <a href="/assets/pdfs/Frohberg_Poster_2019_12_02.pdf">[&rarr; PDF]</a> von Franziska Frohberg den Posterpreis "Dies Award" gewonnen.</p>
