@@ -4,7 +4,7 @@ title: Team
 ---
 
 <!--Deiglmayr-->
-<artivle id="Deiglmayr">
+<article id="Deiglmayr">
 <h3><img style="float: left; margin: 0px 15px 15px 0px; border-radius: 50%;" src="assets/images/Deiglmayr.jpg" width="150" hight="200" />Prof. Dr. Anne Deiglmayr</h3>
 <p><b>Inhaberin der Professur</b></p>
 </artivle>
