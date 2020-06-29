@@ -13,4 +13,4 @@ Am Lehrstuhl für "Empirische Schul- und Unterrichtsforschung" untersuchen wir a
 
 **Dies Award, 02.12.2019**
 
-<p><img align=left src="assets/images/Dies_Award.jpg" alt="Dies Award 2019" width="150" hight="200"/>Beim diesjährigen "Dies Academicus" hat das Poster <a href="/assets/pdfs/Frohberg_Poster_2019_12_02.pdf">[&rarr; PDF]</a> von Franziska Frohberg den Posterpreis "Dies Award" gewonnen.</p>
+<p><img style="float: left; margin: 0px 15px 15px 0px;" src="assets/images/Dies_Award.jpg" width="150" hight="200"/>Beim "Dies Academicus 2019" hat das Poster <a href="/assets/pdfs/Frohberg_Poster_2019_12_02.pdf">[&rarr; PDF]</a> von Franziska Frohberg den Posterpreis "Dies Award" gewonnen.</p>
