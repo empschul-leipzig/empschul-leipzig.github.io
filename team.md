@@ -98,7 +98,7 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
       </div>
 
   <p><b>Publikationen und Vorträge</b></p>
-  Klicken Sie hier:<a href="/assets/pdfs/Publikationen_Deiglmayr.pdf">[&rarr; PDF]</a>
+  Klicken Sie hier: <a href="/assets/pdfs/Publikationen_Deiglmayr.pdf">[&rarr; PDF]</a>
 
 </div>
 </td>
@@ -216,7 +216,7 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
   <b>Webseite:</b> <a href="https://gregorkachel.github.io">https://gregorkachel.github.io</a></p>
 
   <p><b>Publikationen</b></p>
-  Klicken Sie <a href="https://gregorkachel.github.io/#two">hier.</a>
+  Klicken Sie hier: <a href="/assets/pdfs/Publikationen_Kachel.pdf">[&rarr; PDF]</a>
 </div>
 </td>
 </tr>
