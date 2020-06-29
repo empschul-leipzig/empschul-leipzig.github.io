@@ -7,7 +7,7 @@ title: Team
 <article id="Deiglmayr">
 <h3><img style="float: left; margin: 0px 15px 15px 0px; border-radius: 50%;" src="assets/images/Deiglmayr.jpg" width="150" hight="200" />Prof. Dr. Anne Deiglmayr</h3>
 <p><b>Inhaberin der Professur</b></p>
-</artivle>
+</article>
 <p style="padding-left: 165px;">Prof. Dr. Anne Deiglmayr ist seit 12/2018 Inhaberin der Professur „Empirische Schul- und Unterrichtsforschung“ an der Erziehungswissenschaftlichen Fakultät der Universität Leipzig.<br>
 Ihre Forschungsschwerpunkte umfassen u.a. Methoden der mobilen Unterrichtsforschung, die Professionsentwicklung von Lehrpersonen, Lehr- und Lernprozesse beim (computergestützten) kooperativen Lernen, sowie die Förderung des Lehrens und Lernens im MINT-Unterricht.<br>
 Prof. Deiglmayr bietet Lehrveranstaltungen im Bereich der bildungswissenschaftlichen Module der Lehramtsstudiengänge (insbesondere Modul 02 „Praxis- und Studienfeld Schule“) sowie im Bereich der Ergänzungsstudien an (insbesondere zu Methoden der empirischen Sozialforschung).<br style="clear: both;" />
@@ -98,7 +98,7 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
       </div>
 
   <p><b>Publikationen und Vorträge</b></p>
-  Klicken Sie hier:<a href="/assets/pdfs/Publikationen_Deiglmayr.pdf">[&rarr; PDF]</a>
+  Klicken Sie hier: <a href="/assets/pdfs/Publikationen_Deiglmayr.pdf">[&rarr; PDF]</a>
 
 </div>
 </td>
@@ -216,7 +216,7 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
   <b>Webseite:</b> <a href="https://gregorkachel.github.io">https://gregorkachel.github.io</a></p>
 
   <p><b>Publikationen</b></p>
-  Klicken Sie <a href="https://gregorkachel.github.io/#two">hier.</a>
+  Klicken Sie hier: <a href="/assets/pdfs/Publikationen_Kachel.pdf">[&rarr; PDF]</a>
 </div>
 </td>
 </tr>
