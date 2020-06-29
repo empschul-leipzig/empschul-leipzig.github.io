@@ -13,4 +13,4 @@ Am Lehrstuhl für "Empirische Schul- und Unterrichtsforschung" untersuchen wir a
 
 **Dies Award, 02.12.2019**
 
-<p><img style="float: left; margin: 0px 15px 15px 0px;" src="assets/images/Dies_Award.jpg" width="150" hight="200"/>Beim "Dies Academicus 2019" hat das Poster, mit dem Titel "Implizite Theorien von Intelligenz bei Lehramtsstudierendenvon" <a href="/assets/pdfs/Frohberg_Poster_2019_12_02.pdf">[&rarr; PDF]</a>, von Franziska Frohberg den Posterpreis "Dies Award" gewonnen.</p>
+<p><img style="float: left; margin: 0px 15px 15px 0px;" src="assets/images/Dies_Award.jpg" width="150" hight="200"/>Beim "Dies Academicus 2019" hat das Poster "Implizite Theorien von Intelligenz bei Lehramtsstudierendenvon" <a href="/assets/pdfs/Frohberg_Poster_2019_12_02.pdf">[&rarr; PDF]</a> von Franziska Frohberg den Posterpreis "Dies Award" gewonnen.</p>
