@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Teilnahme an Studien
-images: assets/images/unterricht.jpg
+image: assets/images/unterricht.jpg
 ---
 
 <p><b>Vielen Dank für Ihr Interesse an unseren Forschungsprojekten!</b></p>
