@@ -33,7 +33,7 @@ title: Kontakt und Anfahrt
         Dittrichring 5-7<br>
         04109 Leipzig</p>
         <p>Tel.: +49 (0) 341 97-31570<br>  
-        E-Mail: <a href="empschul@uni-leipzig.de">empschul@uni-leipzig.de</a><br> Sprechzeit: Mittwoch 09:00 - 12:00 Uhr</p>
+        E-Mail: <a href="empschul@uni-leipzig.de">empschul@uni-leipzig.de</a><br> Sprechzeit: Mittwoch 09:00-12:00 Uhr</p>
     </div>
 </div>
 
@@ -67,4 +67,4 @@ title: Kontakt und Anfahrt
 
 <p>&nbsp;</p>
 
-<h3>Wir freuen uns Sie kennenzulernen!</h3> 
+<h3>Wir freuen uns, Sie kennenzulernen!</h3> 
