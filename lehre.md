@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Lehrveranstaltungen
-permalink: /lehre/
+permalink: /lehre
+image: asstest/images/lehrveranstaltung.jpg
 ---
 
 <h3>Modulverantwortung: <a href="https://empschul-leipzig.github.io/team#Deiglmayr">Prof. Dr. Anne Deiglmayr</a></h3> 
