@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Wissenschaftliche Abschlussarbeiten
+title: Abschlussarbeiten
 permalink: /arbeiten
 image: assets/images/abschlussarbeit .jpg
 ---
