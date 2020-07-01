@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Stellenausschreibungen
-permalink: /stellen/
+permalink: /stellen
+image: assets/images/bewerbung.jpg
 ---
 **Wir suchen zum nächstmöglichen Zeitpunkt studentische oder wissenschaftliche Hilfskräfte zur Mitarbeit in Lehre und Forschung an der Professur für "Empirische Schul- und Unterrichtsforschung".**
 
