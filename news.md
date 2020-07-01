@@ -3,7 +3,7 @@ layout: page
 title: News
 ---
 
-## Ankündigungen und Termine
+## Ankündigungen, Termine und Veranstaltungen
 
 **[Aktuelles Forschungsprojekt](https://empschul-leipzig.github.io/projekte)**
 
@@ -13,4 +13,4 @@ Am Lehrstuhl für "Empirische Schul- und Unterrichtsforschung" untersuchen wir a
 
 **Dies Award, 02.12.2019**
 
-<p><img style="float: left; margin: 0px 15px 15px 0px;" src="assets/images/Dies_Award.jpg" width="150" hight="200"/>Beim "Dies Academicus 2019" hat das Poster "Implizite Theorien von Intelligenz bei Lehramtsstudierendenvon" <a href="/assets/pdfs/Frohberg_Poster_2019_12_02.pdf">[&rarr; PDF]</a> von Franziska Frohberg den Posterpreis "Dies Award" gewonnen.</p>
+<p><img style="float: left; margin: 0px 15px 15px 0px;" src="assets/images/Dies_Award.jpg" width="150" hight="200"/>Alljährlich feiert die Universität Leipzig den akademischen Feiertag "Dies academicus". Die Erziehungswissenschaftliche Fakultät verleiht in jedem Jahr an diesem Tag den Posterpreis "Dies Award". Den diesjährigen Preis erhielt unsere Mitarbeiterin Franziska Frohberg für ihr Poster zum Thema "Implizite Theorien von Intelligenz bei Lehramtsstudierendenvon" <a href="/assets/pdfs/Frohberg_Poster_2019_12_02.pdf">[&rarr; PDF]</a>.</p>
