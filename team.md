@@ -430,7 +430,7 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 
 <h3><img style="float: left; margin: 0px 15px 15px 0px; border-radius: 50%;" src="assets/images/de_Groote.jpg" width="150" hight="200"/>Carola de Groote</h3>
 <p><b>Abgeordnete Lehrerin</b></p>
-<p style="padding-left: 165px;">Carola de Groote lehrt als abgeordnete Lehrerin in den Modulen 1 und 2 am Institut für Bildungswissenschaften an der Professur für Empirische Schul- und Unterrichtsforschung an der Universität Leipzig und bringt hier ihre 25-jährige gymnasiale Lehrtätigkeit ein.<br>
+<p style="padding-left: 165px;">Carola de Groote lehrt als abgeordnete Lehrerin in den Modulen 1 und 2 am Institut für Bildungswissenschaften an der Professur für "Empirische Schul- und Unterrichtsforschung" an der Universität Leipzig und bringt hier ihre 25-jährige gymnasiale Lehrtätigkeit ein.<br>
 Im Mittelpunkt ihrer Forschungsinteressen stehen Begabungsförderung an Regelschulen, begabungsförderlicher Unterricht sowie Schulentwicklung.<br style="clear: both;"/>
 
 <script type="text/javascript">
@@ -583,7 +583,7 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 
 <h3><img style="float: left; margin: 0px 15px 15px 0px; border-radius: 50%;" src="assets/images/Schmidtke.jpg" width="150" hight="200"/>Anna Schmidtke</h3>
 <p><b>Studentische Hilfskraft</b></p>
-<p style="padding-left: 165px;">Anna Schmidtke studiert Höheres Lehramt an Gymnasien mit den Fächern Deutsch und Ethik an der Universität Leipzig. Sie ist als studentische Hilfskraft an der Professur für "Empirische Schul- und Unterrichtsforschung" tätig.<br style="clear: both;"/>
+<p style="padding-left: 165px;">Anna Schmidtke studiert den Studiengang Höheres Lehramt an Gymnasien mit den Fächern Deutsch und Ethik an der Universität Leipzig. An der Professur für "Empirische Schul- und Unterrichtsforschung" ist sie als studentische Hilfskraft tätig.<br style="clear: both;"/>
 
 <script type="text/javascript">
 //<![CDATA[
@@ -671,7 +671,7 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 
 <h3><img style="float: left; margin: 0px 15px 15px 0px; border-radius: 50%;" src="assets/images/Hawlitschek.jpg" width="150" hight="200"/>Patrick Hawlitschek</h3>
 <p><b>Studentische Hilfskraft</b></p>
-<p style="padding-left: 165px;">Patrick Hawlitschek studiert die Studiengänge Lehramt an Gymnasien (Deutsch/Ethik) und Soziologie an der Universität Leipzig. An der Professur für Empirische Schul- und Unterrichtsforschung ist er als Studentische Hilfskraft tätig. Seine Interessen liegen in den Methoden der empirischen Sozialforschung und der angewandten Statistik. <br style="clear: both;"/>
+<p style="padding-left: 165px;">Patrick Hawlitschek studiert die Studiengänge Lehramt an Gymnasien (Deutsch/Ethik) und Soziologie an der Universität Leipzig. An der Professur für "Empirische Schul- und Unterrichtsforschung" ist er als Studentische Hilfskraft tätig. Seine Interessen liegen in den Methoden der empirischen Sozialforschung und der angewandten Statistik. <br style="clear: both;"/>
 
 <script type="text/javascript">
 //<![CDATA[
