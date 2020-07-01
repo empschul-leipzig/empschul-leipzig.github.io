@@ -2,7 +2,7 @@
 layout: page
 title: Wissenschaftliche Abschlussarbeiten
 permalink: /arbeiten
-image: assets/images/abschlussarbeit.jpg
+image: assets/images/abschlussarbeit .jpg
 ---
 
 **Haben Sie Interesse, Ihre Bachelor-, Master- oder Staatsexamensarbeit in unserem Arbeitsbereich der "Empirischen Schul- und Unterrichtsforschung" zu schreiben?**
