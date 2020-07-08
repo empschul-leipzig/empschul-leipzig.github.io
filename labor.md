@@ -13,3 +13,11 @@ permalink: /labor/
 
 <p>Die während des Unterrichts verwendeten Materialien werden von uns abfotografiert. Ferner wird der Unterricht von einem vorher trainierten Mitarbeitenden live codiert, um unterrichtsrelevante Ereignisse zu erfassen. Im Anschluss an jede aufgezeichnete Unterrichtseinheit ist es angedacht, Schüler*innen wie Lehrpersonen mittels Fragebogen zu verschiedenen Dimensionen der Unterrichtsqualität zu befragen.</p>
 
+***
+
+**ACHTUNG!**
+
+Gegenwärtig suchen wir Teilnehmende für ein Projekt, welches darauf abzielt zu untersuchen, worauf Lehrkräfte während des Unterrichtens achten und wie sie auf Schüler und Schülerinnen wirken. Ziel der Untersuchung ist es, verschiedene mehrkanalige Daten wie Eye-Tracking-, Audio- und Videodaten während des Unterrichtens zu sammeln.
+
+Konten wir Ihr Interesse wecken?
+Dann kontaktieren Sie uns gern! Weitere Informationen zur Studie und den Kontaktangaben finden Sie im offiziellen Einladungsschreiben <a href="/assets/pdfs/Einladung_Pilotstudie.pdf">[&rarr; PDF]</a> oder unter [Studenteilnahme](https://empschul-leipzig.github.io/studien).
