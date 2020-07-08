@@ -5,13 +5,12 @@ title: News
 
 ## Ankündigungen, Termine und Veranstaltungen
 
+***
+
 **Einladung zur Studienteilnahme**
 
 Der Startschuss für unsere erste Studie ist gefallen!    
-Das Projekt zielt darauf ab zu untersuchen, worauf Lehrkräfte während des Unterrichtens achten und wie sie auf Schüler und Schülerinnen wirken. Im Rahmen der Arbeitsgruppe möchten wir nun eine erste Untersuchung starten und dazu brauchen wir Ihre Hilfe:
-
-Sie sind als Lehrer oder Leherin tätig oder möchten es gerne werden?  
-Sie haben bereits Lehrerfahrung sammeln können? Umso besser!  
+Das Projekt zielt darauf ab zu untersuchen, worauf Lehrkräfte während des Unterrichtens achten und wie sie auf Schüler und Schülerinnen wirken. Ziel dabei ist es, verschiedene mehrkanalige Daten wie Eye-Tracking-, Audio- und Videodaten während des Unterrichtens zu sammeln. Im Rahmen der Arbeitsgruppe möchten wir nun eine erste Untersuchung starten und dazu brauchen wir Ihre Hilfe:
 
 Wir suchen Lehrpersonen, die im Schuldienst arbeiten und Lust darauf haben, in der Forschung mitzuwirken, um die Brücke zwischen Praxis und Theorie zu stärken. 
 
