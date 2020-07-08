@@ -22,8 +22,8 @@ image: assets/images/bewerbung.jpg
 *	Anstellung für mind. 1 Jahr wünschenswert
 
 **Vergütung:**	  
-* 9,45 €/h (SHK) 
-* 14,97 €/h (WHK)
+* 10,49 €/h (SHK) 
+* 16,60 €/h (WHK)
  
 Wenn Sie **Interesse** haben melden Sie sich bitte bei <a href="https://empschul-leipzig.github.io/team#Kachel">Dr. Gregor Kachel</a> per <a href="mailto:gregor.kachel@uni-leipzig.de">E-Mail</a>.
 
