@@ -16,7 +16,7 @@ title: Mobiles Labor
 
 <p>Die folgende Abbildung gibt einen Überblick über die von uns verwendeten Methoden und ihrer Anordnung im Klassenraum:</p>
 
-<img src="assets/images/Banner_Labor.png" alt="" style="float:central;">
+<img src="assets/images/Banner_Labor.png" alt="">
 
 
 ***
