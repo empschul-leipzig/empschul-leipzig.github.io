@@ -83,13 +83,5 @@ layout: default
 				<li><a href="https://empschul-leipzig.github.io/projekte#Kachel" class="button">Mehr</a></li>
 			</ul>
 		</article>
-		<article>
-			<a href="#" class="image"><img src="" alt="" /></a>
-			<h3>Platzhalter 4</h3>
-			<p>In Bearbeitung.</p>
-			<ul class="actions">
-				<li><a href="#" class="button">Mehr</a></li>
-			</ul>
-		</article>
 	</div>
 </section>
