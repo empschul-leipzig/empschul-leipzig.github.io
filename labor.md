@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Mobiles Labor
-permalink: /labor/
 ---
 <p>In unserer Forschung geht es uns darum, Lehr- und Lernprozesse im schulischen Kontext sichtbar zu machen. Wir möchten u.a. wissen, wie Lehrkräfte und SchülerInnen im Unterricht miteinander interagieren, worauf Lehrpersonen ihre Aufmerksamkeit richten und wodurch sich erfahrene Lehrkräfte von unerfahrenen unterscheiden. Um diesen und weiteren Fragen nachzugehen, sind wir aktuell dabei, ein mobiles Labor zu entwickeln, um verschiedene Audio- und Videodaten zu erheben, die später automatisch analysiert werden können.</p>
 
