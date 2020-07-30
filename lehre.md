@@ -48,8 +48,9 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
   			<li>kennen die Besonderheiten ihres späteren Tätigkeitsfeldes Schule.</li>
   			<li> kennen Verfahren der Erkundung der Schule und wenden diese für die Beschreibung und Analyse der Praktikumsschule an.</li>
  			<li>kennen Verfahren der Unterrichtsbeobachtung und wenden diese für die Beschreibung und Analyse des Unterrichts unter allgemein didaktischen Gesichtspunkten an.</li>
- 			<li>bereiten unter allgemein didaktischen Gesichtspunkten und unter Anleitung von schulischen Mentor/innen Unterrichtssequenzen vor, führen sie durch und reflektieren sie.</li>
- 			<li>kennen Belastungen im Lehrer/inberuf und Strategien für deren Bewältigung, analysieren  Aufgaben der Lehrkräfte im Schulalltag und reflektieren den Wechsel von der Schüler/in- zur Lehrer/inrolle und die Berufswahlentscheidung.</li>
+ 			<li>bereiten unter allgemein didaktischen Gesichtspunkten und unter Anleitung von schulischen Mentoren und Mentorinnen Unterrichtssequenzen vor, führen sie durch und reflektieren sie.</li>
+ 			<li>kennen Belastungen im Beruf von Lehrpersonen und Strategien für deren Bewältigung.</li>
+      <li>analysieren  Aufgaben der Lehrkräfte im Schulalltag und reflektieren den Wechsel von der Rolle der Schüler und Schülerinnen zur Rolle der Lehrkräfte und die Berufswahlentscheidung.</li>
 	    </ul>
     </p>
 
@@ -111,21 +112,21 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 </div> 
 
  <h4>Modulziele</h4>
- 	<p>Die Studierenden werden...<br>
+ 	<p>Die Studierenden...<br>
         <ul>
-  			<li>die relevanten methodologischen Grundlagen der qualitativen empirischen Sozialforschung kennenlernen.</li>
-  			<li> Kompetenzen erwerben, wissenschaftliche Forschungsergebnisse aus der qualitativen Sozialforschung kritisch zu beurteilen.</li>
- 			<li>qualitative Verfahren und ihre Auswertungsmethoden kennenlernen, dies betrifft insbesondere Interviewtechniken, Beobachtungsmethoden, Dokumentenanalysen.</li>
- 			<li>die methodologischen Grundlagen der qualitativen empirischen Sozialforschung/ der qualitativen empirischen Schul- und Unterrichtsforschung sowie der Evaluation von Schule und Unterricht erarbeiten und vertiefen.</li>
- 			<li>angeleitet, diese in eigenen Projektdurchführungen zu erproben.</li>
- 			<li>sich mit Verfahren der internen und externen Evaluation von Institutionen beschäftigen.</li>
- 			<li>Prozesse der Schulentwicklung von schulischen und außerschulischen Institutionen verstehen.</li>
- 			<li>die Verfahren der Schulinspektion und Schulevaluation kennen.</li>
+  			<li>lernen die relevanten methodologischen Grundlagen der qualitativen empirischen Sozialforschung kennen.</li>
+  			<li> erwerben Kompetenzen, wissenschaftliche Forschungsergebnisse aus der qualitativen Sozialforschung kritisch zu beurteilen.</li>
+ 			<li>lernen qualitative Verfahren und ihre Auswertungsmethoden kennen, dies betrifft insbesondere Interviewtechniken, Beobachtungsmethoden, Dokumentenanalysen.</li>
+ 			<li>erarbeiten und vertiefen die methodologischen Grundlagen der qualitativen empirischen Sozialforschung bzw. der qualitativen empirischen Schul- und Unterrichtsforschung sowie der Evaluation von Schule und Unterricht.</li>
+ 			<li>werden angeleitet, diese in eigenen Projektdurchführungen zu erproben.</li>
+ 			<li>beschäftigen sich mit Verfahren der internen und externen Evaluation von Institutionen.</li>
+ 			<li>verstehen Prozesse der Schulentwicklung von schulischen und außerschulischen Institutionen.</li>
+ 			<li>kennen die Verfahren der Schulinspektion und Schulevaluation .</li>
 	    </ul>
     </p>
 
    <h4>Modulinhalt</h4>
-    <p>Das Modul führt in die Methodologie, die Methoden und die Forschungsprogramme sowie die grundlegenden Techniken der Auswertung der qualitativen empirischen Sozialforschung ein. Im Profilbereich werden darüber hinaus interne und externe schulische Evaluationsverfahren der Aktionsforschung vermittelt. Die Studierenden lernen die forschungsethischen Grundlagen kennen, die sie während der Datenerhebung und der Datenauswertung und ihrerPräsentation beachten müssen.</p>
+    <p>Das Modul führt in die Methodologie, die Methoden und die Forschungsprogramme sowie die grundlegenden Techniken der Auswertung der qualitativen empirischen Sozialforschung ein. Im Profilbereich werden darüber hinaus interne und externe schulische Evaluationsverfahren der Aktionsforschung vermittelt. Die Studierenden lernen die forschungsethischen Grundlagen kennen, die sie während der Datenerhebung und der Datenauswertung und ihrer Präsentation beachten müssen.</p>
     
    <h4>Modulturnus</h4>
 	<p>Das Modul wird in jedem Sommersemester angeboten.</p>

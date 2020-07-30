@@ -54,10 +54,10 @@ title: Kontakt und Anfahrt
 <p>Sie erreichen uns schnell und einfach mit dem Auto, dem ÖPNV, dem Fahrrad oder auch zu Fuß.</p>
 
 <h4>Auto:</h4>
-<p>Parkmöglichkeiten finden Sie in dem Parkhaus am Thomaskirchhof, dem Tief-Parkhaus in der Zentralstraße 7 oder dem Marthin-Luther-Ring Parkhaus in der Otto-Schill-Straße 3. Die Räumlichkeiten der Professur erreichen sie von dort aus binnen weniger Minunten zu Fuß.<p> 
+<p>Parkmöglichkeiten finden Sie in dem Parkhaus am Thomaskirchhof, dem Tief-Parkhaus in der Zentralstraße 7 oder dem Marthin-Luther-Ring Parkhaus in der Otto-Schill-Straße 3. Die Räumlichkeiten der Professur erreichen sie von dort aus binnen weniger Minuten zu Fuß.<p> 
 
 <h4>Öffentliche Verkehrsmittel:</h4>
-<p>Von der Haltestelle "Hauptbahnhof/ Tief" wählen Sie eine der <b>S-Bahnen</b> S1/ S2 Stötteritz, S3 Wurzen, S4 Markleeberg-Gaschwitz, S5/ S5X Zwickau Hbf oder S6 Borna bis zur Haltstelle "Markt". Die Räumlichkeiten der Professur erreichen sie von dort aus binnen weniger Minunten zu Fuß.</p>
+<p>Von der Haltestelle "Hauptbahnhof/ Tief" wählen Sie eine der <b>S-Bahnen</b> S1/ S2 Stötteritz, S3 Wurzen, S4 Markleeberg-Gaschwitz, S5/ S5X Zwickau Hbf oder S6 Borna bis zur Haltstelle "Markt". Die Räumlichkeiten der Professur erreichen sie von dort aus binnen weniger Minuten zu Fuß.</p>
 <p>Von der Haltestelle "Hauptbahnhof/ Westseite" können Sie die <b>Tram</b> 9 S-Bf. Connewitz bis zu zur Haltestelle "Thomaskirche" benutzen. Direkt gegenüber befindet sich das Gebäude mit den Räumlichkeiten der Professur.<br> 
 <b><span style="color:red">(ACHTUNG: derzeit aufgrund von aktuellen Baumaßnahmen am Goerdelerring nicht möglich!)</span></b></p>
 <p>Von der Haltestelle "Hauptbahnhof/ Goethestraße" können Sie aktuell die <b>Buslinie</b> 89 Connewitzer Kreuz bis zur Haltestelle "Thomaskirche" nutzen.</p>  
