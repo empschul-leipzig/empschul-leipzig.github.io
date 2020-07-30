@@ -24,6 +24,6 @@ Am Lehrstuhl für "Empirische Schul- und Unterrichtsforschung" untersuchen wir a
  
 ***
 
-**Dies Academicus, 02.12.2019**
+**Dies Academicus, 02.12.2019**  
 
-<p><img style="float: left; margin: 0px 15px 15px 0px;" src="assets/images/Dies_Award.jpg" width="150" hight="200" />Alljährlich feiert die Universität Leipzig den akademischen Feiertag "Dies academicus". Die Erziehungswissenschaftliche Fakultät verleiht in jedem Jahr an diesem Tag den Posterpreis "Dies Award". Den diesjährigen Preis erhielt unsere Mitarbeiterin Franziska Frohberg für ihr Poster zum Thema "Implizite Theorien von Intelligenz bei Lehramtsstudierenden" <a href="/assets/pdfs/Frohberg_Poster_2019_12_02.pdf">[&rarr; PDF]</a>.</p>
+Alljährlich feiert die Universität Leipzig den akademischen Feiertag "Dies academicus". Die Erziehungswissenschaftliche Fakultät verleiht in jedem Jahr an diesem Tag den Posterpreis "Dies Award". Den diesjährigen Preis erhielt unsere Mitarbeiterin Franziska Frohberg für ihr Poster zum Thema "Implizite Theorien von Intelligenz bei Lehramtsstudierenden" <a href="/assets/pdfs/Frohberg_Poster_2019_12_02.pdf">[&rarr; PDF]</a>.
