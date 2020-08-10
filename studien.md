@@ -15,15 +15,15 @@ image: assets/images/unterricht.jpg
 
 Unterricht ist ein komplexer Handlungsraum, in dem Lehrpersonen unmittelbar und gleichzeitig auf verschiedene Ereignisse reagieren müssen, in dem Moment, in dem sie entstehen. In unserer Forschung ist es uns ein wichtiges Anliegen, Lehr- und Lernprozesse sichtbar zu machen. Wir wollen jene komplexen, zwischenmenschlichen Akte, die im Unterricht ablaufen, besser verstehen, um aus den gewonnenen Erkenntnissen Konsequenzen für die Praxis abzuleiten.
 
-**Worum geht es?**
+**Worum geht es?**  
 Ein Projekt, mit dem wir uns derzeit beschäftigen, zielt darauf ab zu untersuchen, ***worauf Lehrkräfte während des Unterrichtens achten und wie sie auf Schüler und Schülerinnen wirken***. Im Rahmen der Arbeitsgruppe möchten wir nun eine erste Untersuchung starten und dazu brauchen wir Ihre Hilfe!
 
-**Wer kann teilnehmen?** 
+**Wer kann teilnehmen?**  
 Sie sind als Lehrer oder Lehrerin tätig oder möchten es gerne werden?  
 Sie haben bereits Lehrerfahrung sammeln können? Umso besser!
 Wir suchen ***Lehrpersonen***, die im Schuldienst arbeiten und Lust darauf haben, in der Forschung mitzuwirken, um die Brücke zwischen Praxis und Theorie zu stärken.
 
-**Was ist das Ziel?**
+**Was ist das Ziel?**  
 Ziel der Untersuchung ist es, verschiedene mehrkanalige Daten wie ***Eye-Tracking-, Audio- und Videodaten*** während des Unterrichtens zu sammeln.
 
 **Was erwartet Sie?**  
