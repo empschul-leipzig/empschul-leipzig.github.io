@@ -35,7 +35,7 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 <table class="tab24" align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
 <tr bgcolor="#BDBDBD">
 <td width="53%" height="30" style="padding-left:15px; padding-right:15px;">
-<b>Lernen durch Experimentieren – Evaluierung eines Testinstrument zur Erfassung der Experimentierkompetenz von 7.-9.-Klässlern</b>
+<b>Lernen durch Experimentieren – Evaluierung eines Testinstrument zur Erfassung der Experimentierkompetenz von 7.–9.-Klässlern</b>
 </td>
 <td align="right" width="13%" style="padding-left:15px; padding-right:15px;">
 <a href="#swap" onclick="javascript:swap('Einblenden','Ausblenden', 'swaplink', 'hideme')" id="swaplink" onfocus="this.blur()" name="swaplink">Einblenden</a>
@@ -149,7 +149,7 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 <table class="tab24" align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
 <tr bgcolor="#BDBDBD">
 <td width="53%" height="30" style="padding-left:15px; padding-right:15px;">
-<b>Symbolic Literacy – Symbolverstehen zwischen dem 2. Und 7. Lebensjahr</b>
+<b>Symbolic Literacy – Symbolverstehen zwischen dem 2. und 7. Lebensjahr</b>
 </td>
 <td align="right" width="13%" style="padding-left:15px; padding-right:15px;">
 <a href="#swap" onclick="javascript:swap('Einblenden','Ausblenden', 'swaplink3', 'hideme3')" id="swaplink3" onfocus="this.blur()" name="swaplink3">Einblenden</a>
@@ -166,7 +166,7 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
  <h4>Anforderungen</h4>
  	<p>Vorerfahrung im Umgang mit Vorschulkindern</p>
  <h4>Projektbeschreibung</h4>
- 	<p>Im Rahmen des DFG-Projektes Symbolic Literacy untersuchen wir, wie Klein- und Vorschulkinder konventionelle Symbole (Zahlen, Buchstaben, Ikone etc.) verstehen und wie gut sie darin sind, die Bedeutung unbekannter graphischer Symbole spontan zu erschließen. Die Arbeit in diesem Projekt setzt die Bereitschaft voraus, eigene Daten an Kindergärten oder in den Testräumen des MPI EVA oder online zu erheben. Vorerfahrung im Umgang mit jungen Kindern ist hierbei hilfreich. Die Studien werden als Bilderbuchgeschichten auf Touch-Screen-Laptops präsentiert. Die Programmierung und Analyse sowie die Kontakte zu Kindergärten und Teilnehmenden werden von uns bereit gestellt. Idealerweise hat man keine Angst vor der Statistiksoftware R.</p>
+ 	<p>Im Rahmen des DFG-Projektes Symbolic Literacy untersuchen wir, wie Klein- und Vorschulkinder konventionelle Symbole (Zahlen, Buchstaben, Ikone etc.) verstehen und wie gut sie darin sind, die Bedeutung unbekannter graphischer Symbole spontan zu erschließen. Die Arbeit in diesem Projekt setzt die Bereitschaft voraus, eigene Daten an Kindergärten oder in den Testräumen des MPI EVA oder online zu erheben. Die Studien werden als Bilderbuchgeschichten auf Touch-Screen-Laptops präsentiert. Die Programmierung und Analyse sowie die Kontakte zu Kindergärten und Teilnehmenden werden von uns bereit gestellt. Idealerweise hat man keine Angst vor der Statistiksoftware R.</p>
 </div>
 </td>
 </tr>
@@ -206,11 +206,11 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
  <h4>Ansprechperson</h4>
  	<p><a href="https://empschul-leipzig.github.io/team#Kachel">Dr. Gregor Kachel</a></p>  
  <h4>Anforderungen</h4>
- 	<p>Programmiererfahrung</p>
+ 	<p>Programmiererfahrung (Hintergund in Phython)</p>
  <h4>Projektbeschreibung</h4>
  	<p>Wir möchten Computer Vision Tools wie etwa Objekterkennung (Mask-RCNN,YOLO) und Gestenerkennung aus Pose Estimation (OpenPose, DensePose) für die empirische Bildungsforschung nutzbar machen. In diesem Projekt würden wir versuchen unter Verwendung bereits bestehender Videoaufnahmen realer Unterrichtseinheiten, einfache Forschungsfragen automatisiert mittels Computer Vision Tools zu beantworten:<br>
 	<i>Wie viele Personen sind in einem Raum? Wie viele von Ihnen stehen oder sitzen? Können wir Handmeldungen auszählen? Wie bewegen sich Lehrkräfte im Raum? Wie setzen sie Gestik ein?</i><br>
-	Die Wahl der Forschungsfrage ist dabei weitgehend offen. Es geht nicht darum selbst neue Analysemöglichkeiten zu entwickeln, sondern eher darum bestehende Analysemöglichkeiten an einer konkreten Forschungsfrage anzuwenden. Die Arbeit an diesem Projekt setzt Programmiererfahrung voraus oder zumindest die Bereitschaft, sich intensiv mit Programmierung auseinander zu setzen. Idealerweise verfügt man über einen Hintergrund in Python.</p>
+	Die Wahl der Forschungsfrage ist dabei weitgehend offen. Es geht nicht darum selbst neue Analysemöglichkeiten zu entwickeln, sondern eher darum bestehende Analysemöglichkeiten an einer konkreten Forschungsfrage anzuwenden.</p>
 </div>
 </td>
 </tr>
