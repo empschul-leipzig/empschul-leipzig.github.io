@@ -704,7 +704,7 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 <br /> 
 <div align="center">
 </div> 
-  <p><b>E-Mail:</b> <a href="mailto:empschul_hiwi@uni-leipzig.de">empschul_hiwi@uni-leipzig.de</a><br>
+  <p><b>E-Mail:</b> <a href="mailto:patrick.hawlitschek@uni-leipzig.de">empschul_hiwi@uni-leipzig.de</a><br>
   <b>Raum:</b> 009<br></p>
 </div>
 </td>
