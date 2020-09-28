@@ -5,7 +5,7 @@ title: Team
 <!--Team-->
 <p>Im Arbeitsbereich "Empirische Schul- und Unterrichtsforschung" lehren und forschen wissenschaftliche Mitarbeitende und abgeordnete Lehrpersonen unter der Leitung von Prof. Dr. Anne Deiglmayr. Wir werden dabei unterstützt durch unsere Sekretärin und unsere wissenschaftlichen und studentischen Hilfskräfte.</p>
 *** 
-<h3>Inhaberin der Professur</h3>
+<h2>Inhaberin der Professur</h2>
 ***
 <!--Deiglmayr-->
 <article id="Deiglmayr">
@@ -108,11 +108,9 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 </td>
 </tr>
 </table> 
-
 ***
-<h3>Sekretariat</h3>
+<h2>Sekretariat</h2>
 ***
-
 <!--Pagel-->
 
 <h3><img style="float: left; margin: 0px 15px 15px 0px; border-radius: 50%;" src="assets/images/Pagel.jpg" width="150" hight="200"/>Anne-Kathrin Pagel</h3>
@@ -179,11 +177,9 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 </td>
 </tr>
 </table>
-
 ***
-<h3>Wissenschatliche Mitarbeitende</h3>
+<h2>Wissenschatliche Mitarbeitende</h2>
 ***
-
 <!--Kachel-->
 <article id="Kachel">
 <h3><img style="float: left; margin: 0px 15px 15px 0px; border-radius: 50%;" src="assets/images/Kachel.jpg" width="150" hight="200"/>Dr. Gregor Kachel</h3>
@@ -590,11 +586,9 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 </td>
 </tr>
 </table>
-
 ***
-<h3>Studentische und Wissenschaftliche Hilfskräfte</h3>
+<h2>Studentische und Wissenschaftliche Hilfskräfte</h2>
 ***
-
 <!--Hawlitschek-->
 
 <h3><img style="float: left; margin: 0px 15px 15px 0px; border-radius: 50%;" src="assets/images/Hawlitschek.jpg" width="150" hight="200"/>Patrick Hawlitschek</h3>
