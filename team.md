@@ -109,9 +109,13 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 </tr>
 </table> 
 
+<p></p>
+
 <section>
 <h2>Sekretariat</h2>
 </section>
+
+<p></p>
   
 <!--Pagel-->
 
