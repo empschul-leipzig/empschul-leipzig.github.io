@@ -60,27 +60,27 @@ layout: default
 	</header>
 	<div class="posts">
 		<article>
-			<a href="{{ 'projekte#Kachel' | absolute_url }}" class="image"><img src="assets/images/pic01.jpg" alt="" /></a>
+			<a href="{{ 'projekte#Frohberg' | absolute_url }}" class="image"><img src="assets/images/pic01.jpg" alt="" /></a>
 			<h3>Von der Relevanz der Präsenz in der Expertiseentwicklung von Lehrpersonen</h3>
 			<p>Das geplante Forschungsprojekt untersucht, inwiefern Präsenz als eine Dimension der Klassenführung objektiv erfasst werden kann und welche Rolle sie für die Expertiseentwicklung von Lehrpersonen spielt.</p>
 			<ul class="actions">
-				<li><a href="{{ 'projekte#Kachel' | absolute_url }}" class="button">Mehr</a></li>
+				<li><a href="{{ 'projekte#Frohberg' | absolute_url }}" class="button">Mehr</a></li>
 			</ul>
 		</article>
 		<article>
-			<a href="#" class="image"><img src="assets/images/pic02.jpg" alt="" /></a>
+			<a href="{{ 'projekte#Klatt' | absolute_url }}" class="image"><img src="assets/images/pic02.jpg" alt="" /></a>
 			<h3>Implizite Überzeugungen bei Lehrkräften</h3>
 			<p>Welche Überzeugungen haben Lehrkräfte von der Veränderbarkeit von Eigenschaften? Welchen Einfluss hat die individuelle Denkweise des Lehrers auf die Wahrnehmung seiner Schüler? Diesen und ähnlichen Fragen widmet sich das Projekt Implizite Überzeugungen bei Lehrkräften.</p>
 			<ul class="actions">
-				<li><a href="https://empschul-leipzig.github.io/projekte#Frohberg" class="button">Mehr</a></li>
+				<li><a href="{{ 'projekte#Klatt' | absolute_url }}" class="button">Mehr</a></li>
 			</ul>
 		</article>
 		<article>
-			<a href="#" class="image"><img src="assets/images/pic06.jpg" alt="" /></a>
+			<a href="{{ 'projekte#Kachel' | absolute_url }}" class="image"><img src="assets/images/pic06.jpg" alt="" /></a>
 			<h3>Symbolverstehen im Vorschulalter</h3>
 			<p>Welche graphischen Zeichen verstehen Kinder bereits im Vorschulalter und wie leicht fällt es ihnen unbekannte Zeichen zu interpretieren?  Diesen und ähnlichen Fragen widmet sich unser Projekt <i>Symbolic Literacy</i>.</p>
 			<ul class="actions">
-				<li><a href="https://empschul-leipzig.github.io/projekte#Kachel" class="button">Mehr</a></li>
+				<li><a href="{{ 'projekte#Kachel' | absolute_url }}" class="button">Mehr</a></li>
 			</ul>
 		</article>
 	</div>
