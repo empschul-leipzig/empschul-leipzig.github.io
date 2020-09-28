@@ -2,11 +2,15 @@
 layout: page
 title: Team
 ---
+<!--Team-->
+<p>Im Arbeitsbereich Empirische Schul- und Unterrichtsforschung lehren und forschen wissenschaftliche Mitarbeitende und abgeordneten Lehrpersonen unter der Leitung von Prof. Dr. Anne Deiglmayr. Wir werden dabei unterstützt durch unsere Sekretärin und unsere wissenschaftlichen und studentischen Hilfskräfte.</p>
+
+<h3>Inhaberin der Professur</h3>
 
 <!--Deiglmayr-->
 <article id="Deiglmayr">
 <h3><img style="float: left; margin: 0px 15px 15px 0px; border-radius: 50%;" src="assets/images/Deiglmayr.jpg" width="150" hight="200" />Prof. Dr. Anne Deiglmayr</h3>
-<p><b>Inhaberin der Professur</b></p>
+<p><b>Professorin</b></p>
 </article>
 <p style="padding-left: 165px;">Prof. Dr. Anne Deiglmayr ist seit 12/2018 Inhaberin der Professur „Empirische Schul- und Unterrichtsforschung“ an der Erziehungswissenschaftlichen Fakultät der Universität Leipzig.<br>
 Ihre Forschungsschwerpunkte umfassen u.a. Methoden der mobilen Unterrichtsforschung, die Professionsentwicklung von Lehrpersonen, Lehr- und Lernprozesse beim (computergestützten) kooperativen Lernen, sowie die Förderung des Lehrens und Lernens im MINT-Unterricht.<br>
@@ -105,10 +109,12 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 </tr>
 </table> 
 
+<h3>Sekretariat</h3>
+
 <!--Pagel-->
 
 <h3><img style="float: left; margin: 0px 15px 15px 0px; border-radius: 50%;" src="assets/images/Pagel.jpg" width="150" hight="200"/>Anne-Kathrin Pagel</h3>
-<p><b>Sekretariat</b></p>
+<p><b>Sekretärin</b></p>
 <p style="padding-left: 165px;">Anne-Katrhin Pagel ist Sekretärin an der Professur „Empirische Schul- und Unterrichtsforschung“ an der Erziehungswissenschaftlichen Fakultät der Universität Leipzig.<br style="clear: both;"/>
 
 <script type="text/javascript">
@@ -172,10 +178,12 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 </tr>
 </table>
 
+<h3>Wissenschatliche Mitarbeitende</h3>
+
 <!--Kachel-->
 <article id="Kachel">
 <h3><img style="float: left; margin: 0px 15px 15px 0px; border-radius: 50%;" src="assets/images/Kachel.jpg" width="150" hight="200"/>Dr. Gregor Kachel</h3>
-<p><b>Wissenschaftlicher Mitarbeiter/ PI</b></p>
+<p><b>Postdoktorand</b></p>
 </article>
 <p style="padding-left: 165px;">Gregor Kachel leitet das DFG-Projekt SymLit und forscht darin zur Entwicklung des graphischen Symbolverständnisses im Vorschulalter. Er ist wissenschaftlicher Mitarbeiter an der Professur für "Empirische Schul- und Unterrichtsforschung" und Gastwissenschaftler in der Abteilung für Vergleichende Kulturpsychologie am MPI EVA.<br style="clear: both;"/>
 
@@ -225,7 +233,7 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 <!--Klatt-->
 <article id="Klatt">
 <h3><img style="float: left; margin: 0px 15px 15px 0px; border-radius: 50%;" src="assets/images/Klatt.jpg" width="150" hight="200"/>Mandy Klatt</h3>
-<p><b>Wissenschaftliche Mitarbeiterin</b></p>
+<p><b>Doktorandin</b></p>
 </article>
 <p style="padding-left: 165px;">Mandy Klatt forscht und lehrt als wissenschaftliche Mitarbeiterin an der Professur „Empirische Schul- und Unterrichtsforschung“ an der Erziehungswissenschaftlichen Fakultät der Universität Leipzig.<br>
 Im Mittelpunkt ihrer Forschungsinteressen stehen neue, multimodale Methoden zur Erforschung von Lehr- und Lernprozessen wie mehrkanalige Prozessmessungen, Eye-Tracking, Audio- und Videografie im Unterricht. Ziel ist es außerdem, automatisierte Analyseverfahren anhand von Beobachtungsdaten zu validieren, um sie für die Unterrichtsforschung nutzbar zu machen. In ihrer Dissertation widmet sie sich u.a. der Fragestellung nach der Expertiseentwicklung von Lehrpersonen.<br>
@@ -304,7 +312,7 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 <!--Frohberg-->
 <article id="Frohberg">
 <h3><img style="float: left; margin: 0px 15px 15px 0px; border-radius: 50%;" src="assets/images/Frohberg.jpg" width="150" hight="200"/>Franziska Frohberg</h3>
-<p><b>Lehrkraft für besondere Aufgaben</b></p>
+<p><b>Doktorandin</b></p>
 </article>
 <p style="padding-left: 165px;">Franziska Frohberg lehrt und forscht am Institut für Bildungswissenschaften an der Professur für "Empirische Schul- und Unterrichtsforschung" an der Universität Leipzig.<br>
 Sie lehrt in den Modulen 1 und 2 der Bildungswissenschaften.<br>
@@ -379,11 +387,12 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 </tr>
 </table>
 
-<!--Leistner-->
-
-<h3><img style="float: left; margin: 0px 15px 15px 0px; border-radius: 50%;" src="assets/images/Leistner.jpg" width="150" hight="200"/>Mirjam Leistner</h3>
-<p><b>Lehrkraft für besondere Aufgaben</b></p>
-<p style="padding-left: 165px;">Mirjam Leistner lehrt als Lehrkraft für besondere Aufgaben im Studiengang Lehramt an der Universität Leipzig im Fachbereich Bildungswissenschaften.<br style="clear: both;"/>
+<!--De Groote-->
+<article id="deGroote">
+<h3><img style="float: left; margin: 0px 15px 15px 0px; border-radius: 50%;" src="assets/images/de_Groote.jpg" width="150" hight="200"/>Carola de Groote</h3>
+<p><b>Doktorandin</b></p>
+<p style="padding-left: 165px;">Carola de Groote lehrt als abgeordnete Lehrerin in den Modulen 1 und 2 am Institut für Bildungswissenschaften an der Professur für "Empirische Schul- und Unterrichtsforschung" an der Universität Leipzig und bringt hier ihre 25-jährige gymnasiale Lehrtätigkeit ein.<br>
+Im Mittelpunkt ihrer Forschungsinteressen stehen Begabungsförderung an Regelschulen, begabungsförderlicher Unterricht sowie Schulentwicklung.<br style="clear: both;"/>
 
 <script type="text/javascript">
 //<![CDATA[
@@ -413,54 +422,6 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 <tr style=" text-align: justify; font-size: 14px; font-weight: normal; background-color: rgb(242,242,242);">
 <td colspan="3" style="padding-left:15px; padding-right:15px;">
 <div id="hideme5" style="display:none">
-<br /> 
-<div align="center">
-</div> 
-  
-  <p><b>Telefon:</b> +49 (0) 341 97-31432<br>
-  <b>E-Mail:</b> <a href="mirjam.leistner@uni-leipzig.de">mirjam.leistner@uni-leipzig.de</a><br>
-  <b>Raum:</b> 107<br></p>
-
-</div>
-</td>
-</tr>
-</table>
-
-<!--De Groote-->
-<article id="deGroote">
-<h3><img style="float: left; margin: 0px 15px 15px 0px; border-radius: 50%;" src="assets/images/de_Groote.jpg" width="150" hight="200"/>Carola de Groote</h3>
-<p><b>Abgeordnete Lehrerin</b></p>
-<p style="padding-left: 165px;">Carola de Groote lehrt als abgeordnete Lehrerin in den Modulen 1 und 2 am Institut für Bildungswissenschaften an der Professur für "Empirische Schul- und Unterrichtsforschung" an der Universität Leipzig und bringt hier ihre 25-jährige gymnasiale Lehrtätigkeit ein.<br>
-Im Mittelpunkt ihrer Forschungsinteressen stehen Begabungsförderung an Regelschulen, begabungsförderlicher Unterricht sowie Schulentwicklung.<br style="clear: both;"/>
-
-<script type="text/javascript">
-//<![CDATA[
-function swap(openlink,closelink, linkid, dataid)
-{
-if( document.getElementById(dataid).style.display == 'none')
-{
-document.getElementById(dataid).style.display='inline';
-document.getElementById(linkid).firstChild.nodeValue=closelink;
-} else
-{
-document.getElementById(dataid).style.display='none';
-document.getElementById(linkid).firstChild.nodeValue=openlink;
-}
-}
-//]]>
-</script>
-<table class="tab24" align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
-<tr bgcolor="#BDBDBD">
-<td width="33%" height="30" style="padding-left:15px; padding-right:15px;">
-<b>Kontakt und Weiteres</b>
-</td>
-<td align="right" width="33%" style="padding-left:15px; padding-right:15px;">
-<a href="#swap" onclick="javascript:swap('Einblenden','Ausblenden', 'swaplink6', 'hideme6')" id="swaplink6" onfocus="this.blur()" name="swaplink6">Einblenden</a>
-</td>
-</tr> 
-<tr style=" text-align: justify; font-size: 14px; font-weight: normal; background-color: rgb(242,242,242);">
-<td colspan="3" style="padding-left:15px; padding-right:15px;">
-<div id="hideme6" style="display:none">
 <br /> 
 <div align="center">
 </div>  
@@ -504,7 +465,7 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 <!--Eulitz-->
 
 <h3><img style="float: left; margin: 0px 15px 15px 0px; border-radius: 50%;" src="assets/images/Eulitz.jpg" width="150" hight="200"/>Gereon Eulitz</h3>
-<p><b>Lehrer im Hochschuldienst</b></p>
+<p><b>Doktorand</b></p>
 <p style="padding-left: 165px;">Gereon Eulitz ist Lehrer im Hochschuldienst und gehört der Professur "Empirische Schul- und Unterrichtsforschung" an. Sein Forschungsinteresse gilt der kooperativen Unterrichtsentwicklung. Das Modul 05-BWI-02 (SPS) "Praxis- und Studienfeld Schule“ ist Schwerpunkt seiner Lehrtätigkeit. Außerdem wirkt er an der Mentorenqualifizierung im Freistaat Sachsen mit.
 <p style="padding-left: 165px;"><span style="text-decoration: underline;">Arbeitsschwerpunkte und Forschungsinteressen</span><br>
  - Kooperation von Wissenschaftler*innen und Lehrer*innen im Rahmen didaktischer Entwicklungsforschung<br>
@@ -536,12 +497,12 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 <b>Kontakt und Weiteres</b>
 </td>
 <td align="right" width="33%" style="padding-left:15px; padding-right:15px;">
-<a href="#swap" onclick="javascript:swap('Einblenden','Ausblenden', 'swaplink7', 'hideme7')" id="swaplink7" onfocus="this.blur()" name="swaplink7">Einblenden</a>
+<a href="#swap" onclick="javascript:swap('Einblenden','Ausblenden', 'swaplink6', 'hideme6')" id="swaplink6" onfocus="this.blur()" name="swaplink6">Einblenden</a>
 </td>
 </tr> 
 <tr style=" text-align: justify; font-size: 14px; font-weight: normal; background-color: rgb(242,242,242);">
 <td colspan="3" style="padding-left:15px; padding-right:15px;">
-<div id="hideme7" style="display:none">
+<div id="hideme6" style="display:none">
 <br /> 
 <div align="center">
 </div>  
@@ -574,6 +535,53 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
           </tbody>
         </table>
       </div>
+</div>
+</td>
+</tr>
+</table>
+
+<!--Leistner-->
+
+<h3><img style="float: left; margin: 0px 15px 15px 0px; border-radius: 50%;" src="assets/images/Leistner.jpg" width="150" hight="200"/>Mirjam Leistner</h3>
+<p><b>Lehrkraft für besondere Aufgaben</b></p>
+<p style="padding-left: 165px;">Mirjam Leistner lehrt als Lehrkraft für besondere Aufgaben im Studiengang Lehramt an der Universität Leipzig im Fachbereich Bildungswissenschaften.<br style="clear: both;"/>
+
+<script type="text/javascript">
+//<![CDATA[
+function swap(openlink,closelink, linkid, dataid)
+{
+if( document.getElementById(dataid).style.display == 'none')
+{
+document.getElementById(dataid).style.display='inline';
+document.getElementById(linkid).firstChild.nodeValue=closelink;
+} else
+{
+document.getElementById(dataid).style.display='none';
+document.getElementById(linkid).firstChild.nodeValue=openlink;
+}
+}
+//]]>
+</script>
+<table class="tab24" align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr bgcolor="#BDBDBD">
+<td width="33%" height="30" style="padding-left:15px; padding-right:15px;">
+<b>Kontakt und Weiteres</b>
+</td>
+<td align="right" width="33%" style="padding-left:15px; padding-right:15px;">
+<a href="#swap" onclick="javascript:swap('Einblenden','Ausblenden', 'swaplink7', 'hideme7')" id="swaplink8" onfocus="this.blur()" name="swaplink8">Einblenden</a>
+</td>
+</tr> 
+<tr style=" text-align: justify; font-size: 14px; font-weight: normal; background-color: rgb(242,242,242);">
+<td colspan="3" style="padding-left:15px; padding-right:15px;">
+<div id="hideme8" style="display:none">
+<br /> 
+<div align="center">
+</div> 
+  
+  <p><b>Telefon:</b> +49 (0) 341 97-31432<br>
+  <b>E-Mail:</b> <a href="mirjam.leistner@uni-leipzig.de">mirjam.leistner@uni-leipzig.de</a><br>
+  <b>Raum:</b> 107<br></p>
+
 </div>
 </td>
 </tr>
