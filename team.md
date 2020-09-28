@@ -3,10 +3,10 @@ layout: page
 title: Team
 ---
 <!--Team-->
-<p>Im Arbeitsbereich Empirische Schul- und Unterrichtsforschung lehren und forschen wissenschaftliche Mitarbeitende und abgeordneten Lehrpersonen unter der Leitung von Prof. Dr. Anne Deiglmayr. Wir werden dabei unterstützt durch unsere Sekretärin und unsere wissenschaftlichen und studentischen Hilfskräfte.</p>
-
+<p>Im Arbeitsbereich "Empirische Schul- und Unterrichtsforschung" lehren und forschen wissenschaftliche Mitarbeitende und abgeordnete Lehrpersonen unter der Leitung von Prof. Dr. Anne Deiglmayr. Wir werden dabei unterstützt durch unsere Sekretärin und unsere wissenschaftlichen und studentischen Hilfskräfte.</p>
+*** 
 <h3>Inhaberin der Professur</h3>
-
+***
 <!--Deiglmayr-->
 <article id="Deiglmayr">
 <h3><img style="float: left; margin: 0px 15px 15px 0px; border-radius: 50%;" src="assets/images/Deiglmayr.jpg" width="150" hight="200" />Prof. Dr. Anne Deiglmayr</h3>
@@ -109,7 +109,9 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 </tr>
 </table> 
 
+***
 <h3>Sekretariat</h3>
+***
 
 <!--Pagel-->
 
@@ -178,7 +180,9 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 </tr>
 </table>
 
+***
 <h3>Wissenschatliche Mitarbeitende</h3>
+***
 
 <!--Kachel-->
 <article id="Kachel">
@@ -587,11 +591,14 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 </tr>
 </table>
 
-<!--Schmidtke-->
+***
+<h3>Studentische und Wissenschaftliche Hilfskräfte</h3>
+***
 
-<h3><img style="float: left; margin: 0px 15px 15px 0px; border-radius: 50%;" src="assets/images/Schmidtke.jpg" width="150" hight="200"/>Anna Schmidtke</h3>
-<p><b>Studentische Hilfskraft</b></p>
-<p style="padding-left: 165px;">Anna Schmidtke studiert den Studiengang Höheres Lehramt an Gymnasien mit den Fächern Deutsch und Ethik an der Universität Leipzig. An der Professur für "Empirische Schul- und Unterrichtsforschung" ist sie als studentische Hilfskraft tätig.<br style="clear: both;"/>
+<!--Hawlitschek-->
+
+<h3><img style="float: left; margin: 0px 15px 15px 0px; border-radius: 50%;" src="assets/images/Hawlitschek.jpg" width="150" hight="200"/>Patrick Hawlitschek</h3>
+<p style="padding-left: 165px;">Patrick Hawlitschek studiert die Studiengänge Lehramt an Gymnasien (Deutsch/Ethik) und Soziologie an der Universität Leipzig. An der Professur für "Empirische Schul- und Unterrichtsforschung" ist er als Studentische Hilfskraft tätig. Seine Interessen liegen in den Methoden der empirischen Sozialforschung und der angewandten Statistik. <br style="clear: both;"/>
 
 <script type="text/javascript">
 //<![CDATA[
@@ -634,7 +641,6 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 <!--Lugovaya-->
 
 <h3><img style="float: left; margin: 0px 15px 15px 0px; border-radius: 50%;" src="assets/images/Lugovaya.jpg" width="150" hight="200"/>Anna Lugovaya</h3>
-<p><b>Studentische Hilfskraft</b></p>
 <p style="padding-left: 165px;">Anna Lugovaya studiert Lehramt an Grundschulen mit dem Kernfach Ethik und dem Lehramtserweiterungsfach Deutsch als Zweitsprache. An der Professur "Empirische Schul- und Unterrichtsforschung" ist sie als studentische Hilfskraft tätig. <br style="clear: both;"/>
 
 <script type="text/javascript">
@@ -675,11 +681,10 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 </tr>
 </table>
 
-<!--Hawlitschek-->
+<!--Schmidtke-->
 
-<h3><img style="float: left; margin: 0px 15px 15px 0px; border-radius: 50%;" src="assets/images/Hawlitschek.jpg" width="150" hight="200"/>Patrick Hawlitschek</h3>
-<p><b>Studentische Hilfskraft</b></p>
-<p style="padding-left: 165px;">Patrick Hawlitschek studiert die Studiengänge Lehramt an Gymnasien (Deutsch/Ethik) und Soziologie an der Universität Leipzig. An der Professur für "Empirische Schul- und Unterrichtsforschung" ist er als Studentische Hilfskraft tätig. Seine Interessen liegen in den Methoden der empirischen Sozialforschung und der angewandten Statistik. <br style="clear: both;"/>
+<h3><img style="float: left; margin: 0px 15px 15px 0px; border-radius: 50%;" src="assets/images/Schmidtke.jpg" width="150" hight="200"/>Anna Schmidtke</h3>
+<p style="padding-left: 165px;">Anna Schmidtke studiert den Studiengang Höheres Lehramt an Gymnasien mit den Fächern Deutsch und Ethik an der Universität Leipzig. An der Professur für "Empirische Schul- und Unterrichtsforschung" ist sie als studentische Hilfskraft tätig.<br style="clear: both;"/>
 
 <script type="text/javascript">
 //<![CDATA[
