@@ -572,12 +572,12 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 <b>Kontakt und Weiteres</b>
 </td>
 <td align="right" width="33%" style="padding-left:15px; padding-right:15px;">
-<a href="#swap" onclick="javascript:swap('Einblenden','Ausblenden', 'swaplink7', 'hideme7')" id="swaplink8" onfocus="this.blur()" name="swaplink8">Einblenden</a>
+<a href="#swap" onclick="javascript:swap('Einblenden','Ausblenden', 'swaplink7', 'hideme7')" id="swaplink7" onfocus="this.blur()" name="swaplink7">Einblenden</a>
 </td>
 </tr> 
 <tr style=" text-align: justify; font-size: 14px; font-weight: normal; background-color: rgb(242,242,242);">
 <td colspan="3" style="padding-left:15px; padding-right:15px;">
-<div id="hideme8" style="display:none">
+<div id="hideme7" style="display:none">
 <br /> 
 <div align="center">
 </div> 
