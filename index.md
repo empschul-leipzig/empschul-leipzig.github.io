@@ -60,11 +60,11 @@ layout: default
 	</header>
 	<div class="posts">
 		<article>
-			<a href="#" class="image"><img src="assets/images/pic01.jpg" alt="" /></a>
+			<a href="{{ 'projekte#Kachel' | absolute_url }}" class="image"><img src="assets/images/pic01.jpg" alt="" /></a>
 			<h3>Von der Relevanz der Präsenz in der Expertiseentwicklung von Lehrpersonen</h3>
 			<p>Das geplante Forschungsprojekt untersucht, inwiefern Präsenz als eine Dimension der Klassenführung objektiv erfasst werden kann und welche Rolle sie für die Expertiseentwicklung von Lehrpersonen spielt.</p>
 			<ul class="actions">
-				<li><a href="https://empschul-leipzig.github.io/projekte#Klatt" class="button">Mehr</a></li>
+				<li><a href="{{ 'projekte#Kachel' | absolute_url }}" class="button">Mehr</a></li>
 			</ul>
 		</article>
 		<article>
