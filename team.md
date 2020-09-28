@@ -108,9 +108,11 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 </td>
 </tr>
 </table> 
-***
+
+<section>
 <h2>Sekretariat</h2>
-***
+</section>
+  
 <!--Pagel-->
 
 <h3><img style="float: left; margin: 0px 15px 15px 0px; border-radius: 50%;" src="assets/images/Pagel.jpg" width="150" hight="200"/>Anne-Kathrin Pagel</h3>
@@ -177,9 +179,11 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 </td>
 </tr>
 </table>
-***
+
+<section>
 <h2>Wissenschatliche Mitarbeitende</h2>
-***
+</section>
+
 <!--Kachel-->
 <article id="Kachel">
 <h3><img style="float: left; margin: 0px 15px 15px 0px; border-radius: 50%;" src="assets/images/Kachel.jpg" width="150" hight="200"/>Dr. Gregor Kachel</h3>
@@ -586,9 +590,11 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 </td>
 </tr>
 </table>
-***
+
+<section>
 <h2>Studentische und Wissenschaftliche Hilfskräfte</h2>
-***
+</section>
+
 <!--Hawlitschek-->
 
 <h3><img style="float: left; margin: 0px 15px 15px 0px; border-radius: 50%;" src="assets/images/Hawlitschek.jpg" width="150" hight="200"/>Patrick Hawlitschek</h3>
