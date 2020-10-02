@@ -4,9 +4,11 @@ title: Team
 ---
 <!--Team-->
 <p>Im Arbeitsbereich "Empirische Schul- und Unterrichtsforschung" lehren und forschen wissenschaftliche Mitarbeitende und abgeordnete Lehrpersonen unter der Leitung von Prof. Dr. Anne Deiglmayr. Wir werden dabei unterstützt durch unsere Sekretärin und unsere wissenschaftlichen und studentischen Hilfskräfte.</p>
-*** 
+
+<hr>
 <h2>Inhaberin der Professur</h2>
-***
+<hr>
+
 <!--Deiglmayr-->
 <article id="Deiglmayr">
 <h3><img style="float: left; margin: 0px 15px 15px 0px; border-radius: 50%;" src="assets/images/Deiglmayr.jpg" width="150" hight="200" />Prof. Dr. Anne Deiglmayr</h3>
@@ -109,13 +111,10 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 </tr>
 </table> 
 
-<p></p>
 
-<section>
+<hr>
 <h2>Sekretariat</h2>
-</section>
-
-<p></p>
+<hr>
   
 <!--Pagel-->
 
@@ -184,9 +183,9 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 </tr>
 </table>
 
-<section>
+<hr>
 <h2>Wissenschatliche Mitarbeitende</h2>
-</section>
+<hr>
 
 <!--Kachel-->
 <article id="Kachel">
@@ -595,9 +594,9 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 </tr>
 </table>
 
-<section>
+<hr>
 <h2>Studentische und Wissenschaftliche Hilfskräfte</h2>
-</section>
+<hr>
 
 <!--Hawlitschek-->
 
