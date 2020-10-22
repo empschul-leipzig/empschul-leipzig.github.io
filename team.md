@@ -277,7 +277,7 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 </div>
   <p><b>Telefon:</b> +49 (0) 341 97-31578<br>
   <b>E-Mail:</b> <a href="mailto:christin.lotz@uni-leipzig.de">christin.lotz@uni-leipzig.de</a><br>
-  <b>Raum:</b> 005
+  <b>Raum:</b> 005</p>
 </div>
 </td>
 </tr>
