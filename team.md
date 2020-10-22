@@ -3,7 +3,7 @@ layout: page
 title: Team
 ---
 <!--Team-->
-<p><b>Im Arbeitsbereich "Empirische Schul- und Unterrichtsforschung" lehren und forschen wissenschaftliche Mitarbeitende und abgeordnete Lehrpersonen unter der Leitung von Prof. Dr. Anne Deiglmayr. Wir werden dabei unterstützt durch unsere Sekretärin und unsere wissenschaftlichen und studentischen Hilfskräfte.<b/></p>
+<p><b>Im Arbeitsbereich "Empirische Schul- und Unterrichtsforschung" lehren und forschen wissenschaftliche Mitarbeitende und abgeordnete Lehrpersonen unter der Leitung von Prof. Dr. Anne Deiglmayr. Wir werden dabei unterstützt durch unsere Sekretärin und unsere wissenschaftlichen und studentischen Hilfskräfte.</b></p>
 
 <hr>
 <h2>Inhaberin der Professur</h2>
