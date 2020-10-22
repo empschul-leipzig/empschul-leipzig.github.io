@@ -21,7 +21,8 @@ Haben Sie Interesse, Ihre Bachelor-, Master- oder Staatsexamensarbeit in unserem
 <h4>Bedingungen:</h4>
 Gemäß der Denomination der Professur betreuen wir ausschließlich empirisch ausgerichtete Abschlussarbeiten. Daher gelten bei uns die [Anforderungen und Rahmenbedingungen](https://home.uni-leipzig.de/~paedpsy/wp-content/uploads/2019/01/PPT_Infoveranstaltung_allgemein.pdf) wie in der Pädagogischen Psychologie. Mit den entsprechenden Arbeitsbereichen bestehen Kooperationen in Forschung und Lehre, zum Beispiel ein gemeinsames Kolloquium für wissenschaftliche Abschlussarbeiten.
 
-In folgenden <h4>Forschungsprojekten</h4> ist das Verfassen einer wissenschaftlichen Abschlussarbeit aktuell möglich:
+<h4>Forschungsprojekte:</h4>
+In folgenden Projekten ist das Verfassen einer wissenschaftlichen Abschlussarbeit aktuell möglich:
 
 <script type="text/javascript">
 //<![CDATA[
@@ -419,18 +420,19 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 </tr>
 </table>
 
-<h4>Bei Interesse</h4> melden Sie sich bitte innerhalb der jeweiligen Frist (siehe unten) bei dem oder der für das gewählte Projekt verantwortlichen Mitarbeiter bzw. Mitarbeiterin (siehe Projektbeschreibungen) mit den folgenden <h4>Unterlagen und Angaben</h4>:
+<h4>Bei Interesse</h4> ...melden Sie sich bitte innerhalb der jeweiligen Frist (siehe unten) bei dem oder der für das gewählte Projekt verantwortlichen Mitarbeiter bzw. Mitarbeiterin (siehe Projektbeschreibungen) mit den folgenden <h4>Unterlagen und Angaben</h4>:
 
 *	Anschreiben mit Darlegung der Motivation für eine wissenschaftliche Abschlussarbeit im gewählten Projekt
 *	geplanter Abgabetermin Ihrer Abschlussarbeit
 
-Die jeweiligen <h4>Fristen für die Bewerbung um eine Staatsexamensarbeit</h4> richten sich nach dem Semester, in dem Sie Ihre Abschlussarbeit abgeben wollen:
+<h4>Fristen<h4>
+Die Fristen für die Bewerbung um eine <b>Staatsexamensarbeit</b> richten sich nach dem Semester, in dem Sie Ihre Abschlussarbeit abgeben wollen:
 
 **Für einen Abschluss…**
 *	im **SoSe 2020** melden Sie sich bitte bis spätestens **04. September 2020**
 *	im **WiSe 2020/21** melden Sie sich bitte bis spätestens **15. Januar 2021**
 
-<h4>Bachelor- und Master-Studierende</h4> melden sich **unabhängig dieser Fristen** mit den oben genannten Unterlagen bei der/dem Forschungsprojektverantwortlichen.
+<b>Bachelor- und Master-Studierende</b>> melden sich <b>unabhängig dieser Fristen</b> mit den oben genannten Unterlagen bei der/dem Forschungsprojektverantwortlichen.
 
 <h4>Aktuelle Termine und weitere Informationen:</h4>  
 *Zur Zeit finden keine Informationsveranstaltungen statt.*
