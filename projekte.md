@@ -20,7 +20,7 @@ Für die Studien sind wir stets auf der Suche nach Lehrkräften, Referendaren un
 </article>
 
 ***
-<span class="image fit"><img src="assets/images/pic02.jpg" alt="" /></span>
+<span class="image fit"><img src="assets/images/Banner_Frohberg.jpg" alt="" /></span>
 <article id="Frohberg">
 <h2>Implizite Überzeugungen bei Lehrkräften</h2>
 

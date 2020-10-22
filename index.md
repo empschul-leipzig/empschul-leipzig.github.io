@@ -60,7 +60,7 @@ layout: default
 	</header>
 	<div class="posts">
 		<article>
-			<a href="{{ 'projekte#Frohberg' | absolute_url }}" class="image"><img src="assets/images/pic01.jpg" alt="" /></a>
+			<a href="{{ 'projekte#Klatt' | absolute_url }}" class="image"><img src="assets/images/pic01.jpg" alt="" /></a>
 			<h3>Von der Relevanz der Präsenz in der Expertiseentwicklung von Lehrpersonen</h3>
 			<p>Das geplante Forschungsprojekt untersucht, inwiefern Präsenz als eine Dimension der Klassenführung objektiv erfasst werden kann und welche Rolle sie für die Expertiseentwicklung von Lehrpersonen spielt.</p>
 			<ul class="actions">
@@ -68,7 +68,7 @@ layout: default
 			</ul>
 		</article>
 		<article>
-			<a href="{{ 'projekte#Klatt' | absolute_url }}" class="image"><img src="assets/images/pic02.jpg" alt="" /></a>
+			<a href="{{ 'projekte#Frohberg' | absolute_url }}" class="image"><img src="assets/images/Banner_Frohberg.jpg" alt="" /></a>
 			<h3>Implizite Überzeugungen bei Lehrkräften</h3>
 			<p>Welche Überzeugungen haben Lehrkräfte von der Veränderbarkeit von Eigenschaften? Welchen Einfluss hat die individuelle Denkweise des Lehrers auf die Wahrnehmung seiner Schüler? Diesen und ähnlichen Fragen widmet sich das Projekt Implizite Überzeugungen bei Lehrkräften.</p>
 			<ul class="actions">
