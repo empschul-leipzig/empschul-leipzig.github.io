@@ -4,7 +4,7 @@ title: Team
 ---
 <!--Team-->
 <div style="width: 420px; padding: 10px; border: 1px solid #27408B;">
-<img class="rechts" src="Gruppenfoto.jpg" width="200" height="145" border="0" alt="Banner">
+<img class="rechts" src="Gruppenfoto_klein.jpg" width="200" height="145" border="0" alt="Gruppenfoto Team">
 <p style="margin: 0; line-height: 60px;">
 <b>Im Arbeitsbereich "Empirische Schul- und Unterrichtsforschung" lehren und forschen wissenschaftliche Mitarbeitende und abgeordnete Lehrpersonen unter der Leitung von Prof. Dr. Anne Deiglmayr. Wir werden dabei unterstützt durch unsere Sekretärin und unsere wissenschaftlichen und studentischen Hilfskräfte.</b>
 </p>
