@@ -420,7 +420,9 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 </tr>
 </table>
 
-<h4>Bei Interesse</h4> ...melden Sie sich bitte innerhalb der jeweiligen Frist (siehe unten) bei dem oder der für das gewählte Projekt verantwortlichen Mitarbeiter bzw. Mitarbeiterin (siehe Projektbeschreibungen) mit den folgenden <h4>Unterlagen und Angaben</h4>:
+<b>Bei Interesse</b>melden Sie sich bitte innerhalb der jeweiligen Frist (siehe unten) bei dem oder der für das gewählte Projekt verantwortlichen Mitarbeiter bzw. Mitarbeiterin (siehe Projektbeschreibungen) mit den folgenden...
+
+<h4>Unterlagen und Angaben</h4>:
 
 *	Anschreiben mit Darlegung der Motivation für eine wissenschaftliche Abschlussarbeit im gewählten Projekt
 *	geplanter Abgabetermin Ihrer Abschlussarbeit
@@ -428,12 +430,14 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 <h4>Fristen<h4>
 Die Fristen für die Bewerbung um eine <b>Staatsexamensarbeit</b> richten sich nach dem Semester, in dem Sie Ihre Abschlussarbeit abgeben wollen:
 
-**Für einen Abschluss…**
-*	im **SoSe 2020** melden Sie sich bitte bis spätestens **04. September 2020**
-*	im **WiSe 2020/21** melden Sie sich bitte bis spätestens **15. Januar 2021**
+<b>Für einen Abschluss…</b>
+<li>
+	<ul>im <b>SoSe 2020</b> melden Sie sich bitte bis spätestens <b>04. September 2020</b></ul>
+	<ul>im <b>WiSe 2020/21</b> melden Sie sich bitte bis spätestens <b>15. Januar 2021</b></ul>
+</li>
 
 <b>Bachelor- und Master-Studierende</b>> melden sich <b>unabhängig dieser Fristen</b> mit den oben genannten Unterlagen bei der/dem Forschungsprojektverantwortlichen.
 
 <h4>Aktuelle Termine und weitere Informationen:</h4>  
-*Zur Zeit finden keine Informationsveranstaltungen statt.*
+<i>Zur Zeit finden keine Informationsveranstaltungen statt.</i>
 
