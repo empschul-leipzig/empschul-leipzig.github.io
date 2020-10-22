@@ -5,7 +5,7 @@ permalink: /lehre
 image: assets/images/lehrveranstaltung.jpg
 ---
 
-<h3>Unser Studienangebot</h3>
+<h2>Unser Studienangebot</h2>
 
 <p>In der Lehre der Erziehungswissenschaftlichen Fakultät der Universität Leipzig verantwortet unser Arbeitsbereich das Modul <b>"Praxis- und Studienfeld Schule"</b> (05-BWI-02) im bildungswissenschaftlichen Teil aller Lehramtsstudiengänge mit ca. 1300 Studierenden pro Jahr. Zusätzlich werden Lehrveranstaltungen in anderen bildungswissenschaftlichen Modulen sowie auch zu quantitativen und qualitativen Forschungsmethoden angeboten; so verantwortet die Professur auch das Modul <b>"Einführung in die Methoden der qualitativen empirischen Sozialforschung"</b> in den Ergänzungsstudien (05-SQM-48).</p>
 
