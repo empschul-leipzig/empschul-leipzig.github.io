@@ -5,11 +5,15 @@ permalink: /lehre
 image: assets/images/lehrveranstaltung.jpg
 ---
 
+<h3>Unser Studienangebot</h3>
+
 <p>In der Lehre der Erziehungswissenschaftlichen Fakultät der Universität Leipzig verantwortet unser Arbeitsbereich das Modul <b>"Praxis- und Studienfeld Schule"</b> (05-BWI-02) im bildungswissenschaftlichen Teil aller Lehramtsstudiengänge mit ca. 1300 Studierenden pro Jahr. Zusätzlich werden Lehrveranstaltungen in anderen bildungswissenschaftlichen Modulen sowie auch zu quantitativen und qualitativen Forschungsmethoden angeboten; so verantwortet die Professur auch das Modul <b>"Einführung in die Methoden der qualitativen empirischen Sozialforschung"</b> in den Ergänzungsstudien (05-SQM-48).</p>
 
 Nähere Informationen und Rahmenbedingungen zu den Modulen finden Sie im Folgenden:
 
-<h3>Modulverantwortung: <a href="https://empschul-leipzig.github.io/team#Deiglmayr">Prof. Dr. Anne Deiglmayr</a></h3> 
+<hr>
+<h3>Modulverantwortung: <a href="https://empschul-leipzig.github.io/team#Deiglmayr">Prof. Dr. Anne Deiglmayr</a></h3>
+<hr> 
 
 <!--05-BWI-02-->
 
@@ -150,4 +154,8 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 </tr>
 </table>
 
+***
+
+<div class="box">
 <p>Wichtige organisatorische Informationen zu den Lehrveranstaltungen finden Sie im Vorlesungsverzeichnis der Erziehungswissenschaftlichen Fakultät [LINK: https://www.erzwiss.uni-leipzig.de/studium/vorlesungsverzeichnis] und des <a href= "https://www.zls.uni-leipzig.de/studium-beratung/ergaenzungsstudien/">Zentrums für Lehrerbildung und Schulforschung</a>. Hilfe zur Studienorganisation und zur Modul Ab- und Abmeldung finden Sie auf den Seiten des <a href= "https://studienbuero.erzwiss.uni-leipzig.de/index.php">Studienbüros</a>. Alle Informationen und Links rund um das Schulpraktikum im Rahmen von Biwi 2 finden Sie auf den Seiten des <a href="https://www.zls.uni-leipzig.de/studium-beratung/buero-fuer-schulpraktische-studien/">Büros für Schulpraktische Studien</a>.</p>
+</div>
