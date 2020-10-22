@@ -3,7 +3,7 @@ layout: page
 title: Team
 ---
 <!--Team-->
-<p>Im Arbeitsbereich "Empirische Schul- und Unterrichtsforschung" lehren und forschen wissenschaftliche Mitarbeitende und abgeordnete Lehrpersonen unter der Leitung von Prof. Dr. Anne Deiglmayr. Wir werden dabei unterstützt durch unsere Sekretärin und unsere wissenschaftlichen und studentischen Hilfskräfte.</p>
+<p><b>Im Arbeitsbereich "Empirische Schul- und Unterrichtsforschung" lehren und forschen wissenschaftliche Mitarbeitende und abgeordnete Lehrpersonen unter der Leitung von Prof. Dr. Anne Deiglmayr. Wir werden dabei unterstützt durch unsere Sekretärin und unsere wissenschaftlichen und studentischen Hilfskräfte.<b/></p>
 
 <hr>
 <h2>Inhaberin der Professur</h2>
@@ -237,6 +237,54 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 </tr>
 </table>
 
+<!--Lotz-->
+<article id="Lotz">
+<h3><img style="float: left; margin: 0px 15px 15px 0px; border-radius: 50%;" src="assets/images/Platzhalter.jpg" width="150" hight="200"/>Dr. Christin Lotz</h3>
+<p><b>Postdoktorandin</b></p>
+</article>
+<p style="padding-left: 165px;">Christin Lotz forscht als wissenschaftliche Mitarbeiterin an der Professur „Empirische Schul- und Unterrichtsforschung“ an der Erziehungswissenschaftlichen Fakultät der Universität Leipzig.<br style="clear: both;"/>
+
+<script type="text/javascript">
+//<![CDATA[
+function swap(openlink,closelink, linkid, dataid)
+{
+if( document.getElementById(dataid).style.display == 'none')
+{
+document.getElementById(dataid).style.display='inline';
+document.getElementById(linkid).firstChild.nodeValue=closelink;
+} else
+{
+document.getElementById(dataid).style.display='none';
+document.getElementById(linkid).firstChild.nodeValue=openlink;
+}
+}
+//]]>
+</script>
+<table class="tab24" align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr bgcolor="#BDBDBD">
+<td width="33%" height="30" style="padding-left:15px; padding-right:15px;">
+<b>Kontakt und Weiteres</b>
+</td>
+<td align="right" width="33%" style="padding-left:15px; padding-right:15px;">
+<a href="#swap" onclick="javascript:swap('Einblenden','Ausblenden', 'swaplink3', 'hideme3')" id="swaplink3" onfocus="this.blur()" name="swaplink3">Einblenden</a>
+</td>
+</tr> 
+<tr style=" text-align: justify; font-size: 14px; font-weight: normal; background-color: rgb(242,242,242);">
+<td colspan="3" style="padding-left:15px; padding-right:15px;">
+<div id="hideme3" style="display:none">
+<br /> 
+<div align="center">
+</div>
+
+  <p><b>Telefon:</b> +49 (0) 341 97-31578<br>
+  <b>E-Mail:</b> <a href="mailto:christin.lotz@uni-leipzig.de">christin.lotz@uni-leipzig.de</a><br>
+  <b>Raum:</b> 005<br>
+
+</div>
+</td>
+</tr>
+</table>  
+
 <!--Klatt-->
 <article id="Klatt">
 <h3><img style="float: left; margin: 0px 15px 15px 0px; border-radius: 50%;" src="assets/images/Klatt.jpg" width="150" hight="200"/>Mandy Klatt</h3>
@@ -269,12 +317,12 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 <b>Kontakt und Weiteres</b>
 </td>
 <td align="right" width="33%" style="padding-left:15px; padding-right:15px;">
-<a href="#swap" onclick="javascript:swap('Einblenden','Ausblenden', 'swaplink3', 'hideme3')" id="swaplink3" onfocus="this.blur()" name="swaplink3">Einblenden</a>
+<a href="#swap" onclick="javascript:swap('Einblenden','Ausblenden', 'swaplink4', 'hideme4')" id="swaplink4" onfocus="this.blur()" name="swaplink4">Einblenden</a>
 </td>
 </tr> 
 <tr style=" text-align: justify; font-size: 14px; font-weight: normal; background-color: rgb(242,242,242);">
 <td colspan="3" style="padding-left:15px; padding-right:15px;">
-<div id="hideme3" style="display:none">
+<div id="hideme4" style="display:none">
 <br /> 
 <div align="center">
 </div> 
@@ -348,12 +396,12 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 <b>Kontakt und Weiteres</b>
 </td>
 <td align="right" width="33%" style="padding-left:15px; padding-right:15px;">
-<a href="#swap" onclick="javascript:swap('Einblenden','Ausblenden', 'swaplink4', 'hideme4')" id="swaplink4" onfocus="this.blur()" name="swaplink4">Einblenden</a>
+<a href="#swap" onclick="javascript:swap('Einblenden','Ausblenden', 'swaplink5', 'hideme5')" id="swaplink5" onfocus="this.blur()" name="swaplink5">Einblenden</a>
 </td>
 </tr> 
 <tr style=" text-align: justify; font-size: 14px; font-weight: normal; background-color: rgb(242,242,242);">
 <td colspan="3" style="padding-left:15px; padding-right:15px;">
-<div id="hideme4" style="display:none">
+<div id="hideme5" style="display:none">
 <br /> 
 <div align="center">
 </div>  
@@ -423,15 +471,15 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 <b>Kontakt und Weiteres</b>
 </td>
 <td align="right" width="33%" style="padding-left:15px; padding-right:15px;">
-<a href="#swap" onclick="javascript:swap('Einblenden','Ausblenden', 'swaplink5', 'hideme5')" id="swaplink5" onfocus="this.blur()" name="swaplink5">Einblenden</a>
+<a href="#swap" onclick="javascript:swap('Einblenden','Ausblenden', 'swaplink6', 'hideme6')" id="swaplink6" onfocus="this.blur()" name="swaplink6">Einblenden</a>
 </td>
 </tr> 
 <tr style=" text-align: justify; font-size: 14px; font-weight: normal; background-color: rgb(242,242,242);">
 <td colspan="3" style="padding-left:15px; padding-right:15px;">
-<div id="hideme5" style="display:none">
+<div id="hideme6" style="display:none">
 <br /> 
 <div align="center">
-</div>  
+</div>   
   <p><b>Telefon:</b> +49 (0) 341 97-31572<br>
   <b>E-Mail:</b> <a href="mailto:carola.de_groote@uni-leipzig.de">carola.de_groote@uni-leipzig.de</a><br>
   <b>Raum:</b> 010<br>
@@ -504,12 +552,12 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 <b>Kontakt und Weiteres</b>
 </td>
 <td align="right" width="33%" style="padding-left:15px; padding-right:15px;">
-<a href="#swap" onclick="javascript:swap('Einblenden','Ausblenden', 'swaplink6', 'hideme6')" id="swaplink6" onfocus="this.blur()" name="swaplink6">Einblenden</a>
+<a href="#swap" onclick="javascript:swap('Einblenden','Ausblenden', 'swaplink7', 'hideme7')" id="swaplink7" onfocus="this.blur()" name="swaplink7">Einblenden</a>
 </td>
 </tr> 
 <tr style=" text-align: justify; font-size: 14px; font-weight: normal; background-color: rgb(242,242,242);">
 <td colspan="3" style="padding-left:15px; padding-right:15px;">
-<div id="hideme6" style="display:none">
+<div id="hideme7" style="display:none">
 <br /> 
 <div align="center">
 </div>  
@@ -575,12 +623,12 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 <b>Kontakt und Weiteres</b>
 </td>
 <td align="right" width="33%" style="padding-left:15px; padding-right:15px;">
-<a href="#swap" onclick="javascript:swap('Einblenden','Ausblenden', 'swaplink7', 'hideme7')" id="swaplink7" onfocus="this.blur()" name="swaplink7">Einblenden</a>
+<a href="#swap" onclick="javascript:swap('Einblenden','Ausblenden', 'swaplink8', 'hideme8')" id="swaplink8" onfocus="this.blur()" name="swaplink8">Einblenden</a>
 </td>
 </tr> 
 <tr style=" text-align: justify; font-size: 14px; font-weight: normal; background-color: rgb(242,242,242);">
 <td colspan="3" style="padding-left:15px; padding-right:15px;">
-<div id="hideme7" style="display:none">
+<div id="hideme8" style="display:none">
 <br /> 
 <div align="center">
 </div> 
@@ -625,16 +673,16 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 <b>Kontakt und Weiteres</b>
 </td>
 <td align="right" width="33%" style="padding-left:15px; padding-right:15px;">
-<a href="#swap" onclick="javascript:swap('Einblenden','Ausblenden', 'swaplink8', 'hideme8')" id="swaplink8" onfocus="this.blur()" name="swaplink8">Einblenden</a>
+<a href="#swap" onclick="javascript:swap('Einblenden','Ausblenden', 'swaplink9', 'hideme9')" id="swaplink9" onfocus="this.blur()" name="swaplink9">Einblenden</a>
 </td>
 </tr> 
 <tr style=" text-align: justify; font-size: 14px; font-weight: normal; background-color: rgb(242,242,242);">
 <td colspan="3" style="padding-left:15px; padding-right:15px;">
-<div id="hideme8" style="display:none">
+<div id="hideme9" style="display:none">
 <br /> 
 <div align="center">
 </div> 
-  <p><b>E-Mail:</b> <a href="mailto:empschul_hiwi@uni-leipzig.de">empschul_hiwi@uni-leipzig.de</a><br>
+  <p><b>E-Mail:</b> <a href="mailto:patrick.hawlitschek@uni-leipzig.de">patrick.hawlitschek@uni-leipzig.de</a><br>
   <b>Raum:</b> 009<br></p>
 </div>
 </td>
@@ -668,15 +716,15 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 <b>Kontakt und Weiteres</b>
 </td>
 <td align="right" width="33%" style="padding-left:15px; padding-right:15px;">
-<a href="#swap" onclick="javascript:swap('Einblenden','Ausblenden', 'swaplink9', 'hideme9')" id="swaplink9" onfocus="this.blur()" name="swaplink9">Einblenden</a>
+<a href="#swap" onclick="javascript:swap('Einblenden','Ausblenden', 'swaplink10', 'hideme10')" id="swaplink10" onfocus="this.blur()" name="swaplink10">Einblenden</a>
 </td>
 </tr> 
 <tr style=" text-align: justify; font-size: 14px; font-weight: normal; background-color: rgb(242,242,242);">
 <td colspan="3" style="padding-left:15px; padding-right:15px;">
-<div id="hideme9" style="display:none">
+<div id="hideme10" style="display:none">
 <br /> 
 <div align="center">
-</div> 
+</div>
   <p><b>E-Mail:</b> <a href="mailto:empschul_hiwi@uni-leipzig.de">empschul_hiwi@uni-leipzig.de</a><br>
   <b>Raum:</b> 009<br></p>
 </div>
@@ -711,16 +759,16 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 <b>Kontakt und Weiteres</b>
 </td>
 <td align="right" width="33%" style="padding-left:15px; padding-right:15px;">
-<a href="#swap" onclick="javascript:swap('Einblenden','Ausblenden', 'swaplink10', 'hideme10')" id="swaplink10" onfocus="this.blur()" name="swaplink10">Einblenden</a>
+<a href="#swap" onclick="javascript:swap('Einblenden','Ausblenden', 'swaplink11', 'hideme11')" id="swaplink11" onfocus="this.blur()" name="swaplink11">Einblenden</a>
 </td>
 </tr> 
 <tr style=" text-align: justify; font-size: 14px; font-weight: normal; background-color: rgb(242,242,242);">
 <td colspan="3" style="padding-left:15px; padding-right:15px;">
-<div id="hideme10" style="display:none">
+<div id="hideme11" style="display:none">
 <br /> 
 <div align="center">
 </div> 
-  <p><b>E-Mail:</b> <a href="mailto:patrick.hawlitschek@uni-leipzig.de">patrick.hawlitschek@uni-leipzig.de</a><br>
+  <p><b>E-Mail:</b> <a href="mailto:empschul_hiwi@uni-leipzig.de">empschul_hiwi@uni-leipzig.de</a><br>
   <b>Raum:</b> 009<br></p>
 </div>
 </td>
