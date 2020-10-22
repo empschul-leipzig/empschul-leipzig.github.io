@@ -9,19 +9,19 @@ image: assets/images/abschlussarbeit .jpg
 
 Haben Sie Interesse, Ihre Bachelor-, Master- oder Staatsexamensarbeit in unserem Arbeitsbereich der "Empirischen Schul- und Unterrichtsforschung" zu schreiben?
 
-**Wir bieten Ihnen:**<br>
+<h4>Wir bieten Ihnen:</h4>
 *	Mitarbeit in unseren laufenden Forschungsprojekten
 *	Betreuung beim Verfassen einer wissenschaftlichen Arbeit in einem interessanten, interdisziplinären Forschungsumfeld
 
 <div class="box">
-<h4>Methodenseminar / Forschungskolloquium für Staatsexamensarbeiten</h4>
+<p><b>Methodenseminar / Forschungskolloquium für Staatsexamensarbeiten</b></p>
 <p>Für alle Studierenden, die in unserem Arbeitsbereich eine Staatsexamensarbeit schreiben (Erstbetreuung), wird in Kooperation mit der Pädagogischen Psychologie ein Methodenseminar / Forschungskolloquium angeboten, in dem jede Staatsexamensarbeit mindestens einmal präsentiert werden sollte. Die Veranstaltung findet in jedem Semester statt, und zwar immer donnerstags von 13:30 – 15:00 Uhr. Die Anmeldung erfolgt über Ihre Betreuerin / Ihren Betreuer, oder per <a href="mailto:empschul@uni-leipzig.de">E-Mail</a></p>
 </div>
 
-**Bedingungen:**<br>
+<h4>Bedingungen:</h4>
 Gemäß der Denomination der Professur betreuen wir ausschließlich empirisch ausgerichtete Abschlussarbeiten. Daher gelten bei uns die [Anforderungen und Rahmenbedingungen](https://home.uni-leipzig.de/~paedpsy/wp-content/uploads/2019/01/PPT_Infoveranstaltung_allgemein.pdf) wie in der Pädagogischen Psychologie. Mit den entsprechenden Arbeitsbereichen bestehen Kooperationen in Forschung und Lehre, zum Beispiel ein gemeinsames Kolloquium für wissenschaftliche Abschlussarbeiten.
 
-In folgenden **Forschungsprojekten** ist das Verfassen einer wissenschaftlichen Abschlussarbeit aktuell möglich:
+In folgenden <h4>Forschungsprojekten</h4> ist das Verfassen einer wissenschaftlichen Abschlussarbeit aktuell möglich:
 
 <script type="text/javascript">
 //<![CDATA[
@@ -419,19 +419,19 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 </tr>
 </table>
 
-**Bei Interesse** melden Sie sich bitte innerhalb der jeweiligen Frist (siehe unten) bei dem oder der für das gewählte Projekt verantwortlichen Mitarbeiter bzw. Mitarbeiterin (siehe Projektbeschreibungen) mit den folgenden **Unterlagen und Angaben**:
+<h4>Bei Interesse</h4> melden Sie sich bitte innerhalb der jeweiligen Frist (siehe unten) bei dem oder der für das gewählte Projekt verantwortlichen Mitarbeiter bzw. Mitarbeiterin (siehe Projektbeschreibungen) mit den folgenden <h4>Unterlagen und Angaben</h4>:
 
 *	Anschreiben mit Darlegung der Motivation für eine wissenschaftliche Abschlussarbeit im gewählten Projekt
 *	geplanter Abgabetermin Ihrer Abschlussarbeit
 
-Die jeweiligen **Fristen für die Bewerbung um eine Staatsexamensarbeit** richten sich nach dem Semester, in dem Sie Ihre Abschlussarbeit abgeben wollen:
+Die jeweiligen <h4>Fristen für die Bewerbung um eine Staatsexamensarbeit</h4> richten sich nach dem Semester, in dem Sie Ihre Abschlussarbeit abgeben wollen:
 
 **Für einen Abschluss…**
 *	im **SoSe 2020** melden Sie sich bitte bis spätestens **04. September 2020**
 *	im **WiSe 2020/21** melden Sie sich bitte bis spätestens **15. Januar 2021**
 
-**Bachelor- und Master-Studierende** melden sich **unabhängig dieser Fristen** mit den oben genannten Unterlagen bei der/dem Forschungsprojektverantwortlichen.
+<h4>Bachelor- und Master-Studierende</h4> melden sich **unabhängig dieser Fristen** mit den oben genannten Unterlagen bei der/dem Forschungsprojektverantwortlichen.
 
-**Aktuelle Termine und weitere Informationen:**  
+<h4>Aktuelle Termine und weitere Informationen:</h4>  
 *Zur Zeit finden keine Informationsveranstaltungen statt.*
 
