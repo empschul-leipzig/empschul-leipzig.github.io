@@ -5,11 +5,18 @@ permalink: /arbeiten
 image: assets/images/abschlussarbeit .jpg
 ---
 
+<h2>Unsere Unterstützungs- und Betreuungsangebote bei wissenschaftlichen Arbeiten</h2>
+
 **Haben Sie Interesse, Ihre Bachelor-, Master- oder Staatsexamensarbeit in unserem Arbeitsbereich der "Empirischen Schul- und Unterrichtsforschung" zu schreiben?**
 
 **Wir bieten Ihnen:**<br>
 *	Mitarbeit in unseren laufenden Forschungsprojekten
 *	Betreuung beim Verfassen einer wissenschaftlichen Arbeit in einem interessanten, interdisziplinären Forschungsumfeld
+
+<div class="box">
+<h3>Methodenseminar / Forschungskolloquium für Staatsexamensarbeiten</h3>
+<p>Für alle Studierenden, die in unserem Arbeitsbereich eine Staatsexamensarbeit schreiben (Erstbetreuung), wird in Kooperation mit der Pädagogischen Psychologie ein Methodenseminar / Forschungskolloquium angeboten, in dem jede Staatsexamensarbeit mindestens einmal präsentiert werden sollte. Die Veranstaltung findet in jedem Semester statt, und zwar immer donnerstags von 13:30 – 15:00 Uhr. Die Anmeldung erfolgt über Ihre Betreuerin / Ihren Betreuer, oder per <a href="mailto:empschul@uni-leipzig.de">E-Mail</a></p>
+</div>
 
 **Bedingungen:**<br>
 Gemäß der Denomination der Professur betreuen wir ausschließlich empirisch ausgerichtete Abschlussarbeiten. Daher gelten bei uns die [Anforderungen und Rahmenbedingungen](https://home.uni-leipzig.de/~paedpsy/wp-content/uploads/2019/01/PPT_Infoveranstaltung_allgemein.pdf) wie in der Pädagogischen Psychologie. Mit den entsprechenden Arbeitsbereichen bestehen Kooperationen in Forschung und Lehre, zum Beispiel ein gemeinsames Kolloquium für wissenschaftliche Abschlussarbeiten.
@@ -427,3 +434,4 @@ Für einen Abschluss…
 
 **Aktuelle Termine und weitere Informationen:**  
 *Zur Zeit finden keine Informationsveranstaltungen statt.*
+
