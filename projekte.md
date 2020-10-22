@@ -7,7 +7,7 @@ title: Projekte
 
 In unserer Forschung geht es uns darum, Lehr- und Lernprozesse im schulischen Kontext sichtbar zu machen und Einsichten für die Praxis und die Ausbildung von Lehrenden zu gewinnen. Unter anderem untersuchen wir aktuell, wie junge und erfahrene Lehrkräfte sich im Unterrichtskontext bewegen, Gestik einsetzen und ihre Aufmerksamkeit verteilen. Dabei versuchen wir klassische Verhaltensanalysen mit automatisierter Audio- und Videoanalyse zu kombinieren und Gesten- und Objekterkennungssoftware für die Bildungsforschung nutzbar zu machen. Gleichzeitig arbeiten wir, gemeinsam mit anderen Forschenden aus dem In- und Ausland, an der Weiterentwicklung von Methoden und Theorien der empirischen Schul- und Unterrichtsforschung.
 
-Im Folgenden erhalten Sie einen Überblick über unsere aktuellen Forschungsprojekte.
+<b>Im Folgenden erhalten Sie einen Überblick über unsere aktuellen Forschungsprojekte.</b>
 
 ***
 
