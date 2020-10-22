@@ -3,12 +3,7 @@ layout: page
 title: Team
 ---
 <!--Team-->
-<div style="width: 420px; padding: 10px; border: 1px solid #27408B;">
-<img class="rechts" src="asstets/images/Gruppenfoto.jpg" width="450" height="325" border="0" alt="Gruppenfoto Team">
-<p style="margin: 0; line-height: 60px;">
-<b>Im Arbeitsbereich "Empirische Schul- und Unterrichtsforschung" lehren und forschen wissenschaftliche Mitarbeitende und abgeordnete Lehrpersonen unter der Leitung von Prof. Dr. Anne Deiglmayr. Wir werden dabei unterstützt durch unsere Sekretärin und unsere wissenschaftlichen und studentischen Hilfskräfte.</b>
-</p>
-</div> 
+<p><img style="float: left; margin: 0px 15px 15px 0px; border-radius: 50%;" src="assets/images/Gruppenfoto.jpg" width="450" hight="325"<b>Im Arbeitsbereich "Empirische Schul- und Unterrichtsforschung" lehren und forschen wissenschaftliche Mitarbeitende und abgeordnete Lehrpersonen unter der Leitung von Prof. Dr. Anne Deiglmayr. Wir werden dabei unterstützt durch unsere Sekretärin und unsere wissenschaftlichen und studentischen Hilfskräfte.</b></p>
 
 <hr>
 <h2>Inhaberin der Professur</h2>
