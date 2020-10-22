@@ -52,7 +52,7 @@ Für unsere Studie suchen wir jederzeit Lehrkräfte, Referendare und Referendari
 
 <div class="box">
 <p><b>Wir benötigen Ihre Unterstützung!</b><br>
-Für unsere Studien suchen wir immer interessierte Eltern mit Kindern im Alter zwischen 2 und 8 Jahren, aber auch regelmäßig Erwachsene, die Lust haben selbst teilzunehmen. Testungen können im Kindergarten, bei uns im Institut aber auch bald schon online stattfinden. Bei Interesse melden Sie sich bitte per <a href="mailto:gregor.kachel@uni-leipzig.de">E-Mail</a>.
+Für unsere Studien suchen wir immer interessierte Eltern mit Kindern im Alter zwischen 2 und 8 Jahren, aber auch regelmäßig Erwachsene, die Lust haben selbst teilzunehmen. Testungen können im Kindergarten, bei uns im Institut aber auch bald schon online stattfinden. Bei Interesse melden Sie sich bitte per <a href="mailto:gregor.kachel@uni-leipzig.de">E-Mail</a>.</p>
 </div>
 
 <p>Symbolic Literacy ist ein <a href="https://www.dfg.de">DFG</a>-gefördertes Forschungsprojekt, das wir gemeinsam mit der Abteilung für vergleichende Kulturpsychologie am <a href="https://www.eva.mpg.de/comparative-cultural-psychology/index.html">MPI für Evolutionäre Anthropologie</a> durchführen.</p>
