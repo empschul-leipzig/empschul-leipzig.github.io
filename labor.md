@@ -2,10 +2,11 @@
 layout: page
 title: Mobiles Labor
 ---
-
+<p>Ein fester und wichtiger Bestandteil unserer Forschungsarbeit ist unser mobiles Labor "m<sup>3</sup>uvi-Lab". Zu diesem erhalten Sie im Nachfolgenden interessannte und nützliche Informationen.</p>
+  
 <h2>Name "m<sup>3</sup>uvi-Lab"</h2>
 
-Der Name <b>m<sup>3</sup>uvi-Lab</b> steht für mobile, multi-modale Unterrichtsvideografie. 
+Der Name m<sup>3</sup>uvi-Lab steht für mobile, multi-modale Unterrichtsvideografie. 
 
 <h2>Forschungszweck</h2>
 
@@ -32,7 +33,7 @@ Der Name <b>m<sup>3</sup>uvi-Lab</b> steht für mobile, multi-modale Unterrichts
 ***
 
 <div class="box">
-  <p><b><span style="color:red">ACHTUNG!</span></b></p>
+<h2><span style="color:red">ACHTUNG!</span></h2>
 
 <p><b>Gegenwärtig suchen wir Teilnehmende für ein Projekt</b>, welches darauf abzielt zu untersuchen, worauf Lehrkräfte während des Unterrichtens achten und wie sie auf Schüler und Schülerinnen wirken. Ziel der Untersuchung ist es, verschiedene mehrkanalige Daten wie Eye-Tracking-, Audio- und Videodaten während des Unterrichtens zu sammeln.</p>
 
