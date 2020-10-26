@@ -3,7 +3,7 @@ layout: page
 title: Team
 ---
 <!--Team-->
-<p><img style="float: right; margin: 0px 15px 15px 15px;" src="assets/images/Gruppenfoto.jpg" width="400" hight="289" /><p>&nbsp;</p>In unserem Arbeitsbereich "Empirische Schul- und Unterrichtsforschung" an der Eziehungswissenschaftlichen Fakultät der Universität Leipzig lehren und forschen wissenschaftliche Mitarbeitende und abgeordnete Lehrpersonen unter der Leitung von Prof. Dr. Anne Deiglmayr. Wir werden dabei unterstützt durch unsere Sekretärin und unsere wissenschaftlichen und studentischen Hilfskräfte.<p>&nbsp;</p><p>&nbsp;</p>
+<p>In unserem Arbeitsbereich "Empirische Schul- und Unterrichtsforschung" an der Eziehungswissenschaftlichen Fakultät der Universität Leipzig lehren und forschen wissenschaftliche Mitarbeitende und abgeordnete Lehrpersonen unter der Leitung von Prof. Dr. Anne Deiglmayr. Wir werden dabei unterstützt durch unsere Sekretärin und unsere wissenschaftlichen und studentischen Hilfskräfte.</p>
 
 <hr>
 <h2>Inhaberin der Professur</h2>
