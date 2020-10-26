@@ -12,7 +12,7 @@ image: assets/images/lehrveranstaltung.jpg
 <b>Nähere Informationen und Rahmenbedingungen zu den Modulen finden Sie im Folgenden:</b>
 
 <hr>
-<h2>Modulverantwortung: <a href="https://empschul-leipzig.github.io/team#Deiglmayr">Prof. Dr. Anne Deiglmayr</a></h2>
+<h4>Modulverantwortung: <a href="https://empschul-leipzig.github.io/team#Deiglmayr">Prof. Dr. Anne Deiglmayr</a></h4>
 <hr> 
 
 <!--05-BWI-02-->
@@ -157,5 +157,5 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 ***
 
 <div class="box">
-<h2>Weitere Informationen:</h2><p>Wichtige organisatorische Informationen zu den Lehrveranstaltungen finden Sie im <a href="https://www.erzwiss.uni-leipzig.de/studium/vorlesungsverzeichnis">Vorlesungsverzeichnis</a> der Erziehungswissenschaftlichen Fakultät und des <a href= "https://www.zls.uni-leipzig.de/studium-beratung/ergaenzungsstudien/">Zentrums für Lehrerbildung und Schulforschung</a>. Hilfe zur Studienorganisation und zur Modul Ab- und Abmeldung finden Sie auf den Seiten des <a href= "https://studienbuero.erzwiss.uni-leipzig.de/index.php">Studienbüros</a>. Alle Informationen und Links rund um das Schulpraktikum im Rahmen von Biwi 2 finden Sie auf den Seiten des <a href="https://www.zls.uni-leipzig.de/studium-beratung/buero-fuer-schulpraktische-studien/">Büros für Schulpraktische Studien</a>.</p>
+<h4>Weitere Informationen:</h4><p>Wichtige organisatorische Informationen zu den Lehrveranstaltungen finden Sie im <a href="https://www.erzwiss.uni-leipzig.de/studium/vorlesungsverzeichnis">Vorlesungsverzeichnis</a> der Erziehungswissenschaftlichen Fakultät und des <a href= "https://www.zls.uni-leipzig.de/studium-beratung/ergaenzungsstudien/">Zentrums für Lehrerbildung und Schulforschung</a>. Hilfe zur Studienorganisation und zur Modul Ab- und Abmeldung finden Sie auf den Seiten des <a href= "https://studienbuero.erzwiss.uni-leipzig.de/index.php">Studienbüros</a>. Alle Informationen und Links rund um das Schulpraktikum im Rahmen von Biwi 2 finden Sie auf den Seiten des <a href="https://www.zls.uni-leipzig.de/studium-beratung/buero-fuer-schulpraktische-studien/">Büros für Schulpraktische Studien</a>.</p>
 </div>
