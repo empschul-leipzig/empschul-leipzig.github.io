@@ -24,11 +24,11 @@ title: Mobiles Labor
 ***
 
 <div class="box">
-**<span style="color:red">ACHTUNG!</span>**
+  <b><span style="color:red">ACHTUNG!</span></b>
 
-**Gegenwärtig suchen wir Teilnehmende für ein Projekt**, welches darauf abzielt zu untersuchen, worauf Lehrkräfte während des Unterrichtens achten und wie sie auf Schüler und Schülerinnen wirken. Ziel der Untersuchung ist es, verschiedene mehrkanalige Daten wie Eye-Tracking-, Audio- und Videodaten während des Unterrichtens zu sammeln.
+<b>Gegenwärtig suchen wir Teilnehmende für ein Projekt</b>, welches darauf abzielt zu untersuchen, worauf Lehrkräfte während des Unterrichtens achten und wie sie auf Schüler und Schülerinnen wirken. Ziel der Untersuchung ist es, verschiedene mehrkanalige Daten wie Eye-Tracking-, Audio- und Videodaten während des Unterrichtens zu sammeln.
 
-**Konnten wir Ihr Interesse wecken?**<br>
+<b>Konnten wir Ihr Interesse wecken?</b><br>
 Dann kontaktieren Sie uns gern! Weitere Informationen zur Studie und den Kontaktangaben finden Sie im offiziellen Einladungsschreiben <a href="/assets/pdfs/Einladung_Pilotstudie.pdf">[&rarr; PDF]</a> oder unter [Studenteilnahme](https://empschul-leipzig.github.io/studien).
 
 </div>
