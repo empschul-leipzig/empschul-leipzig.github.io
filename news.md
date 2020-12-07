@@ -7,6 +7,13 @@ title: News
 
 ***
 
+**Erste Ergebnisse der Pilotstudie**
+
+Der nächste Schritt ist erfolgreich getan: Es liegen nun erste, interessante Ergebnisse zur der Pilotstudie mit dem mobilen Labor vor!
+
+Sie finden diese auf dem zugehörigen Poster "Expert and novice teachers managing classroom disruptions: First findings from a pilot study in the lab". Um dieses aufzurufen, klicken Sie <a href="/assets/pdfs/Mandy_Klatt_poster_SIG27.pdf">[&rarr; HIER]</a>.
+
+
 **Einladung zur Studienteilnahme**
 
 Der Startschuss für unsere erste Studie ist gefallen!    
