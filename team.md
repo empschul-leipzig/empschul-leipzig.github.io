@@ -240,7 +240,7 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 
 <!--Lotz-->
 <article id="Lotz">
-<h3><img style="float: left; margin: 0px 15px 15px 0px; border-radius: 50%;" src="assets/images/Platzhalter.jpg" width="150" hight="200"/>Dr. Christin Lotz</h3>
+<h3><img style="float: left; margin: 0px 15px 15px 0px; border-radius: 50%;" src="assets/images/Lotz.jpg" width="150" hight="200"/>Dr. Christin Lotz</h3>
 <p><b>Postdoktorandin</b></p>
 </article>
 <p style="padding-left: 165px;">Christin Lotz forscht als wissenschaftliche Mitarbeiterin an der Professur „Empirische Schul- und Unterrichtsforschung“ an der Erziehungswissenschaftlichen Fakultät der Universität Leipzig.<br style="clear: both;"/>
