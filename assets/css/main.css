@@ -3896,9 +3896,30 @@
 				-ms-object-position: center;
 				object-position: center;
 				width: 100%;
+				max-width: 25vw;
 			}
 
-		@media screen and (orientation: portrait) {
+		@media screen and (min-width: 1681px) {
+			#banner .image img {
+					max-width: 420px;
+				}
+			}
+
+		@media screen and (max-width: 1280px) {
+			#banner .image img {
+					max-width: 30vw;
+				}
+			}
+
+
+		@media screen and (max-width: 980px) {
+			#banner .image img {
+					max-width: 35vw;
+				}
+			}
+
+
+		@media screen and (max-width: 768px) {
 
 			#banner {
 				-moz-flex-direction: column-reverse;
@@ -3941,10 +3962,10 @@
 
 		}
 
-		@media screen and (orientation: portrait) and (max-width: 480px) {
+		@media screen and (max-width: 480px) {
 
 			#banner .image {
-				max-height: 35vh;
+				max-height: 50vh;
 			}
 
 		}
