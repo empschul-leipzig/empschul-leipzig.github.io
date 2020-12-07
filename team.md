@@ -358,6 +358,8 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
           </tbody>
         </table>
       </div>
+ <p><b>Wissenschaftliche Poster</b></p>
+  Klicken Sie hier: <a href="/assets/pdfs/Mandy_Klatt_Poster_SIG27.pdf">[&rarr; PDF]</a>
 </div>
 </td>
 </tr>
