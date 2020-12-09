@@ -22,7 +22,7 @@ Im Rahmen der Arbeitsgruppe möchten wir nun eine erste Untersuchung starten und
 Unser Projekt zielt darauf ab zu untersuchen, worauf Lehrkräfte während des Unterrichtens achten und wie sie auf Schüler und Schülerinnen wirken. Ziel dabei ist es, verschiedene mehrkanalige Daten wie Eye-Tracking-, Audio- und Videodaten während des Unterrichtens zu sammeln. 
 
 Haben Sie Interesse und möchten mehr erfahren? 
-Weitere Informationen zur Studie und den Kontaktangaben finden Sie im offiziellen Einladungsschreiben <a href="/assets/pdfs/Einladung_Pilotstudie.pdf">[&rarr; PDF]</a> oder unter [Studenteilnahme](https://empschul-leipzig.github.io/studien).
+Weitere Informationen zur Studie und den Kontaktangaben finden Sie im offiziellen Einladungsschreiben <a href="/assets/pdfs/Einladung_Pilotstudie.pdf">[&rarr; PDF]</a> oder unter [Studienteilnahme](https://empschul-leipzig.github.io/studien).
 
 ***
 
