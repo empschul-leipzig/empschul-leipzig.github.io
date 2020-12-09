@@ -1,6 +1,27 @@
 ---
 layout: default
 ---
+<!-- Section -->
+<section>
+	<header class="major">
+		<h2>Unser Arbeitsbereich</h2>
+	</header>
+	
+<div class="content">
+	<p>Zu unseren Aufgaben zählen die Forschung und wissenschaftliche Vernetzung, die Lehre, die Betreuung von Abschlussarbeiten, die Kooperation mit Schulen sowie die Zusammenarbeit innerhalb der Fakultät beziehungsweise der Universität.</p>
+    <p><b>In unserer Forschung möchten wir...</b></p>
+	      <ul>
+	          <li>Lehr- und Lernprozesse im schulischen Kontext sichtbar machen,</li>
+	          <li>Einsichten für die Praxis und die Ausbildung von Lehrenden gewinnen,</li>
+	          <li>Methoden und Theorien der empirischen Schul- und Unterrichtsforschung weiterentwickeln.</li>
+	      </ul>
+	<p><b>In der Lehre verantworten wir...</b></p>
+	      <ul>
+	          <li> das bildungswissenschafte Modul 2 "Praxis- und Studienfeld Schule",</li>
+	          <li>Serminare zu quantitativen und qualitativen Forschungsmethoden.</li>
+	      </ul>
+</div>
+</section>
 
 <!-- Section -->
 <section>
@@ -70,7 +91,7 @@ layout: default
 		<article>
 			<a href="{{ 'projekte#Frohberg' | absolute_url }}" class="image"><img src="assets/images/Banner_Frohberg.jpg" alt="" /></a>
 			<h3>Implizite Überzeugungen bei Lehrkräften</h3>
-			<p>Welche Überzeugungen haben Lehrkräfte von der Veränderbarkeit von Eigenschaften? Welchen Einfluss hat die individuelle Denkweise des Lehrers auf die Wahrnehmung seiner Schüler? Diesen und ähnlichen Fragen widmet sich das Projekt Implizite Überzeugungen bei Lehrkräften.</p>
+			<p>Welche Überzeugungen haben Lehrkräfte von der Veränderbarkeit von Eigenschaften? Welchen Einfluss hat die individuelle Denkweise der Lehrkraft auf die Wahrnehmung seiner Schüler und Schülerinnen? Diesen und ähnlichen Fragen widmet sich das Projekt <i>Implizite Überzeugungen bei Lehrkräften</i>.</p>
 			<ul class="actions">
 				<li><a href="{{ 'projekte#Frohberg' | absolute_url }}" class="button">Mehr</a></li>
 			</ul>
@@ -78,7 +99,7 @@ layout: default
 		<article>
 			<a href="{{ 'projekte#Kachel' | absolute_url }}" class="image"><img src="assets/images/pic06.jpg" alt="" /></a>
 			<h3>Symbolverstehen im Vorschulalter</h3>
-			<p>Welche graphischen Zeichen verstehen Kinder bereits im Vorschulalter und wie leicht fällt es ihnen unbekannte Zeichen zu interpretieren?  Diesen und ähnlichen Fragen widmet sich unser Projekt <i>Symbolic Literacy</i>.</p>
+			<p>Welche graphischen Zeichen verstehen Kinder bereits im Vorschulalter und wie leicht fällt es ihnen, unbekannte Zeichen zu interpretieren?  Diesen und ähnlichen Fragen widmet sich unser Projekt <i>Symbolic Literacy</i>.</p>
 			<ul class="actions">
 				<li><a href="{{ 'projekte#Kachel' | absolute_url }}" class="button">Mehr</a></li>
 			</ul>
