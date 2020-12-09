@@ -28,9 +28,7 @@ Ziel der Untersuchung ist es, verschiedene mehrkanalige Daten wie ***Eye-Trackin
 
 **Was erwartet Sie?**  
 Während der Datenerhebung werden ganze ***Unterrichtsstunden gefilmt***. Anwesend sind Sie als Lehrperson, die Schülerinnen und Schüler Ihrer Klasse sowie zwei Forschende der Universität Leipzig.
-
 Im Raum werden ***vier Kameras*** und ***ein Audiorekorder*** mit Mikrofonen aufgestellt, welche das gesamte Geschehen der Klasse aufzeichnen. Mit einer ***Eye-Tracking-Brille***, die Sie als Lehrkraft tragen, versuchen wir, das Blickverhalten in den Interaktionen zu erfassen.
-
 Im Anschluss an die Unterrichtsstunde erhalten alle Teilnehmenden einen kurzen ***Fragebogen zur Klassenführung*** in der beobachteten Unterrichtsstunde.
 
 **Was sind die Voraussetzungen?**  
