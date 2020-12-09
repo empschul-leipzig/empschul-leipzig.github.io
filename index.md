@@ -8,7 +8,7 @@ layout: default
 	</header>
 	
 <div class="content">
-	<p>Zu unseren Aufgaben zählen die Forschung und wissenschaftliche Vernetzung, die Lehre, die Betreuung von Abschlussarbeiten, die Kooperation mit Schulen sowie die Zusammenarbeit innerhalb der Fakultät beziehungsweise der Universität.</p>
+	<p>Zu den Aufgaben unseres Teams zählen die Forschung und wissenschaftliche Vernetzung, die Lehre, die Betreuung von Abschlussarbeiten, die Kooperation mit Schulen sowie die Zusammenarbeit innerhalb der Fakultät beziehungsweise der Universität.</p>
     <p><b>In unserer Forschung möchten wir...</b></p>
 	      <ul>
 	          <li>Lehr- und Lernprozesse im schulischen Kontext sichtbar machen,</li>

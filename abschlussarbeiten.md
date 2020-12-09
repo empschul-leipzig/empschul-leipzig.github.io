@@ -43,7 +43,7 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 <table class="tab24" align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
 <tr bgcolor="#BDBDBD">
 <td width="53%" height="30" style="padding-left:15px; padding-right:15px;">
-<b>Lernen durch Experimentieren – Evaluierung eines Testinstrument zur Erfassung der Experimentierkompetenz von 7.–9.-Klässlern</b>
+<b>Lernen durch Experimentieren – Evaluierung eines Testinstruments zur Erfassung der Experimentierkompetenz von 7.–9.-Klässlern</b>
 </td>
 <td align="right" width="13%" style="padding-left:15px; padding-right:15px;">
 <a href="#swap" onclick="javascript:swap('Einblenden','Ausblenden', 'swaplink', 'hideme')" id="swaplink" onfocus="this.blur()" name="swaplink">Einblenden</a>
@@ -363,7 +363,7 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 <table class="tab24" align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
 <tr bgcolor="#BDBDBD">
 <td width="53%" height="30" style="padding-left:15px; padding-right:15px;">
-<b>Entwicklung der Profesionalität von Lehramtsstudierenden mittels Praktika</b>
+<b>Entwicklung der Professionalität von Lehramtsstudierenden mittels Praktika</b>
 </td>
 <td align="right" width="13%" style="padding-left:15px; padding-right:15px;">
 <a href="#swap" onclick="javascript:swap('Einblenden','Ausblenden', 'swaplink8', 'hideme8')" id="swaplink8" onfocus="this.blur()" name="swaplink8">Einblenden</a>
@@ -401,7 +401,7 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 <table class="tab24" align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
 <tr bgcolor="#BDBDBD">
 <td width="53%" height="30" style="padding-left:15px; padding-right:15px;">
-<b>Relevanz des Themas "Begabungsföderung an Schulen" im Lehramtsstudium</b>
+<b>Relevanz des Themas "Begabungsförderung an Schulen" im Lehramtsstudium</b>
 </td>
 <td align="right" width="13%" style="padding-left:15px; padding-right:15px;">
 <a href="#swap" onclick="javascript:swap('Einblenden','Ausblenden', 'swaplink9', 'hideme9')" id="swaplink9" onfocus="this.blur()" name="swaplink9">Einblenden</a>
