@@ -7,13 +7,11 @@ image: assets/images/lehrveranstaltung.jpg
 
 <h2>Unser Studienangebot</h2>
 
+<h4>Modulverantwortung: <a href="https://empschul-leipzig.github.io/team#Deiglmayr">Prof. Dr. Anne Deiglmayr</a></h4>
+
 <p>In der Lehre der Erziehungswissenschaftlichen Fakultät der Universität Leipzig verantwortet unser Arbeitsbereich das Modul <b>"Praxis- und Studienfeld Schule"</b> (05-BWI-02) im bildungswissenschaftlichen Teil aller Lehramtsstudiengänge mit ca. 1300 Studierenden pro Jahr. Zusätzlich werden Lehrveranstaltungen in anderen bildungswissenschaftlichen Modulen sowie auch zu quantitativen und qualitativen Forschungsmethoden angeboten; so verantwortet die Professur auch das Modul <b>"Einführung in die Methoden der qualitativen empirischen Sozialforschung"</b> in den Ergänzungsstudien (05-SQM-48).</p>
 
 <b>Nähere Informationen und Rahmenbedingungen zu den Modulen finden Sie im Folgenden:</b>
-
-<hr>
-<h4>Modulverantwortung: <a href="https://empschul-leipzig.github.io/team#Deiglmayr">Prof. Dr. Anne Deiglmayr</a></h4>
-<hr> 
 
 <!--05-BWI-02-->
 

@@ -15,9 +15,9 @@ title: Team
 <h3><img style="float: left; margin: 0px 15px 15px 0px; border-radius: 50%;" src="assets/images/Deiglmayr.jpg" width="150" hight="200" />Prof. Dr. Anne Deiglmayr</h3>
 <p><b>Professorin</b></p>
 </article>
-<p style="padding-left: 165px;">Prof. Dr. Anne Deiglmayr ist seit 12/2018 Inhaberin der Professur „Empirische Schul- und Unterrichtsforschung“ an der Erziehungswissenschaftlichen Fakultät der Universität Leipzig.<br>
+<p style="padding-left: 165px;">Prof. Dr. Anne Deiglmayr ist seit 12/2018 Inhaberin der Professur "Empirische Schul- und Unterrichtsforschung" an der Erziehungswissenschaftlichen Fakultät der Universität Leipzig.<br>
 Ihre Forschungsschwerpunkte umfassen u.a. Methoden der mobilen Unterrichtsforschung, die Professionsentwicklung von Lehrpersonen, Lehr- und Lernprozesse beim (computergestützten) kooperativen Lernen, sowie die Förderung des Lehrens und Lernens im MINT-Unterricht.<br>
-Prof. Deiglmayr bietet Lehrveranstaltungen im Bereich der bildungswissenschaftlichen Module der Lehramtsstudiengänge (insbesondere Modul 02 „Praxis- und Studienfeld Schule“) sowie im Bereich der Ergänzungsstudien an (insbesondere zu Methoden der empirischen Sozialforschung).<br style="clear: both;" />
+Prof. Deiglmayr bietet Lehrveranstaltungen im Bereich der bildungswissenschaftlichen Module der Lehramtsstudiengänge (insbesondere Modul 02 "Praxis- und Studienfeld Schule") sowie im Bereich der Ergänzungsstudien an (insbesondere zu Methoden der empirischen Sozialforschung).<br style="clear: both;" />
 
 <script type="text/javascript">
 //<![CDATA[
@@ -121,7 +121,7 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 
 <h3><img style="float: left; margin: 0px 15px 15px 0px; border-radius: 50%;" src="assets/images/Pagel.jpg" width="150" hight="200"/>Anne-Kathrin Pagel</h3>
 <p><b>Sekretärin</b></p>
-<p style="padding-left: 165px;">Anne-Katrhin Pagel ist Sekretärin an der Professur „Empirische Schul- und Unterrichtsforschung“ an der Erziehungswissenschaftlichen Fakultät der Universität Leipzig.<br style="clear: both;"/>
+<p style="padding-left: 165px;">Anne-Katrhin Pagel ist Sekretärin an der Professur "Empirische Schul- und Unterrichtsforschung" an der Erziehungswissenschaftlichen Fakultät der Universität Leipzig.<br style="clear: both;"/>
 
 <script type="text/javascript">
 //<![CDATA[
@@ -243,7 +243,7 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 <h3><img style="float: left; margin: 0px 15px 15px 0px; border-radius: 50%;" src="assets/images/Lotz.jpg" width="150" hight="200"/>Dr. Christin Lotz</h3>
 <p><b>Postdoktorandin</b></p>
 </article>
-<p style="padding-left: 165px;">Christin Lotz forscht als wissenschaftliche Mitarbeiterin an der Professur „Empirische Schul- und Unterrichtsforschung“ an der Erziehungswissenschaftlichen Fakultät der Universität Leipzig.<br style="clear: both;"/>
+<p style="padding-left: 165px;">Christin Lotz forscht als wissenschaftliche Mitarbeiterin an der Professur "Empirische Schul- und Unterrichtsforschung" an der Erziehungswissenschaftlichen Fakultät der Universität Leipzig.<br style="clear: both;"/>
 
 <script type="text/javascript">
 //<![CDATA[
@@ -289,9 +289,9 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 <h3><img style="float: left; margin: 0px 15px 15px 0px; border-radius: 50%;" src="assets/images/Klatt.jpg" width="150" hight="200"/>Mandy Klatt</h3>
 <p><b>Doktorandin</b></p>
 </article>
-<p style="padding-left: 165px;">Mandy Klatt forscht und lehrt als wissenschaftliche Mitarbeiterin an der Professur „Empirische Schul- und Unterrichtsforschung“ an der Erziehungswissenschaftlichen Fakultät der Universität Leipzig.<br>
-Im Mittelpunkt ihrer Forschungsinteressen stehen neue, multimodale Methoden zur Erforschung von Lehr- und Lernprozessen wie mehrkanalige Prozessmessungen, Eye-Tracking, Audio- und Videografie im Unterricht. Ziel ist es außerdem, automatisierte Analyseverfahren anhand von Beobachtungsdaten zu validieren, um sie für die Unterrichtsforschung nutzbar zu machen. In ihrer Dissertation widmet sie sich u.a. der Fragestellung nach der Expertiseentwicklung von Lehrpersonen.<br>
-Mandy Klatt bietet Lehrveranstaltungen im Bereich der bildungswissenschaftlichen Module der Lehramtsstudiengänge (Modul 02 „Praxis- und Studienfeld Schule“) an.<br>
+<p style="padding-left: 165px;">Mandy Klatt forscht und lehrt als wissenschaftliche Mitarbeiterin an der Professur "Empirische Schul- und Unterrichtsforschung" an der Erziehungswissenschaftlichen Fakultät der Universität Leipzig.<br>
+Im Mittelpunkt ihrer Forschungsinteressen stehen neue, multimodale Methoden zur Erforschung von Lehr- und Lernprozessen wie mehrkanalige Prozessmessungen, Eye-Tracking, Audio- und Videografie im Unterricht. Ziel ist es außerdem, automatisierte Analyseverfahren anhand von Beobachtungsdaten zu validieren, um sie für die Unterrichtsforschung nutzbar zu machen. In ihrer Dissertation widmet sie sich u. a. der Fragestellung nach der Expertiseentwicklung von Lehrpersonen.<br>
+Mandy Klatt bietet Lehrveranstaltungen im Bereich der bildungswissenschaftlichen Module der Lehramtsstudiengänge (Modul 02 "Praxis- und Studienfeld Schule") an.<br>
 Vor ihrer Beschäftigung an der Universität Leipzig absolvierte sie einen anderthalbjährigen Aufenthalt in Frankreich mit Lehrtätigkeit.<br style="clear: both;"/>
 
 <script type="text/javascript">
@@ -522,7 +522,7 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 
 <h3><img style="float: left; margin: 0px 15px 15px 0px; border-radius: 50%;" src="assets/images/Eulitz.jpg" width="150" hight="200"/>Gereon Eulitz</h3>
 <p><b>Doktorand</b></p>
-<p style="padding-left: 165px;">Gereon Eulitz ist Lehrer im Hochschuldienst und gehört der Professur "Empirische Schul- und Unterrichtsforschung" an. Sein Forschungsinteresse gilt der kooperativen Unterrichtsentwicklung. Das Modul 05-BWI-02 (SPS) "Praxis- und Studienfeld Schule“ ist Schwerpunkt seiner Lehrtätigkeit. Außerdem wirkt er an der Mentorenqualifizierung im Freistaat Sachsen mit.
+<p style="padding-left: 165px;">Gereon Eulitz ist Lehrer im Hochschuldienst und gehört der Professur "Empirische Schul- und Unterrichtsforschung" an. Sein Forschungsinteresse gilt der kooperativen Unterrichtsentwicklung. Das Modul 05-BWI-02 (SPS) "Praxis- und Studienfeld Schule" ist Schwerpunkt seiner Lehrtätigkeit. Außerdem wirkt er an der Mentorenqualifizierung im Freistaat Sachsen mit.
 <p style="padding-left: 165px;"><span style="text-decoration: underline;">Arbeitsschwerpunkte und Forschungsinteressen</span><br>
  - Kooperation von Wissenschaftler*innen und Lehrer*innen im Rahmen didaktischer Entwicklungsforschung<br>
 - Unterrichtsentwicklung und Unterrichtsforschung, insbesondere kooperative Formate (z.B. Design-Based Research, Lesson Study, Professional Learning Communities<br>

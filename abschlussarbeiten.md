@@ -9,6 +9,8 @@ image: assets/images/abschlussarbeit .jpg
 
 Haben Sie Interesse, Ihre Bachelor-, Master- oder Staatsexamensarbeit in unserem Arbeitsbereich der "Empirischen Schul- und Unterrichtsforschung" zu schreiben?
 
+<hr>
+
 <h4>Wir bieten Ihnen:</h4>
 *	Mitarbeit in unseren laufenden Forschungsprojekten
 *	Betreuung beim Verfassen einer wissenschaftlichen Arbeit in einem interessanten, interdisziplinären Forschungsumfeld
@@ -18,8 +20,12 @@ Haben Sie Interesse, Ihre Bachelor-, Master- oder Staatsexamensarbeit in unserem
 <p>Für alle Studierenden, die in unserem Arbeitsbereich eine Staatsexamensarbeit schreiben (Erstbetreuung), wird in Kooperation mit der Pädagogischen Psychologie ein Methodenseminar / Forschungskolloquium angeboten, in dem jede Staatsexamensarbeit mindestens einmal präsentiert werden sollte. Die Veranstaltung findet in jedem Semester statt, und zwar immer donnerstags von 13:30 – 15:00 Uhr. Die Anmeldung erfolgt über Ihre Betreuerin / Ihren Betreuer, oder per <a href="mailto:empschul@uni-leipzig.de">E-Mail</a></p>
 </div>
 
+<hr>
+
 <h4>Bedingungen:</h4>
 Gemäß der Denomination der Professur betreuen wir ausschließlich empirisch ausgerichtete Abschlussarbeiten. Daher gelten bei uns die [Anforderungen und Rahmenbedingungen](https://home.uni-leipzig.de/~paedpsy/wp-content/uploads/2019/01/PPT_Infoveranstaltung_allgemein.pdf) wie in der Pädagogischen Psychologie. Mit den entsprechenden Arbeitsbereichen bestehen Kooperationen in Forschung und Lehre, zum Beispiel ein gemeinsames Kolloquium für wissenschaftliche Abschlussarbeiten.
+
+<hr>
 
 <h4>Forschungsprojekte:</h4>
 In folgenden Projekten ist das Verfassen einer wissenschaftlichen Abschlussarbeit aktuell möglich:
@@ -174,7 +180,7 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
  <h4>Anforderungen</h4>
  	<p>Vorerfahrung im Umgang mit Vorschulkindern</p>
  <h4>Projektbeschreibung</h4>
- 	<p>Im Rahmen des DFG-Projektes Symbolic Literacy untersuchen wir, wie Klein- und Vorschulkinder konventionelle Symbole (Zahlen, Buchstaben, Ikone etc.) verstehen und wie gut sie darin sind, die Bedeutung unbekannter graphischer Symbole spontan zu erschließen. Die Arbeit in diesem Projekt setzt die Bereitschaft voraus, eigene Daten an Kindergärten oder in den Testräumen des MPI EVA oder online zu erheben. Die Studien werden als Bilderbuchgeschichten auf Touch-Screen-Laptops präsentiert. Die Programmierung und Analyse sowie die Kontakte zu Kindergärten und Teilnehmenden werden von uns bereit gestellt. Idealerweise hat man keine Angst vor der Statistiksoftware R.</p>
+ 	<p>Im Rahmen des DFG-Projektes Symbolic Literacy untersuchen wir, wie Klein- und Vorschulkinder konventionelle Symbole (Zahlen, Buchstaben, Ikone etc.) verstehen und wie gut sie darin sind, die Bedeutung unbekannter graphischer Symbole spontan zu erschließen. Die Arbeit in diesem Projekt setzt die Bereitschaft voraus, eigene Daten an Kindergärten, in den Testräumen des MPI EVA oder online zu erheben. Die Studien werden als Bilderbuchgeschichten auf Touch-Screen-Laptops präsentiert. Die Programmierung und Analyse sowie die Kontakte zu Kindergärten und Teilnehmenden werden von uns bereitgestellt. Idealerweise hat man keine Angst vor der Statistiksoftware R.</p>
 </div>
 </td>
 </tr>
@@ -218,7 +224,7 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
  <h4>Projektbeschreibung</h4>
  	<p>Wir möchten Computer Vision Tools wie etwa Objekterkennung (Mask-RCNN,YOLO) und Gestenerkennung aus Pose Estimation (OpenPose, DensePose) für die empirische Bildungsforschung nutzbar machen. In diesem Projekt würden wir versuchen unter Verwendung bereits bestehender Videoaufnahmen realer Unterrichtseinheiten, einfache Forschungsfragen automatisiert mittels Computer Vision Tools zu beantworten:<br>
 	<i>Wie viele Personen sind in einem Raum? Wie viele von Ihnen stehen oder sitzen? Können wir Handmeldungen auszählen? Wie bewegen sich Lehrkräfte im Raum? Wie setzen sie Gestik ein?</i><br>
-	Die Wahl der Forschungsfrage ist dabei weitgehend offen. Es geht nicht darum selbst neue Analysemöglichkeiten zu entwickeln, sondern eher darum bestehende Analysemöglichkeiten an einer konkreten Forschungsfrage anzuwenden.</p>
+	Die Wahl der Forschungsfrage ist dabei weitgehend offen. Es geht nicht darum, selbst neue Analysemöglichkeiten zu entwickeln, sondern eher darum, bestehende Analysemöglichkeiten an einer konkreten Forschungsfrage anzuwenden.</p>
 </div>
 </td>
 </tr>
@@ -260,7 +266,7 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
  <h4>Anforderungen</h4>
  	<p>Programmiererfahrung</p>
  <h4>Projektbeschreibung</h4>
- 	<p>Wir möchten computerbasierte Audioanalysen, wie etwa die Messung von Lautstärke, Spektrogrammen oder Sprachanalysen für die empirische Bildungsforschung nutzbar machen. In diesem Projekt würden wir versuchen unter Verwendung bereits bestehender Videoaufnahmen realer Unterrichtseinheiten einfache Forschungsfragen automatisiert mittels Audioanalysetools zu beantworten:<br>
+ 	<p>Wir möchten computerbasierte Audioanalysen, wie etwa die Messung von Lautstärke, Spektrogrammen oder Sprachanalysen, für die empirische Bildungsforschung nutzbar machen. In diesem Projekt würden wir versuchen, unter Verwendung bereits bestehender Videoaufnahmen realer Unterrichtseinheiten, einfache Forschungsfragen automatisiert mittels Audioanalysetools zu beantworten:<br>
 	<i>Wie laut ist es im Raum? Wird gesprochen oder handelt es sich um Geräusche? Wie viele Personen sprechen gleichzeitig?</i><br>
 	Die Wahl der Forschungsfrage ist dabei weitgehend offen. Es geht nicht darum, selbst neue Analysemöglichkeiten zu entwickeln, sondern eher darum, bestehende Analysemöglichkeiten an einer konkreten Forschungsfrage anzuwenden. Die Arbeit an diesem Projekt setzt Programmiererfahrung voraus oder zumindest die Bereitschaft, sich intensiv mit Programmierung auseinander zu setzen. Idealerweise verfügt man über einen Hintergrund in Python.</p>
 </div>
@@ -422,10 +428,14 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 
 <b>Bei Interesse</b> melden Sie sich bitte innerhalb der jeweiligen Frist (siehe unten) bei dem oder der für das gewählte Projekt verantwortlichen Mitarbeiter bzw. Mitarbeiterin (siehe Projektbeschreibungen) mit den folgenden...
 
+<hr>
+
 <h4>Unterlagen und Angaben:</h4>
 
 *	Anschreiben mit Darlegung der Motivation für eine wissenschaftliche Abschlussarbeit im gewählten Projekt
 *	geplanter Abgabetermin Ihrer Abschlussarbeit
+
+<hr>
 
 <h4>Fristen:</h4>
 Die Fristen für die Bewerbung um eine <b>Staatsexamensarbeit</b> richten sich nach dem Semester, in dem Sie Ihre Abschlussarbeit abgeben wollen:
@@ -437,6 +447,8 @@ Die Fristen für die Bewerbung um eine <b>Staatsexamensarbeit</b> richten sich n
 
 
 <b>Bachelor- und Master-Studierende</b> melden sich <b>unabhängig dieser Fristen</b> mit den oben genannten Unterlagen bei der / dem Forschungsprojektverantwortlichen.
+
+<hr>
 
 <h4>Aktuelle Termine und weitere Informationen:</h4>  
 <i>Zur Zeit finden keine Informationsveranstaltungen statt.</i>

@@ -21,18 +21,20 @@ Ein Projekt, mit dem wir uns derzeit beschäftigen, zielt darauf ab zu untersuch
 **Wer kann teilnehmen?**  
 Sie sind als Lehrer oder Lehrerin tätig oder möchten es gerne werden?  
 Sie haben bereits Lehrerfahrung sammeln können? Umso besser!
-Wir suchen ***Lehrpersonen***, die im Schuldienst arbeiten und Lust darauf haben, in der Forschung mitzuwirken, um die Brücke zwischen Praxis und Theorie zu stärken.
+Wir suchen ***Lehrpersonen***, die im Schuldienst arbeiten und Lust darauf haben, in der Forschung mitzuwirken, um die Brücke zwischen der Praxis und Theorie zu stärken.
 
 **Was ist das Ziel?**  
 Ziel der Untersuchung ist es, verschiedene mehrkanalige Daten wie ***Eye-Tracking-, Audio- und Videodaten*** während des Unterrichtens zu sammeln.
 
 **Was erwartet Sie?**  
-Für die Untersuchung sollen Sie einen ***15-minütigen Stundeneinstieg*** halten. Mit drei weiteren Lehrpersonen imitieren Sie Unterricht, wobei Sie die Rolle der Lehrperson übernehmen und die anderen Teilnehmenden die Schüler und Schülerinnen einer Klasse darstellen. Die Teilnehmenden werden während Ihres Stundeneinstiegs gebeten, typische Handlungen auszuführen, die im Unterricht passieren können.
+Während der Datenerhebung werden ganze ***Unterrichtsstunden gefilmt***. Anwesend sind Sie als Lehrperson, die Schülerinnen und Schüler Ihrer Klasse sowie zwei Forschende der Universität Leipzig.
 
-Um umfassende Daten zu erhalten, werden im Raum ***vier Kameras*** aufgestellt, die aus verschiedenen Perspektiven das Geschehen filmen. Ein ***Audiorekorder*** nimmt Geräusche und Unterhaltungen auf. Mit einer ***Eye-Trackingbrille***, die Sie als Lehrkraft tragen, versuchen wir, das Blickverhalten in Interaktionen zu erfassen. Im Anschluss an die 15 Minuten bekommen nicht nur die Teilnehmenden einen kurzen ***Fragebogen***, in dem sie Fragen zu Ihrem Auftreten beantworten, sondern auch Sie selbst sollen ein kurzes Feedback zu Ihrem Stundeneinstieg geben.
+Im Raum werden ***vier Kameras*** und ***ein Audiorekorder*** mit Mikrofonen aufgestellt, welche das gesamte Geschehen der Klasse aufzeichnen. Mit einer ***Eye-Tracking-Brille***, die Sie als Lehrkraft tragen, versuchen wir, das Blickverhalten in den Interaktionen zu erfassen.
+
+Im Anschluss an die Unterrichtsstunde erhalten alle Teilnehmenden einen kurzen ***Fragebogen zur Klassenführung*** in der beobachteten Unterrichtsstunde.
 
 **Was sind die Voraussetzungen?**  
-Für die Teilnahme und die Weiterverwendung der erhobenen Daten ist die ***Einverständniserklärung***. Wir bitten Sie daher um Ihre Einwilligung, dass Sie an unserer Studie teilnehmen möchten und dass wir die Bild- und Tonaufnahmen im Rahmen von wissenschaftlichen- und Lehrveranstaltungen verwendet werden dürfen. Die Studienteilnahme ist freiwillig und kann zu jeder Zeit abgebrochen oder die Einwilligung zurückgezogen werden. Die persönlichen Daten von Ihnen werden nicht an Dritte weitergegeben. Genauere Informationen erhaltet Sie in unseren Hinweisen zum Datenschutz.
+Für die Teilnahme und die Weiterverwendung der erhobenen Daten ist die ***Einverständniserklärung***. Wir bitten Sie daher um Ihre Einwilligung, dass Sie an unserer Studie teilnehmen möchten und dass wir die Bild- und Tonaufnahmen im Rahmen von wissenschaftlichen- und Lehrveranstaltungen verwendet werden dürfen. Die Studienteilnahme ist freiwillig und kann zu jeder Zeit abgebrochen oder die Einwilligung zurückgezogen werden. Die persönlichen Daten von Ihnen werden nicht an Dritte weitergegeben. Genauere Informationen erhalten Sie in unseren Hinweisen zum Datenschutz.
 
 **Haben wir Ihr Interesse wecken können? Oder haben Sie Fragen zu unserem Vorhaben?**  
 Dann stehen wir Ihnen gern zur Verfügung. Melden Sie sich einfach per <a href="mailto:empforschung@uni-leipzig.de">E-Mail</a> oder Telefon <a href="tel:+4903419731572">(+49 (0) 341 97-31572).

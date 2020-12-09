@@ -2,7 +2,7 @@
 layout: page
 title: Mobiles Labor
 ---
-<p>Ein fester und wichtiger Bestandteil unserer Forschungsarbeit ist unser mobiles Labor "m<sup>3</sup>uvi-Lab". Zu diesem erhalten Sie im Nachfolgenden interessannte und nützliche Informationen.</p>
+<p>Ein fester und wichtiger Bestandteil unserer Forschungsarbeit ist unser mobiles Labor "m<sup>3</sup>uvi-Lab". Zu diesem erhalten Sie im Nachfolgenden interessante und nützliche Informationen.</p>
   
 <h2>Name "m<sup>3</sup>uvi-Lab"</h2>
 
@@ -20,9 +20,9 @@ Der Name m<sup>3</sup>uvi-Lab steht für mobile, multi-modale Unterrichtsvideogr
 <p><img src="assets/images/AudioRecorder.jpg" width="100" hight="178" alt="" style="float:right; margin-left:20px;">Um verbale Äußerungen, die paraverbale Kommunikation und andere Klassenzimmergeräusche analysieren zu können, wird ein <b>Audiorecorder</b> (Zoom H3-VR Handy Recorder) mittig im Klassenraum platziert. Durch mehrere Mikrofone werden 360-Grad-Audioaufnahmen gemacht. Des Weiteren wird die Lehrperson mit einem tragbaren Mikrofon ausgestattet, um das Gesagte aufzuzeichnen.</p>
 
 <img src="assets/images/GoPro.JPG" width="150" hight="150" alt="" style="float:left; margin-right:20px;">
-<p>Bewegungen, Mimik und Gesten der Schüler und Schülerinnen sowie der Lehrperson werden von <b>vier Kameras</b> (GoPro Hero7) aus verschiedenen Winkeln aufgenommen. Eine Kamera wird so installiert, dass sie seitlich das Klassengeschehen filmt. Zwei weitere Kameras werden zum einen an der Tafel, zum anderen am Ende des Labors angebracht, um die Lehrperson und Klasse von vorne bzw. hinten aufzunehmen. Darüber hinaus ist es angedacht, die vierte Kamera so anzubringen, dass nur Mimik und Gestik der Lehrperson erfasst wird. Alle Kameras zeichnen das Unterrichtsgeschehen in Full HD auf. Der Audiorecorder und die vier Kameras werden über Timecode synchronisiert, sodass die gleichgeschaltete Aufnahme von Audio- wie Videodaten möglich ist.</p>
+<p>Bewegungen, Mimik und Gesten der Schüler und Schülerinnen sowie der Lehrperson werden von <b>vier Kameras</b> (GoPro Hero7) aus verschiedenen Winkeln aufgenommen. Eine Kamera wird so installiert, dass sie seitlich das Klassengeschehen filmt. Zwei weitere Kameras werden zum einen an der Tafel, zum anderen am Ende des Labors angebracht, um die Lehrperson und Klasse von vorne bzw. hinten aufzunehmen. Darüber hinaus ist es angedacht, die vierte Kamera so anzubringen, dass nur Mimik und Gestik der Lehrperson erfasst werden. Alle Kameras zeichnen das Unterrichtsgeschehen in Full HD auf. Der Audiorecorder und die vier Kameras werden über Timecode synchronisiert, sodass die gleichgeschaltete Aufnahme von Audio- wie Videodaten möglich ist.</p>
 
-<p>Die während des Unterrichts verwendeten Materialien werden von uns abfotografiert. Ferner wird der Unterricht von einem vorher trainierten Mitarbeitenden live codiert, um unterrichtsrelevante Ereignisse zu erfassen. Im Anschluss an jede aufgezeichnete Unterrichtseinheit ist es angedacht, Schüler und Schülerinnen wie auch Lehrpersonen mittels Fragebogen zu verschiedenen Dimensionen der Unterrichtsqualität zu befragen.</p>
+<p>Die während des Unterrichts verwendeten Materialien werden von uns abfotografiert. Ferner wird der Unterricht von einem vorher trainierten Mitarbeitenden live codiert, um unterrichtsrelevante Ereignisse zu erfassen. Im Anschluss an jede aufgezeichnete Unterrichtseinheit ist es angedacht, Schüler und Schülerinnen wie auch Lehrpersonen mittels Fragebögen zu verschiedenen Dimensionen der Unterrichtsqualität zu befragen.</p>
 
 <h2>Methoden</h2>
 
