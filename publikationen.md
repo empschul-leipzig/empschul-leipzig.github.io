@@ -6,6 +6,10 @@ permalink: /publikationen/
 
 <h2>Publikationen mit Peer-Review</h2>
 
+Sparfeldt, J. R., **Lotz, C.** & Keimerl, V. (submitted for publication). Vom Nutzen einer Vorlesung – Kompetenzerwerb im bildungswissenschaftlichen Lehramtsstudium.
+
+Valerius, S., **Lotz, C.** & Sparfeldt, J. R. (accepted for publication). „Hochbegabt“ oder „nicht hochbegabt“ – Zur Übereinstimmung der Hochbegabungsidentifikation mit SPM, CFT 20-R und KFT-N. Psychologie in Erziehung und Unterricht.
+
 Hildebrandt, F., Glauer, R., & **Kachel, G.** (in press). Coming from a world without objects. Mind and Language.
 
 Bohn, M., **Kachel, G.**, & Tomasello, M. (2019). Young children spontaneously recreate core properties of language in a new modality. Proceedings of the National Academy of Sciences.
@@ -24,7 +28,19 @@ Schalk, L., Edelsbrunner, P., **Deiglmayr, A.**, Schumacher, R., & Stern, E. (20
 
 **Kachel, G.**, Moore, R. & Tomasello, M. (2018). Two-year-olds use adults’ pointing gestures but not peers’. Developmental Science. e12660.
 
+**Lotz, C.**, Schneider, R. & Sparfeldt, J. R. (2018). Differential relevance of intelligence and motivation for grades and competence tests in mathematics. Learning and Individual Differences, 65, 30–40.
+
 Schmidtke-Bode, K. & **Kachel, G.** (2018). Exploring the motivational antecedents of Nepalese learners of L2 English. International Review of Applied Linguistics in Language Teaching.
+
+Schneider, R., **Lotz, C.** & Sparfeldt, J. R. (2018). Smart, confident, interested: Contributions of intelligence, self-concept, and interest to elementary school achievement. Learning and Individual Differences, 62, 23–35.
+
+**Lotz, C.**, Scherer R., Greiff, S. & Sparfeldt, J. R. (2017). Intelligence in action - Effective strategic behaviors while solving complex problems. Intelligence, 64, 98-112.
+
+**Lotz, C.** & Sparfeldt, J. R. (2016). Does test anxiety increase as the exam draws near? - Students' state test anxiety recorded over the course of one semester. Personality and Individual Differences, 104, 397 – 400.
+
+**Lotz, C.**, Sparfeldt, J. R. & Greiff, S. (2016). Complex Problem Solving in Educational Contexts – Still something beyond a “good g”? Intelligence, 59, 127–138.
+
+Sparfeldt, J. R., **Lotz, C.**, Sapp, S. & Rost, D. H. (2016). "Allein oder mit anderen?" - Psychometrische Prüfung des "Bildertest zum sozialen Selbstkonzept" (BSSK). Diagnostica, 62, 255–265.
 
 **Deiglmayr, A.**, & Schalk, L. (2015). Weak versus strong knowledge interdependence: A comparison of two rationales for distributing information among learners in collaborative learning settings. *Learning and Instruction, 40*, 69 – 78. [DOI: 10.1016/j.learninstruc.2015.08.003](https://www.sciencedirect.com/science/article/abs/pii/S0959475215300244?via%3Dihub)
 
@@ -41,6 +57,8 @@ Plesch, C., **Deiglmayr, A.**, Mullins, D., & Spada, H. (2014). Future core rese
 **Meier, A.**, Spada, H., & Rummel, N. (2007). A rating scheme for assessing the quality of computer-supported collaboration processes. *International Journal of Computer-Supported Collaborative Learning*, 2(1), 63-86. [DOI: 10.1007/s11412-006-9005-x](https://link.springer.com/article/10.1007%2Fs11412-006-9005-x)
 
 <h2>Buchkapitel und weitere Publikationen</h2>
+
+Sparfeldt, J. R., **Lotz, C.** & Schneider, R. (2018). Leistungsangst im Vorfeld einer Klausur – kurz gefasst. In G. Hagenauer & T. Hascher (Hrsg.), Sammelband: Emotionen und Emotionsregulation in der Schule und Hochschule. Münster: Waxmann.
 
 Ziegler, E., **Deiglmayr, A.**, Schalk, L., & Stern, E. (2018). Kognitive Entwicklung im Jugendalter. In: B. Gniewosz & P. Titzmann (Hrsg.): *Handbuch Jugend* (S. 165-183). Stuttgart: Kohlhammer.
 
@@ -76,6 +94,10 @@ Peteranderl, S., **Deiglmayr, A.**, & Stern, E. (2018). *Lernen durch Vergleiche
 
 Peteranderl, S., **Deiglmayr, A.**, Edelsbrunner, P., & Stern, E. (2018). *Assessment and training of experimentation skills in primary school students*. 11th International Conference on Conceptual Change, Epistemic Cognition and Conceptual Change, August 2018, Klagenfurt, Austria
 
+**Lotz, C.**, Schneider, R. & Sparfeldt, J. R. (2018). Leistungsangstverlauf im Vorfeld einer Klausur – kurz gefasst. Vortrag auf der 6. Tagung der Gesellschaft für empirische Bildungsforschung (GEBF) in Basel, Schweiz.
+
+Schneider, R., **Lotz, C.** & Sparfeldt, J. R. (2017). Are intelligence and motivation differentially relevant for competence tests and grades? Vortrag auf der 9th SELF Biennial International Conference in Melbourne, Australien.
+
 Edelsbrunner, P., & **Deiglmayr, A.**, (2017). *Argumentation about the Control of Variables-Strategy: a large-scale study in primary school*. 17th Biennial Conference for Research on Learning an Instruction (EARLI), August 2017, Tampere, Finland
 
 **Deiglmayr, A.**, & Zander, S. (2017). *Motivation, affect, and body in instructional design: Current research on digital technologies and the assessment of learner states* (Invited Symposium of EARLI SIG 7). 17th Biennial Conference for Research on Learning an Instruction (EARLI), August 2017, Tampere, Finland.
@@ -88,15 +110,28 @@ Simonsmeier, B.A., Flaig, M., **Deiglmayr, A.**, Schalk, L., & Schneider, M. (20
 
 Stern, E., Schumacher, R., Edelsbrunner, P., Schalk, L., & **Deiglmayr, A.** (2017). *How regular elementary school teachers can boost their student’s conceptual knowledge in physics*. 17th Biennial Conference for Research on Learning an Instruction (EARLI), August 2017, Tampere, Finland.
 
+**Lotz, C.**, Scherer, R., Greiff, S. & Sparfeldt, J. R. (2017). Intelligence in action - Effective strategic behaviors while solving complex problems. Vortrag auf der 5. Tagung der Gesellschaft für empirische Bildungsforschung (GEBF), Heidelberg.
+
+Keimerl, V., **Lotz, C.** & Sparfeldt, J. (2017). Vom Nutzen einer Vorlesung – Kompetenzerwerb im bildungswissenschaftlichen Lehramtsstudium. Vortrag auf der
+5. Tagung der Gesellschaft für empirische Bildungsforschung (GEBF), Heidelberg.
+
 **Deiglmayr, A.**, Oberholzer, Y., & Schalk, L. (2016). *Effekte von Wissensinterdependenz in kooperativen Lernsettings auf den individuellen Lernerfolg: eine Meta-Analyse* (Vortrag). Kongress der Deutschen Gesellschaft für Psychologie, September 2016, Leipzig.
 
 Edelsbrunner, P.A., **Deiglmayr, A.**, Schalk, L., Schumacher, R., & Stern, E. (2016). *Eine grossangelegte Untersuchung des Verständnisses und der Argumentation zu experimentellen Designs bei Grundschulkindern* (Vortrag). Kongress der Deutschen Gesellschaft für Psychologie, September 2016, Leipzig.
 
+**Lotz, C.** & Sparfeldt (2016). Intelligenz, Selbstkonzept und Interesse als Prädiktoren von Schulerfolg – Differentielle Bedeutsamkeit für Tests und Noten? Vortrag auf dem 50. Kongress der Deutschen Gesellschaft für Psychologie (DGPS), Leipzig.
+
 **Deiglmayr, A.** & Schalk, L. (2016). Learning from comparing and contrasting worked examples does not explain the advantage of weak over strong knowledge interdependence (Vortrag). Paper presented at the biannual meeting of the EARLI SIGs 6&7, *Learning and Instruction at the Crossroads of Technology*, August 2016, Dijon, France.
+
+**Lotz, C.**, Greiff, S., & Sparfeldt, J. R. (2016). Complex Problem Solving in Educational Contexts – Still something beyond a “good g”? Vortrag auf der 17th Conference of the International Society for Intelligence Research (ISIR), St. Petersburg, Russland.
 
 Mazziotti, C., Rummel, N., **Deiglmayr, A.**, (2016). Comparing students’ solutions when learning collaboratively or individually within Productive Failure. *Proceedings of the 12th International Conference of the Learning Sciences (ICLS 2016)*, pp. 926- 929. International Society of the Learning Sciences, Inc.
 
 Nussbaumer, D., **Deiglmayr, A.**, Saalbach, H., & Grabner, R. (2016). *How are occupational stress, coping and pedagogical content knowledge related in teacher students?* (Vortrag) Paper presented at the biannual meeting of the EARLI SIG 11, Teachers and Teacher Education, June 2016, Zurich, Switzerland.
+
+**Lotz, C.** & Sparfeldt, J. R. (2016). Intelligenz und Selbstkonzept als Prädiktoren von Schulerfolg – differentielle Bedeutsamkeit für Tests und Noten. Vortrag auf der 4. Tagung der Gesellschaft für empirische Bildungsforschung (GEBF), Berlin.
+
+**Lotz, C.**, Sparfeldt, J. R. & Ringeisen, T. (2015). Leistungsängstlichkeitsanstieg vor und –abfall nach einer Klausur – Eine latente Wachstumskurvenanalyse. Vortrag auf der 15. Fachgruppentagung Pädagogische Psychologie (PAEPS), Kassel.
 
 **Deiglmayr, A.** & Schalk, L. (2015). *Interactive and constructive generation of principle-based explanations* (Vortrag). 16th Biennial Conference for Research on Learning an Instruction (EARLI), August 2015, Limassol, Cyprus.
 
@@ -104,17 +139,30 @@ Stern, E., Edelsbrunner, P., Schumacher, R., Schalk, L., & **Deiglmayr, A.** (20
 
 **Deiglmayr, A.**, Rummel, N., & Loibl, K. (2015). The mediating role of interactive learning activities in CSCL: An INPUT-PROCESS-OUTCOME model. *Proceedings of the 11th Conference on Computer Supported Collaborative Learning, CSCL 2015, Vol 2* (pp. 518 – 522). International Society of the Learning Sciences, Inc.
 
+**Lotz, C.**, Sparfeldt, J. R. & Ringeisen, T. (2015). Trait and state test anxiety before and after an exam: A latent growth curve analysis. Vortrag auf der 36th Conference of the Stress and Anxiety Research Society (STAR), Tel-Aviv, Israel.
+
 Edelsbrunner, P., **Deiglmayr, A.**, Schalk, L., Schumacher, R., & Stern, E. (2015). *The development of physics knowledge in elementary school: Relations with cognitive skills* (Poster). 1st REASON Spring School on the Assessment of Scientific Reasoning, März 2015, München.
+
+**Lotz, C.**, Greiff, S. & Sparfeldt, J. R. (2015). Komplexes Problemlösen und die Vorhersage von Schulleistungen – Inkrementell prädiktiv trotz „gutem g“? Vortrag auf 3. Tagung der Gesellschaft für empirische Bildungsforschung (GEBF), Bochum.
 
 Pape, S., Hüther-Pape, L., **Deiglmayr, A.**, Bollini, E., von Kügelgen, L., & Spada, H. (2015). *Choosing versus rejecting revisited: explanations for a framing effect that does not hold true for all countries* (Poster). International Convention of Psychological Science, März 2015, Amsterdam.
 
 **Deiglmayr, A.**, & Schalk, L. (2014). *Zwei Arten von Wissensinterdependenz in kooperativen Lernformen und ihr Einfluss auf konstruktive und interaktive Lernprozesse* (Vortrag). 49. Kongress der Deutschen Gesellschaft für Psychologie, September 2014, Bochum.
 
+**Lotz, C.** & Sparfeldt, J. (2014). Zur Vorhersage des mit offenem vs. geschlossenem Antwortformat erfassten Leseverständnisses aus Begabung und Lesegeschwindigkeit. Vortrag auf dem 49. Kongress der Deutschen Gesellschaft für Psychologie (DGPS),
+Bochum.
+
 **Deiglmayr, A.**, & Schalk, L. (2014). *The degree of knowledge interdependence in collaborative learning influences individual knowledge transfer* (Vortrag). SIG 6-7 Conference, August 2014, Rotterdam, Netherlands.
+
+**Lotz, C.** & Sparfeldt, J. (2014). Does test anxiety increase if the exam draws near? – Development of students' test anxiety during one semester. Vortrag auf der 35th Conference of the Stress and Anxiety Research Society (STAR), Cluj-Napoca, Rumänien.
 
 Edelsbrunner, P., **Deiglmayr, A.**, & Schalk, L. (2014). *Das Verständnis experimenteller Designs im Kindesalter: Analyse und Überarbeitung eines Erhebungsinstruments* (Poster). Zweite Tagung der Gesellschaft für Empirische Bildungsforschung (GEBF), März 2014, Frankfurt am Main.
 
-**Deiglmayr, A.** & Schalk, L. (2013). Superficial, rather than true, knowledge interdependence in collaborative learning fosters individual knowledge transfer. *Proceedings of the 35th Annual Conference of the Cognitive Science Societ*y (pp. 382-387). Austin, TX: Cognitive Science Society
+**Deiglmayr, A.** & Schalk, L. (2013). Superficial, rather than true, knowledge interdependence in collaborative learning fosters individual knowledge transfer. *Proceedings of the 35th Annual Conference of the Cognitive Science Society (pp. 382-387). Austin, TX: Cognitive Science Society*
+
+**Lotz, C.**, Sparfeldt, J. & Jacobs, B. (2013). Je näher die Klausur, um so größer die Angst? – Leistungsängstlichkeit im Semesterverlauf. Vortrag auf der 14. Fachgruppentagung Pädagogische Psychologie (PAEPS), Hildesheim.
+
+**Lotz, C.**, Sparfeldt, J., Sapp, S. & Rost, D.H. (2012). Bildertest zum sozialen Selbstkonzept. Erfassung des sozialen Selbstkonzepts bei Grundschulkindern – Bildertest versus Fragebogen?. Vortrag auf der 77. Tagung der Arbeitsgruppe für Empirische Pädagogische Forschung (AEPF), Bielefeld.
 
 Kaendler, C., Plesch, C., **Deiglmayr, A.**, Diziol, D., Rummel, N., & Spada, H. (2011). Emerging tensions in the future of technology-enhanced learning: First results of an international Delphi study. In H. Spada, G. Stahl, N. Miyake, & N. Law (Eds.), *Connecting computer-supported collaborative learning to policy and practice – CSCL2011 Conference Proceedings, Vol 2* (pp. 676-680). International Society of the Learning Sciences, Inc.
 
