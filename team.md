@@ -157,7 +157,7 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 
   <p><b>Telefon:</b> +49 (0) 341 97-31570<br>
   <b>E-Mail:</b> <a href="mailto:empschul@uni-leipzig.de">empschul@uni-leipzig.de</a><br>
-  <b>Raum:</b> 009<br>
+  <b>Raum:</b> 009</p>
 
 </div>
 </td>
