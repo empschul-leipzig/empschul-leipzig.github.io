@@ -112,8 +112,7 @@ Stern, E., Schumacher, R., Edelsbrunner, P., Schalk, L., & **Deiglmayr, A.** (20
 
 **Lotz, C.**, Scherer, R., Greiff, S. & Sparfeldt, J. R. (2017). Intelligence in action - Effective strategic behaviors while solving complex problems. Vortrag auf der 5. Tagung der Gesellschaft für empirische Bildungsforschung (GEBF), Heidelberg.
 
-Keimerl, V., **Lotz, C.** & Sparfeldt, J. (2017). Vom Nutzen einer Vorlesung – Kompetenzerwerb im bildungswissenschaftlichen Lehramtsstudium. Vortrag auf der
-5. Tagung der Gesellschaft für empirische Bildungsforschung (GEBF), Heidelberg.
+Keimerl, V., **Lotz, C.** & Sparfeldt, J. (2017). Vom Nutzen einer Vorlesung – Kompetenzerwerb im bildungswissenschaftlichen Lehramtsstudium. Vortrag auf der 5. Tagung der Gesellschaft für empirische Bildungsforschung (GEBF), Heidelberg.
 
 **Deiglmayr, A.**, Oberholzer, Y., & Schalk, L. (2016). *Effekte von Wissensinterdependenz in kooperativen Lernsettings auf den individuellen Lernerfolg: eine Meta-Analyse* (Vortrag). Kongress der Deutschen Gesellschaft für Psychologie, September 2016, Leipzig.
 
