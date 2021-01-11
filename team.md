@@ -117,11 +117,11 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 <h2>Sekretariat</h2>
 <hr>
   
-<!--Pagel-->
+<!--Habelt-->
 
-<h3><img style="float: left; margin: 0px 15px 15px 0px; border-radius: 50%;" src="assets/images/Pagel.jpg" width="150" hight="200"/>Anne-Kathrin Pagel</h3>
+<h3><img style="float: left; margin: 0px 15px 15px 0px; border-radius: 50%;" src="assets/images/Habelt.jpg" width="150" hight="200"/>Henriette Habelt</h3>
 <p><b>Sekretärin</b></p>
-<p style="padding-left: 165px;">Anne-Katrhin Pagel ist Sekretärin an der Professur "Empirische Schul- und Unterrichtsforschung" an der Erziehungswissenschaftlichen Fakultät der Universität Leipzig.<br style="clear: both;"/>
+<p style="padding-left: 165px;">Henriette Habelt ist Sekretärin an der Professur "Empirische Schul- und Unterrichtsforschung" an der Erziehungswissenschaftlichen Fakultät der Universität Leipzig.<br style="clear: both;"/>
 
 <script type="text/javascript">
 //<![CDATA[
@@ -158,27 +158,7 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
   <p><b>Telefon:</b> +49 (0) 341 97-31570<br>
   <b>E-Mail:</b> <a href="mailto:empschul@uni-leipzig.de">empschul@uni-leipzig.de</a><br>
   <b>Raum:</b> 009<br>
-  <b>Sprechzeit:</b> Mittwoch 09:00-12:00 Uhr</p>
 
-  <p><b>Kurzbiografie</b></p>
-  <div class="table-wrapper">
-        <table>
-          <tbody>
-            <tr>
-              <td>seit 2019</td>
-              <td>Sekretärin an der Professur für Empirische Schul- und Unterrichtsforschung</td>
-            </tr>
-            <tr>
-              <td>2006-2019</td>
-              <td>verschiedene Beschäftigungen an der TU Dresden und Universität Leipzig</td>
-            </tr>
-            <tr>
-              <td>2003-2006</td>
-              <td>Ausbildung zur Fremdsprachensekretärin</td>
-            </tr>
-          </tbody>
-        </table>
-      </div>
 </div>
 </td>
 </tr>
@@ -243,7 +223,7 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 <h3><img style="float: left; margin: 0px 15px 15px 0px; border-radius: 50%;" src="assets/images/Lotz.jpg" width="150" hight="200"/>Dr. Christin Lotz</h3>
 <p><b>Postdoktorandin</b></p>
 </article>
-<p style="padding-left: 165px;">Christin Lotz forscht als wissenschaftliche Mitarbeiterin an der Professur "Empirische Schul- und Unterrichtsforschung" an der Erziehungswissenschaftlichen Fakultät der Universität Leipzig.<br style="clear: both;"/>
+<p style="padding-left: 165px;">Dr. Christin Lotz forscht als wissenschaftliche Mitarbeiterin an der Professur "Empirische Schul- und Unterrichtsforschung" an der Erziehungswissenschaftlichen Fakultät der Universität Leipzig. Ihre Interessenschwerpunkte umfassen Intelligenz und komplexes Problemlösen bei der Vorhersage von Schulerfolg. Darüber hinaus forscht sie zu motivationalen Konstrukten wie akademisches Selbstkonzept und Interesse sowie Leistungsängstlichkeit.<br style="clear: both;"/>
 
 <script type="text/javascript">
 //<![CDATA[
@@ -279,6 +259,35 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
   <p><b>Telefon:</b> +49 (0) 341 97-31578<br>
   <b>E-Mail:</b> <a href="mailto:christin.lotz@uni-leipzig.de">christin.lotz@uni-leipzig.de</a><br>
   <b>Raum:</b> 005</p>
+  <b>Sprechzeit:</b> Dienstag 14:00-15:00 Uhr</p>
+
+  <p><b>Kurzbiografie</b></p>
+  <div class="table-wrapper">
+        <table>
+          <tbody>
+            <tr>
+              <td>seit 09/2020</td>
+              <td>Postdoc am Lehrstuhl für "Empirische Schul- und Unterrichtsforschung" an der Erziehungswissenschaftlichen Fakultät der Universität Leipzig</td>
+            </tr>
+            <tr>
+              <td>08/2018-04/2020</td>
+              <td>Berufliche Auszeit (Weltreise)</td>
+            </tr>
+            <tr>
+              <td>06/2012-06/2018</td>
+              <td>Doktorandin am Lehrstuhl für "Diagnostik, Beratung, Intervention" an der Universität des Saarlandes</td>
+            </tr>
+            <tr>
+              <td>10/2006-06/2012</td>
+              <td>Studium der Psychologie, Universität Trier</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+
+ <p><b>Publikationen</b></p>
+  Klicken Sie hier: <a href="/assets/pdfs/Publikationen_Christin Lotz.pdf">[&rarr; PDF]</a>
+
 </div>
 </td>
 </tr>
@@ -771,6 +780,77 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 </div> 
   <p><b>E-Mail:</b> <a href="mailto:empschul_hiwi@uni-leipzig.de">empschul_hiwi@uni-leipzig.de</a><br>
   <b>Raum:</b> 009<br></p>
+</div>
+</td>
+</tr>
+</table>
+
+<hr>
+<h2>Ehemalige Mitarbeitende</h2>
+<hr>
+  
+<!--Pagel-->
+
+<h3><img style="float: left; margin: 0px 15px 15px 0px; border-radius: 50%;" src="assets/images/Pagel.jpg" width="150" hight="200"/>Anne-Kathrin Pagel</h3>
+<p><b>Sekretärin</b></p>
+<p style="padding-left: 165px;">Anne-Katrhin Pagel ist Sekretärin an der Professur "Empirische Schul- und Unterrichtsforschung" an der Erziehungswissenschaftlichen Fakultät der Universität Leipzig.<br style="clear: both;"/>
+
+<script type="text/javascript">
+//<![CDATA[
+function swap(openlink,closelink, linkid, dataid)
+{
+if( document.getElementById(dataid).style.display == 'none')
+{
+document.getElementById(dataid).style.display='inline';
+document.getElementById(linkid).firstChild.nodeValue=closelink;
+} else
+{
+document.getElementById(dataid).style.display='none';
+document.getElementById(linkid).firstChild.nodeValue=openlink;
+}
+}
+//]]>
+</script>
+<table class="tab24" align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr bgcolor="#BDBDBD">
+<td width="33%" height="30" style="padding-left:15px; padding-right:15px;">
+<b>Kontakt und Weiteres</b>
+</td>
+<td align="right" width="33%" style="padding-left:15px; padding-right:15px;">
+<a href="#swap" onclick="javascript:swap('Einblenden','Ausblenden', 'swaplink1', 'hideme1')" id="swaplink1" onfocus="this.blur()" name="swaplink1">Einblenden</a>
+</td>
+</tr> 
+<tr style=" text-align: justify; font-size: 14px; font-weight: normal; background-color: rgb(242,242,242);">
+<td colspan="3" style="padding-left:15px; padding-right:15px;">
+<div id="hideme1" style="display:none">
+<br /> 
+<div align="center">
+</div> 
+
+  <p><b>Telefon:</b> +49 (0) 341 97-31570<br>
+  <b>E-Mail:</b> <a href="mailto:empschul@uni-leipzig.de">empschul@uni-leipzig.de</a><br>
+  <b>Raum:</b> 009<br>
+  <b>Sprechzeit:</b> Mittwoch 09:00-12:00 Uhr</p>
+
+  <p><b>Kurzbiografie</b></p>
+  <div class="table-wrapper">
+        <table>
+          <tbody>
+            <tr>
+              <td>seit 2019</td>
+              <td>Sekretärin an der Professur für Empirische Schul- und Unterrichtsforschung</td>
+            </tr>
+            <tr>
+              <td>2006-2019</td>
+              <td>verschiedene Beschäftigungen an der TU Dresden und Universität Leipzig</td>
+            </tr>
+            <tr>
+              <td>2003-2006</td>
+              <td>Ausbildung zur Fremdsprachensekretärin</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
 </div>
 </td>
 </tr>
