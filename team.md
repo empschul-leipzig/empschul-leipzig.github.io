@@ -792,8 +792,8 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 <!--Pagel-->
 
 <h3><img style="float: left; margin: 0px 15px 15px 0px; border-radius: 50%;" src="assets/images/Pagel.jpg" width="150" hight="200"/>Anne-Kathrin Pagel</h3>
-<p><b>Sekretärin</b></p>
-<p style="padding-left: 165px;">Anne-Katrhin Pagel ist Sekretärin an der Professur "Empirische Schul- und Unterrichtsforschung" an der Erziehungswissenschaftlichen Fakultät der Universität Leipzig.<br style="clear: both;"/>
+<p><b>ehemalige Sekretärin</b></p>
+<p style="padding-left: 165px;">Anne-Katrhin Pagel war Sekretärin an der Professur "Empirische Schul- und Unterrichtsforschung" an der Erziehungswissenschaftlichen Fakultät der Universität Leipzig.<br style="clear: both;"/>
 
 <script type="text/javascript">
 //<![CDATA[
@@ -827,18 +827,13 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 <div align="center">
 </div> 
 
-  <p><b>Telefon:</b> +49 (0) 341 97-31570<br>
-  <b>E-Mail:</b> <a href="mailto:empschul@uni-leipzig.de">empschul@uni-leipzig.de</a><br>
-  <b>Raum:</b> 009<br>
-  <b>Sprechzeit:</b> Mittwoch 09:00-12:00 Uhr</p>
-
   <p><b>Kurzbiografie</b></p>
   <div class="table-wrapper">
         <table>
           <tbody>
             <tr>
-              <td>seit 2019</td>
-              <td>Sekretärin an der Professur für Empirische Schul- und Unterrichtsforschung</td>
+              <td>2019-2020</td>
+              <td>Sekretärin an der Professur für "Empirische Schul- und Unterrichtsforschung"</td>
             </tr>
             <tr>
               <td>2006-2019</td>
