@@ -9,7 +9,7 @@ title: News
 
 <b>Das "m<sup>3</sup>uvi-Lab" an Schulen</b>
 
-<p><img src="assets/images/Karte_m3uvi-lab_final.jpg" width="200" hight="142" alt="" style="float:right; margin-left:20px;">Bald schon können wir mit unserem "m<sup>3</sup>uvi-Lab" endlich an die Leipziger Schulen kommen!</p>
+<p><img src="assets/images/Karte_m3uvi-lab_final.jpg" width="300" hight="213" alt="" style="float:right; margin-left:20px;">Bald schon können wir mit unserem "m<sup>3</sup>uvi-Lab" endlich an die Leipziger Schulen kommen!</p>
 
 <p>Sie kennen interessierte Lehrkräfte oder Schulleitungen, die von unserem Projekt noch nicht erfahren haben? Dann leiten Sie doch gern unseren Teaser mit allen wichtigen Kontaktangaben weiter! Den Teaser zu unserem „m3uvi-Lab“ finden Sie hier zum <a href="/assets/pdfs/Karte_m3uvi-lab_final.pdf">[&rarr; Download]</a>.</p>
 
