@@ -546,6 +546,86 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 </tr>
 </table>
 
+<script type="text/javascript">
+//<![CDATA[
+function swap(openlink,closelink, linkid, dataid)
+{
+if( document.getElementById(dataid).style.display == 'none')
+{
+document.getElementById(dataid).style.display='inline';
+document.getElementById(linkid).firstChild.nodeValue=closelink;
+} else
+{
+document.getElementById(dataid).style.display='none';
+document.getElementById(linkid).firstChild.nodeValue=openlink;
+}
+}
+//]]>
+</script>
+<table class="tab24" align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr bgcolor="#BDBDBD">
+<td width="53%" height="30" style="padding-left:15px; padding-right:15px;">
+<b>Erfassung der Unterrichtswahrnehmung von Lehrpersonen und Schüler:innen</b>
+</td>
+<td align="right" width="13%" style="padding-left:15px; padding-right:15px;">
+<a href="#swap" onclick="javascript:swap('Einblenden','Ausblenden', 'swaplink13', 'hideme13')" id="swaplink13" onfocus="this.blur()" name="swaplink13">Einblenden</a>
+</td>
+</tr> 
+<tr style=" text-align: justify; font-size: 14px; font-weight: normal; background-color: rgb(242,242,242);">
+<td colspan="3" style="padding-left:15px; padding-right:15px;">
+<div id="hideme13" style="display:none">
+<br /> 
+<div align="center">
+</div> 
+ <h4>Ansprechperson</h4>
+ 	<p><a href="https://empschul-leipzig.github.io/team#Lotz">Dr. Christin Lotz</a></p> 
+ <h4>Weitere Betreuungspersonen</h4>
+ 	<p><a href="https://empschul-leipzig.github.io/team#Frohberg">Franziska Frohberg</a>,<a href="https://empschul-leipzig.github.io/team#Klatt">Mandy Klatt</a></p> </p> 
+ <h4>Ziel</h4>
+ 	<p>Pilotierung eines Fragebogens</p>
+ </div>
+</td>
+</tr>
+</table>
+
+<script type="text/javascript">
+//<![CDATA[
+function swap(openlink,closelink, linkid, dataid)
+{
+if( document.getElementById(dataid).style.display == 'none')
+{
+document.getElementById(dataid).style.display='inline';
+document.getElementById(linkid).firstChild.nodeValue=closelink;
+} else
+{
+document.getElementById(dataid).style.display='none';
+document.getElementById(linkid).firstChild.nodeValue=openlink;
+}
+}
+//]]>
+</script>
+<table class="tab24" align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr bgcolor="#BDBDBD">
+<td width="53%" height="30" style="padding-left:15px; padding-right:15px;">
+<b>Wahrnehmung und Bewertung von Unterrichtsstörungen durch Lehrpersonen und Schüler:innen</b>
+</td>
+<td align="right" width="13%" style="padding-left:15px; padding-right:15px;">
+<a href="#swap" onclick="javascript:swap('Einblenden','Ausblenden', 'swaplink14', 'hideme14')" id="swaplink14" onfocus="this.blur()" name="swaplink14">Einblenden</a>
+</td>
+</tr> 
+<tr style=" text-align: justify; font-size: 14px; font-weight: normal; background-color: rgb(242,242,242);">
+<td colspan="3" style="padding-left:15px; padding-right:15px;">
+<div id="hideme14" style="display:none">
+<br /> 
+<div align="center">
+</div> 
+ <h4>Ansprechperson</h4>
+ 	<p><a href="https://empschul-leipzig.github.io/team#Lotz">Dr. Christin Lotz</a></p> 
+ </div>
+</td>
+</tr>
+</table>
+
 <b>Bei Interesse</b> melden Sie sich bitte innerhalb der jeweiligen Frist (siehe unten) bei dem oder der für das gewählte Projekt verantwortlichen Mitarbeiter bzw. Mitarbeiterin (siehe Projektbeschreibungen) mit den folgenden...
 
 <hr>
