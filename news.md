@@ -27,8 +27,9 @@ title: News
 
 <b>Einladung zur Studienteilnahme</b>
 
-<p>Der Startschuss für unsere erste Studie ist gefallen!<br>   
-Im Rahmen der Arbeitsgruppe möchten wir nun eine erste Untersuchung starten und dazu brauchen wir Ihre Hilfe: Wir suchen Lehrpersonen, die im Schuldienst arbeiten und Interesse daran haben, in der Forschung mitzuwirken, um die Brücke zwischen Praxis und Theorie zu stärken.<br>
+<p>Der Startschuss für unsere erste Studie ist gefallen!</p>
+
+<p>Im Rahmen der Arbeitsgruppe möchten wir nun eine erste Untersuchung starten und dazu brauchen wir Ihre Hilfe: Wir suchen Lehrpersonen, die im Schuldienst arbeiten und Interesse daran haben, in der Forschung mitzuwirken, um die Brücke zwischen Praxis und Theorie zu stärken.<br>
 Unser Projekt zielt darauf ab zu untersuchen, worauf Lehrkräfte während des Unterrichtens achten und wie sie auf Schüler und Schülerinnen wirken. Ziel dabei ist es, verschiedene mehrkanalige Daten wie Eye-Tracking-, Audio- und Videodaten während des Unterrichtens zu sammeln.</p>
 
 <p>Haben Sie Interesse und möchten mehr erfahren?<br>
