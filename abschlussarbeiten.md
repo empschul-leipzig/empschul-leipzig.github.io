@@ -642,8 +642,8 @@ Die Fristen für die Bewerbung um eine <b>Staatsexamensarbeit</b> richten sich n
 
 <b>Für einen Abschluss…</b>
 
-*  im <b>SoSe 2020</b> melden Sie sich bitte bis spätestens <b>04. September 2020</b>
-*  im <b>WiSe 2020/21</b> melden Sie sich bitte bis spätestens <b>15. Januar 2021</b>
+*  im <b>SoSe 2021</b> melden Sie sich bitte bis spätestens <b>15. Januar 2021</b>
+*  im <b>WiSe 2021/22</b> melden Sie sich bitte bis spätestens <b>31. August 2021</b>
 
 
 <b>Bachelor- und Master-Studierende</b> melden sich <b>unabhängig dieser Fristen</b> mit den oben genannten Unterlagen bei der / dem Forschungsprojektverantwortlichen.
