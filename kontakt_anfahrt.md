@@ -28,7 +28,7 @@ title: Kontakt und Anfahrt
     </div>
     <div class="4u$ 12u$(medium)">
         <h3>Sekretariat</h3>
-        <p>Anne-Kathrin Pagel<br>
+        <p>Henriette Habelt<br>
         Raum 009<br>
         Dittrichring 5-7<br>
         04109 Leipzig</p>

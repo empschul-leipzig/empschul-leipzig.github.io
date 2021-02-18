@@ -645,7 +645,6 @@ Die Fristen für die Bewerbung um eine <b>Staatsexamensarbeit</b> richten sich n
 *  im <b>PZR WiSe 2021/22</b> melden Sie sich bitte bis spätestens <b>15. Januar 2021</b>
 *  im <b>PZR SoSe 2022</b> melden Sie sich bitte bis spätestens <b>31. August 2021</b>
 
-
 <b>Bachelor- und Master-Studierende</b> melden sich <b>unabhängig dieser Fristen</b> mit den oben genannten Unterlagen bei der / dem Forschungsprojektverantwortlichen.
 
 <hr>
