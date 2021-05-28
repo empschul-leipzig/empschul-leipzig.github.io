@@ -658,7 +658,7 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 
 <!--Schwertfeger-->
 
-<h3><img style="float: left; margin: 0px 15px 15px 0px; border-radius: 50%;" src="assets/images/Hawlitschek.jpg" width="150" hight="200"/>Peer Schwertfeger</h3>
+<h3><img style="float: left; margin: 0px 15px 15px 0px; border-radius: 50%;" src="" width="150" hight="200"/>Peer Schwertfeger</h3>
 <p style="padding-left: 165px;">Peer Schwertfeger studiert im Master Soziologie an der Universität Leipzig. An der Professur für "Empirische Schul- und Unterrichtsforschung" ist er als wissenschaftliche Hilfskraft tätig. <br style="clear: both;"/>
 
 <script type="text/javascript">
