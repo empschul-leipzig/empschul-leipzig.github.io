@@ -656,10 +656,10 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 <h2>Studentische und Wissenschaftliche Hilfskräfte</h2>
 <hr>
 
-<!--Hawlitschek-->
+<!--Schwertfeger-->
 
-<h3><img style="float: left; margin: 0px 15px 15px 0px; border-radius: 50%;" src="assets/images/Hawlitschek.jpg" width="150" hight="200"/>Patrick Hawlitschek</h3>
-<p style="padding-left: 165px;">Patrick Hawlitschek studiert die Studiengänge Lehramt an Gymnasien (Deutsch/Ethik) und Soziologie an der Universität Leipzig. An der Professur für "Empirische Schul- und Unterrichtsforschung" ist er als Studentische Hilfskraft tätig. Seine Interessen liegen in den Methoden der empirischen Sozialforschung und der angewandten Statistik. <br style="clear: both;"/>
+<h3><img style="float: left; margin: 0px 15px 15px 0px; border-radius: 50%;" src="assets/images/Schwertfeger.jpg" width="150" hight="200"/>Peer Schwertfeger</h3>
+<p style="padding-left: 165px;">Peer Schwertfeger studiert im Master Soziologie an der Universität Leipzig. An der Professur für "Empirische Schul- und Unterrichtsforschung" ist er als wissenschaftliche Hilfskraft tätig. <br style="clear: both;"/>
 
 <script type="text/javascript">
 //<![CDATA[
@@ -692,8 +692,37 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 <br /> 
 <div align="center">
 </div> 
-  <p><b>E-Mail:</b> <a href="mailto:patrick.hawlitschek@uni-leipzig.de">patrick.hawlitschek@uni-leipzig.de</a><br>
+  <p><b>E-Mail:</b> <a href="mailto:peer.schwertfeger@uni-leipzig.de">peer.schwertfeger@uni-leipzig.de</a><br>
   <b>Raum:</b> 009<br></p>
+  
+  <p><b>Kurzbiografie</b></p>
+ <div class="table-wrapper">
+        <table>
+          <tbody>
+            <tr>
+              <td>seit 2020</td>
+              <td>Studium Soziologie (Master) an der Universität Leipzig</td>
+            </tr>
+            <tr>
+              <td>2017-2020</td>
+              <td>Studium Soziologie an der Universität Leipzig mit Abschluss Bachelor of Arts</td>
+            </tr>
+            <tr>
+              <td>2017</td>
+              <td>Erasmus Aufenthalt an der Universität Lund (Schweden)</td>
+            </tr>
+            <tr>
+              <td>2015-2017</td>
+              <td>Studium Rechtswissenschaften an der Universität Greifswald</td>
+            </tr>
+             <tr>
+              <td>2011-2015</td>
+              <td>Studium 'Good Governance' – Wirtschaft, Gesellschaft, Recht an der Universität Rostock mit Abschluss Bachelor of Laws
+</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
 </div>
 </td>
 </tr>
@@ -846,6 +875,48 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
           </tbody>
         </table>
       </div>
+</div>
+</td>
+</tr>
+</table>
+  
+<!--Hawlitschek-->
+  
+<h3><img style="float: left; margin: 0px 15px 15px 0px; border-radius: 50%;" src="assets/images/Hawlitschek.jpg" width="150" hight="200"/>Patrick Hawlitschek</h3>
+<p style="padding-left: 165px;">Patrick Hawlitschek absolvierte die Studiengänge Lehramt an Gymnasien (Deutsch/Ethik) und Soziologie an der Universität Leipzig. An der Professur für "Empirische Schul- und Unterrichtsforschung" war er als Studentische Hilfskraft tätig. Seine Interessen liegen in den Methoden der empirischen Sozialforschung und der angewandten Statistik. <br style="clear: both;"/>
+
+<script type="text/javascript">
+//<![CDATA[
+function swap(openlink,closelink, linkid, dataid)
+{
+if( document.getElementById(dataid).style.display == 'none')
+{
+document.getElementById(dataid).style.display='inline';
+document.getElementById(linkid).firstChild.nodeValue=closelink;
+} else
+{
+document.getElementById(dataid).style.display='none';
+document.getElementById(linkid).firstChild.nodeValue=openlink;
+}
+}
+//]]>
+</script>
+<table class="tab24" align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr bgcolor="#BDBDBD">
+<td width="33%" height="30" style="padding-left:15px; padding-right:15px;">
+<b>Kontakt und Weiteres</b>
+</td>
+<td align="right" width="33%" style="padding-left:15px; padding-right:15px;">
+<a href="#swap" onclick="javascript:swap('Einblenden','Ausblenden', 'swaplink13', 'hideme13')" id="swaplink13" onfocus="this.blur()" name="swaplink13">Einblenden</a>
+</td>
+</tr> 
+<tr style=" text-align: justify; font-size: 14px; font-weight: normal; background-color: rgb(242,242,242);">
+<td colspan="3" style="padding-left:15px; padding-right:15px;">
+<div id="hideme13" style="display:none">
+<br /> 
+<div align="center">
+</div> 
+  <p><b>E-Mail:</b> <a href="mailto:patrick.hawlitschek@uni-leipzig.de">patrick.hawlitschek@uni-leipzig.de</a></p>
 </div>
 </td>
 </tr>
