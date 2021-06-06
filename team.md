@@ -658,7 +658,7 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 
 <!--Schwertfeger-->
 
-<h3><img style="float: left; margin: 0px 15px 15px 0px; border-radius: 50%;" src="" width="150" hight="200"/>Peer Schwertfeger</h3>
+<h3><img style="float: left; margin: 0px 15px 15px 0px; border-radius: 50%;" src="assets/images/Schwertfeger.jpg" width="150" hight="200"/>Peer Schwertfeger</h3>
 <p style="padding-left: 165px;">Peer Schwertfeger studiert im Master Soziologie an der Universität Leipzig. An der Professur für "Empirische Schul- und Unterrichtsforschung" ist er als wissenschaftliche Hilfskraft tätig. <br style="clear: both;"/>
 
 <script type="text/javascript">
@@ -694,6 +694,35 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 </div> 
   <p><b>E-Mail:</b> <a href="mailto:peer.schwertfeger@uni-leipzig.de">peer.schwertfeger@uni-leipzig.de</a><br>
   <b>Raum:</b> 009<br></p>
+  
+  <p><b>Kurzbiografie</b></p>
+ <div class="table-wrapper">
+        <table>
+          <tbody>
+            <tr>
+              <td>seit 2020</td>
+              <td>Studium Soziologie (Master) an der Universität Leipzig</td>
+            </tr>
+            <tr>
+              <td>2017-2020</td>
+              <td>Studium Soziologie an der Universität Leipzig mit Abschluss Bachelor of Arts</td>
+            </tr>
+            <tr>
+              <td>2017</td>
+              <td>Erasmus Aufenthalt an der Universität Lund (Schweden)</td>
+            </tr>
+            <tr>
+              <td>2015-2017</td>
+              <td>Studium Rechtswissenschaften an der Universität Greifswald</td>
+            </tr>
+             <tr>
+              <td>2011-2015</td>
+              <td>Studium 'Good Governance' – Wirtschaft, Gesellschaft, Recht an der Universität Rostock mit Abschluss Bachelor of Laws
+</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
 </div>
 </td>
 </tr>
