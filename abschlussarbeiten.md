@@ -87,7 +87,7 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 <table class="tab24" align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
 <tr bgcolor="#BDBDBD">
 <td width="53%" height="30" style="padding-left:15px; padding-right:15px;">
-<b>Meta-Analyse zur Effektivität der Kooperationsmethode "Gruppenpuzzle"</b>
+<b>Is the pen mightier than the keyboard? Eine Replikationsstudie zu Unterrichtsmitschriften von Hand vs. am Laptop"</b>
 </td>
 <td align="right" width="13%" style="padding-left:15px; padding-right:15px;">
 <a href="#swap" onclick="javascript:swap('Einblenden','Ausblenden', 'swaplink1', 'hideme1')" id="swaplink1" onfocus="this.blur()" name="swaplink1">Einblenden</a>
@@ -125,7 +125,7 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 <table class="tab24" align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
 <tr bgcolor="#BDBDBD">
 <td width="53%" height="30" style="padding-left:15px; padding-right:15px;">
-<b>Kooperatives Lernen mit ausgearbeiteten Lösungsbeispielen – Analyse der Lernerdialoge</b>
+<b>Fähigkeitsbezogene Überzeugungen und soziales Zugehörigkeitsgefühl von (Lehramts-)Studierenden unterschiedlicher Fachrichtungen</b>
 </td>
 <td align="right" width="13%" style="padding-left:15px; padding-right:15px;">
 <a href="#swap" onclick="javascript:swap('Einblenden','Ausblenden', 'swaplink2', 'hideme2')" id="swaplink2" onfocus="this.blur()" name="swaplink2">Einblenden</a>
@@ -526,8 +526,8 @@ Die Fristen für die Bewerbung um eine <b>Staatsexamensarbeit</b> richten sich n
 
 <b>Für einen Abschluss…</b>
 
-*  im <b>PZR WiSe 2021/22</b> melden Sie sich bitte bis spätestens <b>15. Januar 2021</b>
 *  im <b>PZR SoSe 2022</b> melden Sie sich bitte bis spätestens <b>31. August 2021</b>
+*  im <b>PZR WiSe 2022/23</b> melden Sie sich bitte bis spätestens <b>15. Januar 2022</b>
 
 <b>Bachelor- und Master-Studierende</b> melden sich <b>unabhängig dieser Fristen</b> mit den oben genannten Unterlagen bei der / dem Forschungsprojektverantwortlichen.
 
