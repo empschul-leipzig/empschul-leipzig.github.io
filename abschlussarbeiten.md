@@ -502,7 +502,7 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
  <h4>Ansprechperson</h4>
  	<p><a href="https://empschul-leipzig.github.io/team#Lotz">Dr. Christin Lotz</a></p> 
  <h4>Weitere Betreuungspersonen</h4>
- 	<p><a href="https://empschul-leipzig.github.io/team#Frohberg">Franziska Frohberg</a>,<a href="https://empschul-leipzig.github.io/team#Klatt">Mandy Klatt</a></p> </p> 
+ 	<p><a href="https://empschul-leipzig.github.io/team#Frohberg">Franziska Frohberg</a>,<a href="https://empschul-leipzig.github.io/team#Klatt">Mandy Klatt</a></p>  
  <h4>Ziel</h4>
  	<p>Pilotierung eines Fragebogens</p>
  </div>
