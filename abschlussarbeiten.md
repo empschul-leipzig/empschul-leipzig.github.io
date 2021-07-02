@@ -180,7 +180,7 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
  <h4>Anforderungen</h4>
  	<p>Vorerfahrung im Umgang mit Vorschulkindern</p>
  <h4>Projektbeschreibung</h4>
- 	<p>Im Rahmen des DFG-Projektes Symbolic Literacy untersuchen wir, wie Klein- und Vorschulkinder konventionelle Symbole (Zahlen, Buchstaben, Ikone etc.) verstehen und wie gut sie darin sind, die Bedeutung unbekannter graphischer Symbole spontan zu erschließen. Die Arbeit in diesem Projekt setzt die Bereitschaft voraus, eigene Daten an Kindergärten, in den Testräumen des MPI EVA oder online zu erheben. Die Studien werden als Bilderbuchgeschichten auf Touch-Screen-Laptops präsentiert. Die Programmierung und Analyse sowie die Kontakte zu Kindergärten und Teilnehmenden werden von uns bereitgestellt. Idealerweise hat man keine Angst vor der Statistiksoftware R.</p>
+ 	<p>Im Rahmen des DFG-Projektes Symbolic Literacy untersuchen wir, wie Klein- und Vorschulkinder konventionelle Symbole (Zahlen, Buchstaben, Ikone etc.) verstehen und wie gut sie darin sind, die Bedeutung unbekannter graphischer Symbole spontan zu erschließen. Die Arbeit in diesem Projekt setzt die Bereitschaft voraus, eigene Daten an Kindergärten, in den Testräumen des MPI EVA oder online zu erheben. Die Studien werden als Bilderbuchgeschichten auf Touch-Screen-Laptops präsentiert. Die Programmierung und Analyse sowie die Kontakte zu Kindergärten und Teilnehmenden werden von uns bereitgestellt.</p>
 </div>
 </td>
 </tr>
@@ -249,7 +249,7 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 <table class="tab24" align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
 <tr bgcolor="#BDBDBD">
 <td width="53%" height="30" style="padding-left:15px; padding-right:15px;">
-<b>Automatisierte Audioanalyse in der Bildungsforschung</b>
+<b>Evaluation einer Testphase mit späteren Unterrichtszeiten an einem Leipziger Gymnasium</b>
 </td>
 <td align="right" width="13%" style="padding-left:15px; padding-right:15px;">
 <a href="#swap" onclick="javascript:swap('Einblenden','Ausblenden', 'swaplink5', 'hideme5')" id="swaplink5" onfocus="this.blur()" name="swaplink5">Einblenden</a>
@@ -262,13 +262,7 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 <div align="center">
 </div> 
  <h4>Ansprechperson</h4>
- 	<p><a href="https://empschul-leipzig.github.io/team#Kachel">Dr. Gregor Kachel</a></p>  
- <h4>Anforderungen</h4>
- 	<p>Programmiererfahrung</p>
- <h4>Projektbeschreibung</h4>
- 	<p>Wir möchten computerbasierte Audioanalysen, wie etwa die Messung von Lautstärke, Spektrogrammen oder Sprachanalysen, für die empirische Bildungsforschung nutzbar machen. In diesem Projekt würden wir versuchen, unter Verwendung bereits bestehender Videoaufnahmen realer Unterrichtseinheiten, einfache Forschungsfragen automatisiert mittels Audioanalysetools zu beantworten:<br>
-	<i>Wie laut ist es im Raum? Wird gesprochen oder handelt es sich um Geräusche? Wie viele Personen sprechen gleichzeitig?</i><br>
-	Die Wahl der Forschungsfrage ist dabei weitgehend offen. Es geht nicht darum, selbst neue Analysemöglichkeiten zu entwickeln, sondern eher darum, bestehende Analysemöglichkeiten an einer konkreten Forschungsfrage anzuwenden. Die Arbeit an diesem Projekt setzt Programmiererfahrung voraus oder zumindest die Bereitschaft, sich intensiv mit Programmierung auseinander zu setzen. Idealerweise verfügt man über einen Hintergrund in Python.</p>
+ 	<p><a href="https://empschul-leipzig.github.io/team#Deiglmayr">Prof. Dr. Anne Deiglmayr</a></p>
 </div>
 </td>
 </tr>
@@ -506,44 +500,6 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
  <h4>Ziel</h4>
  	<p>Pilotierung eines Fragebogens</p>
  </div>
-</td>
-</tr>
-</table>
-
-<script type="text/javascript">
-//<![CDATA[
-function swap(openlink,closelink, linkid, dataid)
-{
-if( document.getElementById(dataid).style.display == 'none')
-{
-document.getElementById(dataid).style.display='inline';
-document.getElementById(linkid).firstChild.nodeValue=closelink;
-} else
-{
-document.getElementById(dataid).style.display='none';
-document.getElementById(linkid).firstChild.nodeValue=openlink;
-}
-}
-//]]>
-</script>
-<table class="tab24" align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
-<tr bgcolor="#BDBDBD">
-<td width="53%" height="30" style="padding-left:15px; padding-right:15px;">
-<b>Evaluation einer Testphase mit späteren Unterrichtszeiten an einem Leipziger Gymnasium</b>
-</td>
-<td align="right" width="13%" style="padding-left:15px; padding-right:15px;">
-<a href="#swap" onclick="javascript:swap('Einblenden','Ausblenden', 'swaplink14', 'hideme14')" id="swaplink14" onfocus="this.blur()" name="swaplink14">Einblenden</a>
-</td>
-</tr> 
-<tr style=" text-align: justify; font-size: 14px; font-weight: normal; background-color: rgb(242,242,242);">
-<td colspan="3" style="padding-left:15px; padding-right:15px;">
-<div id="hideme14" style="display:none">
-<br /> 
-<div align="center">
-</div> 
- <h4>Ansprechperson</h4>
- 	 <p><a href="https://empschul-leipzig.github.io/team#Deiglmayr">Prof. Dr. Anne Deiglmayr</a></p>  
-</div>
 </td>
 </tr>
 </table>
