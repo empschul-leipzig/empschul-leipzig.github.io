@@ -306,81 +306,6 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 </tr>
 </table>
 
-<script type="text/javascript">
-//<![CDATA[
-function swap(openlink,closelink, linkid, dataid)
-{
-if( document.getElementById(dataid).style.display == 'none')
-{
-document.getElementById(dataid).style.display='inline';
-document.getElementById(linkid).firstChild.nodeValue=closelink;
-} else
-{
-document.getElementById(dataid).style.display='none';
-document.getElementById(linkid).firstChild.nodeValue=openlink;
-}
-}
-//]]>
-</script>
-<table class="tab24" align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
-<tr bgcolor="#BDBDBD">
-<td width="53%" height="30" style="padding-left:15px; padding-right:15px;">
-<b>Entwicklung der Professionalität von Lehramtsstudierenden mittels Praktika</b>
-</td>
-<td align="right" width="13%" style="padding-left:15px; padding-right:15px;">
-<a href="#swap" onclick="javascript:swap('Einblenden','Ausblenden', 'swaplink8', 'hideme8')" id="swaplink8" onfocus="this.blur()" name="swaplink8">Einblenden</a>
-</td>
-</tr> 
-<tr style=" text-align: justify; font-size: 14px; font-weight: normal; background-color: rgb(242,242,242);">
-<td colspan="3" style="padding-left:15px; padding-right:15px;">
-<div id="hideme8" style="display:none">
-<br /> 
-<div align="center">
-</div> 
- <h4>Ansprechperson</h4>
- 	<p><a href="https://empschul-leipzig.github.io/team#deGroote">Carola de Groote</a></p>  
- </div>
-</td>
-</tr>
-</table>
-
-<script type="text/javascript">
-//<![CDATA[
-function swap(openlink,closelink, linkid, dataid)
-{
-if( document.getElementById(dataid).style.display == 'none')
-{
-document.getElementById(dataid).style.display='inline';
-document.getElementById(linkid).firstChild.nodeValue=closelink;
-} else
-{
-document.getElementById(dataid).style.display='none';
-document.getElementById(linkid).firstChild.nodeValue=openlink;
-}
-}
-//]]>
-</script>
-<table class="tab24" align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
-<tr bgcolor="#BDBDBD">
-<td width="53%" height="30" style="padding-left:15px; padding-right:15px;">
-<b>Relevanz des Themas "Begabungsförderung an Schulen" im Lehramtsstudium</b>
-</td>
-<td align="right" width="13%" style="padding-left:15px; padding-right:15px;">
-<a href="#swap" onclick="javascript:swap('Einblenden','Ausblenden', 'swaplink9', 'hideme9')" id="swaplink9" onfocus="this.blur()" name="swaplink9">Einblenden</a>
-</td>
-</tr> 
-<tr style=" text-align: justify; font-size: 14px; font-weight: normal; background-color: rgb(242,242,242);">
-<td colspan="3" style="padding-left:15px; padding-right:15px;">
-<div id="hideme9" style="display:none">
-<br /> 
-<div align="center">
-</div> 
- <h4>Ansprechperson</h4>
- 	<p><a href="https://empschul-leipzig.github.io/team#deGroote">Carola de Groote</a></p>  
- </div>
-</td>
-</tr>
-</table>
 
 <script type="text/javascript">
 //<![CDATA[
@@ -404,12 +329,12 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 <b>Explorationsverhalten beim Lösen komplexer Probleme</b>
 </td>
 <td align="right" width="13%" style="padding-left:15px; padding-right:15px;">
-<a href="#swap" onclick="javascript:swap('Einblenden','Ausblenden', 'swaplink11', 'hideme11')" id="swaplink11" onfocus="this.blur()" name="swaplink11">Einblenden</a>
+<a href="#swap" onclick="javascript:swap('Einblenden','Ausblenden', 'swaplink7', 'hideme7')" id="swaplink7" onfocus="this.blur()" name="swaplink7">Einblenden</a>
 </td>
 </tr> 
 <tr style=" text-align: justify; font-size: 14px; font-weight: normal; background-color: rgb(242,242,242);">
 <td colspan="3" style="padding-left:15px; padding-right:15px;">
-<div id="hideme11" style="display:none">
+<div id="hideme7" style="display:none">
 <br /> 
 <div align="center">
 </div> 
@@ -444,12 +369,12 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 <b>Zusammenhang motivationaler Variablen und Schulerfolg</b>
 </td>
 <td align="right" width="13%" style="padding-left:15px; padding-right:15px;">
-<a href="#swap" onclick="javascript:swap('Einblenden','Ausblenden', 'swaplink12', 'hideme12')" id="swaplink12" onfocus="this.blur()" name="swaplink12">Einblenden</a>
+<a href="#swap" onclick="javascript:swap('Einblenden','Ausblenden', 'swaplink8', 'hideme8')" id="swaplink8" onfocus="this.blur()" name="swaplink8">Einblenden</a>
 </td>
 </tr> 
 <tr style=" text-align: justify; font-size: 14px; font-weight: normal; background-color: rgb(242,242,242);">
 <td colspan="3" style="padding-left:15px; padding-right:15px;">
-<div id="hideme12" style="display:none">
+<div id="hideme8" style="display:none">
 <br /> 
 <div align="center">
 </div> 
@@ -484,12 +409,12 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 <b>Erfassung der Unterrichtswahrnehmung von Lehrpersonen und Schüler:innen</b>
 </td>
 <td align="right" width="13%" style="padding-left:15px; padding-right:15px;">
-<a href="#swap" onclick="javascript:swap('Einblenden','Ausblenden', 'swaplink13', 'hideme13')" id="swaplink13" onfocus="this.blur()" name="swaplink13">Einblenden</a>
+<a href="#swap" onclick="javascript:swap('Einblenden','Ausblenden', 'swaplink9', 'hideme9')" id="swaplink9" onfocus="this.blur()" name="swaplink9">Einblenden</a>
 </td>
 </tr> 
 <tr style=" text-align: justify; font-size: 14px; font-weight: normal; background-color: rgb(242,242,242);">
 <td colspan="3" style="padding-left:15px; padding-right:15px;">
-<div id="hideme13" style="display:none">
+<div id="hideme9" style="display:none">
 <br /> 
 <div align="center">
 </div> 
