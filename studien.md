@@ -45,7 +45,7 @@ Wir freuen uns auf die Zusammenarbeit!
 
 ***
 
-### Nähere Informationen zum Projekt erhalten Sie auch in unserem Einladungsschreiben! Klicken Sie hier für einen Download.
+Nähere Informationen zum Projekt erhalten Sie auch in unserem Einladungsschreiben! Klicken Sie hier für einen Download.
 
 ### Haben Sie Fragen zu einem anderen Projekt? 
 Dann kontaktieren Sie uns gern per <a href="mailto:empschul_hiwi@uni-leipzig.de">E-Mail</a> oder Telefon <a href="tel:+4903419731570">(+49 (0) 341 97-31570).
