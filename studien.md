@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Teilnahme an Studien
-image: assets/images/Technik_Labor.jpg
+image: assets/images/Technik_Mobiles Labor.jpg
 ---
 
 ## Vielen Dank für Ihr Interesse an unseren Forschungsprojekten!
