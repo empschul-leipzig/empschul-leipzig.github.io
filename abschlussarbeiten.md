@@ -342,6 +342,8 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
  	<p><a href="https://empschul-leipzig.github.io/team#Lotz">Dr. Christin Lotz</a></p>  
  <h4>Anforderungen</h4>
  	<p>Modellierung von komplexen Systemen in NetLogo, Programmierkenntnisse von Vorteil</p>
+ <h4>Hinweise</h4>
+ 	<p><b>Anfragen zu diesem Forschungsthema werden ab sofort nur noch für einen Abschluss im PZR SoSe 2022 oder später angenommen!!!</b></p>
  </div>
 </td>
 </tr>
@@ -382,6 +384,8 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
  	<p><a href="https://empschul-leipzig.github.io/team#Lotz">Dr. Christin Lotz</a></p>  
  <h4>Anforderungen</h4>
  	<p>Datengrundlage: NEPS, Statistikkenntnisse und Bereitschaft zur Einarbeitung in das Programm Mplus von Vorteil</p>
+ <h4>Hinweise</h4>
+ 	<p><b>Anfragen zu diesem Forschungsthema werden ab sofort nur noch für einen Abschluss im PZR SoSe 2022 oder später angenommen!!!</b></p>
  </div>
 </td>
 </tr>
@@ -424,6 +428,8 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
  	<p><a href="https://empschul-leipzig.github.io/team#Frohberg">Franziska Frohberg</a>,<a href="https://empschul-leipzig.github.io/team#Klatt">Mandy Klatt</a></p>  
  <h4>Ziel</h4>
  	<p>Pilotierung eines Fragebogens</p>
+ <h4>Hinweise</h4>
+ 	<p><b>Anfragen zu diesem Forschungsthema werden ab sofort nur noch für einen Abschluss im PZR SoSe 2022 oder später angenommen!!!</b></p>
  </div>
 </td>
 </tr>
