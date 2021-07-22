@@ -326,7 +326,7 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 <table class="tab24" align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
 <tr bgcolor="#BDBDBD">
 <td width="53%" height="30" style="padding-left:15px; padding-right:15px;">
-<b>Explorationsverhalten beim Lösen komplexer Probleme</b>
+<b>Explorationsverhalten beim Lösen komplexer Probleme (erst wieder ab SoSe22!)</b>
 </td>
 <td align="right" width="13%" style="padding-left:15px; padding-right:15px;">
 <a href="#swap" onclick="javascript:swap('Einblenden','Ausblenden', 'swaplink7', 'hideme7')" id="swaplink7" onfocus="this.blur()" name="swaplink7">Einblenden</a>
@@ -368,7 +368,7 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 <table class="tab24" align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
 <tr bgcolor="#BDBDBD">
 <td width="53%" height="30" style="padding-left:15px; padding-right:15px;">
-<b>Zusammenhang motivationaler Variablen und Schulerfolg</b>
+<b>Zusammenhang motivationaler Variablen und Schulerfolg (erst wieder ab SoSe22!)</b>
 </td>
 <td align="right" width="13%" style="padding-left:15px; padding-right:15px;">
 <a href="#swap" onclick="javascript:swap('Einblenden','Ausblenden', 'swaplink8', 'hideme8')" id="swaplink8" onfocus="this.blur()" name="swaplink8">Einblenden</a>
@@ -410,7 +410,7 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 <table class="tab24" align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
 <tr bgcolor="#BDBDBD">
 <td width="53%" height="30" style="padding-left:15px; padding-right:15px;">
-<b>Erfassung der Unterrichtswahrnehmung von Lehrpersonen und Schüler:innen</b>
+<b>Erfassung der Unterrichtswahrnehmung von Lehrpersonen und Schüler:innen (erst wieder ab SoSe22!)</b>
 </td>
 <td align="right" width="13%" style="padding-left:15px; padding-right:15px;">
 <a href="#swap" onclick="javascript:swap('Einblenden','Ausblenden', 'swaplink9', 'hideme9')" id="swaplink9" onfocus="this.blur()" name="swaplink9">Einblenden</a>
