@@ -7,6 +7,17 @@ title: News
 
 ***
 
+<b>ProVisioNET im "m<sup>3</sup>uvi-Lab"</b>
+
+<p>Unsere wissenschaftliche Mitarbeiterin <a href="https://empschul-leipzig.github.io/team#Klatt">Mandy Klatt</a> führt nun im Rahmen ihrer Dissertation ihre erste Studie namens ProVisioNET durch, in der sie erforscht, worauf (angehende) Lehrpersonen ihre visuelle Aufmerksamkeit während des Unterrichtens lenken.</p>
+
+<p>Derzeit ist sie auf der Suche nach Studienteilnehmenden, wobei Lehramtsstudierende ab dem 3. Fachsemester oder Lehrpersonen (inklusive Referendariat) in Frage kommen. Im Gegenzug für Ihre Unterstützung erhalten Sie die einmalige Möglichkeit, Ihren eigenen Unterricht durch Ihre Augen mittels innovativer Technik wie Eye-Tracking zu beobachten. Weitere Informationen finden Sie im Fyler <a href="/assets/pdfs/Klatt_Studienteilnahme_ProVisioNET.pdf">[&rarr; Download]. Falls Sie weitere Lehrpersonen kennen, die die Teilnahmevoraussetzungen erfüllen und interessiert sein könnten, dann informieren Sie diese gern.
+ 
+<p>Bei Fragen kontaktieren Sie sie am besten per <a href="mailto:mandy.klatt@uni-leipzig.de">E-Mail</a> oder Telefon <a href="tel:+4903419731572">(+49 (0) 341 97-31572).</p>
+
+
+***
+
 <b>Das "m<sup>3</sup>uvi-Lab" an Schulen</b>
 
 <p><img src="assets/images/Karte_m3uvi-lab_final.jpg" width="300" hight="213" alt="" style="float:right; margin-left:20px;">Bald schon können wir mit unserem "m<sup>3</sup>uvi-Lab" endlich an die Leipziger Schulen kommen!</p>
