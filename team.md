@@ -527,18 +527,12 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 </tr>
 </table>
 
-<!--Eulitz-->
 
-<h3><img style="float: left; margin: 0px 15px 15px 0px; border-radius: 50%;" src="assets/images/Eulitz.jpg" width="150" hight="200"/>Gereon Eulitz</h3>
-<p><b>Doktorand</b></p>
-<p style="padding-left: 165px;">Gereon Eulitz ist Lehrer im Hochschuldienst und gehört der Professur "Empirische Schul- und Unterrichtsforschung" an. Sein Forschungsinteresse gilt der kooperativen Unterrichtsentwicklung. Das Modul 05-BWI-02 (SPS) "Praxis- und Studienfeld Schule" ist Schwerpunkt seiner Lehrtätigkeit. Außerdem wirkt er an der Mentorenqualifizierung im Freistaat Sachsen mit.
-<p style="padding-left: 165px;"><span style="text-decoration: underline;">Arbeitsschwerpunkte und Forschungsinteressen</span><br>
- - Kooperation von Wissenschaftler*innen und Lehrer*innen im Rahmen didaktischer Entwicklungsforschung<br>
-- Unterrichtsentwicklung und Unterrichtsforschung, insbesondere kooperative Formate (z.B. Design-Based Research, Lesson Study, Professional Learning Communities<br>
-- Theorie-Praxis-Beziehungen / Innovations- und Transferforschung<br>
-- Schul- und Unterrichtsentwicklung in internationalen und interkulturellen Kontexten<br>
-- Schulpraktische Studien: Praxis- und Studienfeld Schule (Bildungswissenschaft)<br>
-- Mentorenqualifizierung f&uuml;r LehrerInnen aller Schularten</p>
+<!--Leistner-->
+
+<h3><img style="float: left; margin: 0px 15px 15px 0px; border-radius: 50%;" src="assets/images/Leistner.jpg" width="150" hight="200"/>Mirjam Leistner</h3>
+<p><b>Lehrkraft für besondere Aufgaben</b></p>
+<p style="padding-left: 165px;">Mirjam Leistner lehrt als Lehrkraft für besondere Aufgaben im Studiengang Lehramt an der Universität Leipzig im Fachbereich Bildungswissenschaften.<br style="clear: both;"/>
 
 <script type="text/javascript">
 //<![CDATA[
@@ -570,46 +564,25 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 <div id="hideme7" style="display:none">
 <br /> 
 <div align="center">
-</div>  
-  <p><b>Telefon:</b> +49 (0) 341 97-31437<br>
-  <b>E-Mail:</b> <a href="mailto:gereon.eulitz@uni-leipzig.de">gereon.eulitz@uni-leipzig.de</a><br>
-  <b>Raum:</b> 107<br>
-  <b>Sprechzeit:</b> Anmeldung per E-Mail</p>
+</div> 
   
-  <p><b>Kurzbiografie</b></p>
- <div class="table-wrapper">
-        <table>
-          <tbody>
-            <tr>
-              <td>seit WiSe<br>2019/20</td>
-              <td>Mitarbeit im Arbeitsbereich 'Empirische Schul- und Unterrichtsforschung'</td>
-            </tr>
-            <tr>
-              <td>seit WiSe<br>2017/18</td>
-              <td>Doktorand bei Prof. Dr. Hallitzky / Arbeitstitel  "Die interprofessionelle Kooperation von Lehrkräften und Forschenden im Rahmen des Design-Based Research-Ansatzes"</td>
-            </tr>
-            <tr>
-              <td>seit WiSe<br>2016/17</td>
-              <td>Mitarbeit im Arbeitsbereich 'Allgemeine Didaktik & Schulpädagogik des Sekundarbereichs'</td>
-            </tr>
-            <tr>
-              <td>seit WiSe<br>2014/15</td>
-              <td>Lehrer im Hochschuldienst / ZLS der Universität Leipzig
-              Professur International und interkulturell vergleichende Bildungswissenschaft</td>
-            </tr>
-          </tbody>
-        </table>
-      </div>
+  <p><b>Telefon:</b> +49 (0) 341 97-31432<br>
+  <b>E-Mail:</b> <a href="mirjam.leistner@uni-leipzig.de">mirjam.leistner@uni-leipzig.de</a><br>
+  <b>Raum:</b> 107<br></p>
+
 </div>
 </td>
 </tr>
 </table>
 
-<!--Leistner-->
+<hr>
+<h2>Studentische und Wissenschaftliche Hilfskräfte</h2>
+<hr>
 
-<h3><img style="float: left; margin: 0px 15px 15px 0px; border-radius: 50%;" src="assets/images/Leistner.jpg" width="150" hight="200"/>Mirjam Leistner</h3>
-<p><b>Lehrkraft für besondere Aufgaben</b></p>
-<p style="padding-left: 165px;">Mirjam Leistner lehrt als Lehrkraft für besondere Aufgaben im Studiengang Lehramt an der Universität Leipzig im Fachbereich Bildungswissenschaften.<br style="clear: both;"/>
+<!--Pelikan-->
+
+<h3><img style="float: left; margin: 0px 15px 15px 0px; border-radius: 50%;" src="assets/images/Pelikan.jpg" width="150" hight="200"/>Anna Pelikan</h3>
+<p style="padding-left: 165px;">Anna Pelikan studiert Höheres Lehramt an Gymnasien für die Fächer Englisch und Deutsch an der Universität Leipzig. An der Professur für "Empirische Schul- und Unterrichtsforschung" ist sie als studentische Hilfskraft tätig. <br style="clear: both;"/>
 
 <script type="text/javascript">
 //<![CDATA[
@@ -642,19 +615,12 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 <br /> 
 <div align="center">
 </div> 
-  
-  <p><b>Telefon:</b> +49 (0) 341 97-31432<br>
-  <b>E-Mail:</b> <a href="mirjam.leistner@uni-leipzig.de">mirjam.leistner@uni-leipzig.de</a><br>
-  <b>Raum:</b> 107<br></p>
-
+  <p><b>E-Mail:</b> <a href="mailto:empschul_hiwi@uni-leipzig.de">empschul_hiwi@uni-leipzig.de</a><br>
+  <b>Raum:</b> 009<br></p>
 </div>
 </td>
 </tr>
 </table>
-
-<hr>
-<h2>Studentische und Wissenschaftliche Hilfskräfte</h2>
-<hr>
 
 <!--Schwertfeger-->
 
@@ -917,6 +883,84 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 <div align="center">
 </div> 
   <p><b>E-Mail:</b> <a href="mailto:patrick.hawlitschek@uni-leipzig.de">patrick.hawlitschek@uni-leipzig.de</a></p>
+</div>
+</td>
+</tr>
+</table>
+
+<!--Eulitz-->
+
+<h3><img style="float: left; margin: 0px 15px 15px 0px; border-radius: 50%;" src="assets/images/Eulitz.jpg" width="150" hight="200"/>Gereon Eulitz</h3>
+<p><b>Doktorand</b></p>
+<p style="padding-left: 165px;">Gereon Eulitz ist Lehrer im Hochschuldienst und gehört der Professur "Empirische Schul- und Unterrichtsforschung" an. Sein Forschungsinteresse gilt der kooperativen Unterrichtsentwicklung. Das Modul 05-BWI-02 (SPS) "Praxis- und Studienfeld Schule" ist Schwerpunkt seiner Lehrtätigkeit. Außerdem wirkt er an der Mentorenqualifizierung im Freistaat Sachsen mit.
+<p style="padding-left: 165px;"><span style="text-decoration: underline;">Arbeitsschwerpunkte und Forschungsinteressen</span><br>
+ - Kooperation von Wissenschaftler*innen und Lehrer*innen im Rahmen didaktischer Entwicklungsforschung<br>
+- Unterrichtsentwicklung und Unterrichtsforschung, insbesondere kooperative Formate (z.B. Design-Based Research, Lesson Study, Professional Learning Communities<br>
+- Theorie-Praxis-Beziehungen / Innovations- und Transferforschung<br>
+- Schul- und Unterrichtsentwicklung in internationalen und interkulturellen Kontexten<br>
+- Schulpraktische Studien: Praxis- und Studienfeld Schule (Bildungswissenschaft)<br>
+- Mentorenqualifizierung f&uuml;r LehrerInnen aller Schularten</p>
+
+<script type="text/javascript">
+//<![CDATA[
+function swap(openlink,closelink, linkid, dataid)
+{
+if( document.getElementById(dataid).style.display == 'none')
+{
+document.getElementById(dataid).style.display='inline';
+document.getElementById(linkid).firstChild.nodeValue=closelink;
+} else
+{
+document.getElementById(dataid).style.display='none';
+document.getElementById(linkid).firstChild.nodeValue=openlink;
+}
+}
+//]]>
+</script>
+<table class="tab24" align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr bgcolor="#BDBDBD">
+<td width="33%" height="30" style="padding-left:15px; padding-right:15px;">
+<b>Kontakt und Weiteres</b>
+</td>
+<td align="right" width="33%" style="padding-left:15px; padding-right:15px;">
+<a href="#swap" onclick="javascript:swap('Einblenden','Ausblenden', 'swaplink14', 'hideme14')" id="swaplink14" onfocus="this.blur()" name="swaplink14">Einblenden</a>
+</td>
+</tr> 
+<tr style=" text-align: justify; font-size: 14px; font-weight: normal; background-color: rgb(242,242,242);">
+<td colspan="3" style="padding-left:15px; padding-right:15px;">
+<div id="hideme14" style="display:none">
+<br /> 
+<div align="center">
+</div>  
+  <p><b>Telefon:</b> +49 (0) 341 97-31437<br>
+  <b>E-Mail:</b> <a href="mailto:gereon.eulitz@uni-leipzig.de">gereon.eulitz@uni-leipzig.de</a><br>
+  <b>Raum:</b> 107<br>
+  <b>Sprechzeit:</b> Anmeldung per E-Mail</p>
+  
+  <p><b>Kurzbiografie</b></p>
+ <div class="table-wrapper">
+        <table>
+          <tbody>
+            <tr>
+              <td>bis WiSe<br>2019/20</td>
+              <td>Mitarbeit im Arbeitsbereich 'Empirische Schul- und Unterrichtsforschung'</td>
+            </tr>
+            <tr>
+              <td>seit WiSe<br>2017/18</td>
+              <td>Doktorand bei Prof. Dr. Hallitzky / Arbeitstitel  "Die interprofessionelle Kooperation von Lehrkräften und Forschenden im Rahmen des Design-Based Research-Ansatzes"</td>
+            </tr>
+            <tr>
+              <td>seit WiSe<br>2016/17</td>
+              <td>Mitarbeit im Arbeitsbereich 'Allgemeine Didaktik & Schulpädagogik des Sekundarbereichs'</td>
+            </tr>
+            <tr>
+              <td>seit WiSe<br>2014/15</td>
+              <td>Lehrer im Hochschuldienst / ZLS der Universität Leipzig
+              Professur International und interkulturell vergleichende Bildungswissenschaft</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
 </div>
 </td>
 </tr>
