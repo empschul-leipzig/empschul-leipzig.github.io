@@ -5,7 +5,6 @@ title: News
 
 ## Ankündigungen, Termine und Veranstaltungen
 
-***
 
 <b>ProVisioNET im "m<sup>3</sup>uvi-Lab"</b>
 
@@ -16,7 +15,6 @@ title: News
 <p>Bei Fragen kontaktieren Sie sie am besten per <a href="mailto:mandy.klatt@uni-leipzig.de">E-Mail</a> oder Telefon <a href="tel:+4903419731572">(+49 (0) 341 97-31572)</a>.</p>
 
 
-***
 
 <b>Das "m<sup>3</sup>uvi-Lab" an Schulen</b>
 
@@ -26,7 +24,7 @@ title: News
 
 <p>Wir freuen uns, von Ihnen zu hören!</p>
 
-***
+
 
 <b>Erste Ergebnisse der Pilotstudie</b>
 
@@ -34,7 +32,7 @@ title: News
 
 <p>Sie finden diese auf dem zugehörigen Poster "Expert and novice teachers managing classroom disruptions: First findings from a pilot study in the lab". Um dieses aufzurufen, klicken Sie <a href="/assets/pdfs/Mandy_Klatt_Poster_SIG27.pdf">[&rarr; HIER]</a>.</p>
 
-***
+
 
 <b>Einladung zur Studienteilnahme</b>
 
@@ -46,13 +44,13 @@ Unser Projekt zielt darauf ab zu untersuchen, worauf Lehrkräfte während des Un
 <p>Haben Sie Interesse und möchten mehr erfahren?<br>
 Weitere Informationen zur Studie und den Kontaktangaben finden Sie im offiziellen Einladungsschreiben <a href="/assets/pdfs/Einladung_Pilotstudie.pdf">[&rarr; PDF]</a> oder unter [Studienteilnahme](https://empschul-leipzig.github.io/studien).</p>
 
-***
+
 
 <b>Aktuelles Forschungsprojekt</b>
 
 <p>Am Lehrstuhl für "Empirische Schul- und Unterrichtsforschung" untersuchen wir aktuell, wie junge und erfahrene Lehrkräfte sich im Unterrichtskontext bewegen, Gestik einsetzen und ihre Aufmerksamkeit verteilen. Gegenwärtig versuchen wir klassische Verhaltensanalysen mit automatisierter Audio- und Videoanalyse zu kombinieren sowie Gesten- und Objekterkennungssoftware für die Bildungsforschung nutzbar zu machen.</p>
  
-***
+
 
 <b>Dies Academicus, 02.12.2019</b> 
 
