@@ -6,7 +6,7 @@ title: News
 ## Ankündigungen, Termine und Veranstaltungen
 
 
-<h2>ProVisioNET im "m<sup>3</sup>uvi-Lab"</h2>
+<h3>ProVisioNET im "m<sup>3</sup>uvi-Lab"</h3>
 
 <p>Unsere wissenschaftliche Mitarbeiterin <a href="https://empschul-leipzig.github.io/team#Klatt">Mandy Klatt</a> führt nun im Rahmen ihrer Dissertation ihre erste Studie namens ProVisioNET durch, in der sie erforscht, worauf (angehende) Lehrpersonen ihre visuelle Aufmerksamkeit während des Unterrichtens lenken.</p>
 
@@ -16,7 +16,7 @@ title: News
 
 
 
-<h2>Das "m<sup>3</sup>uvi-Lab" an Schulen</h2>
+<h3>Das "m<sup>3</sup>uvi-Lab" an Schulen</h3>
 
 <p><img src="assets/images/Karte_m3uvi-lab_final.jpg" width="300" hight="213" alt="" style="float:right; margin-left:20px;">Bald schon können wir mit unserem "m<sup>3</sup>uvi-Lab" endlich an die Leipziger Schulen kommen!</p>
 
@@ -26,7 +26,7 @@ title: News
 
 
 
-<h2>Erste Ergebnisse der Pilotstudie</h2>
+<h3>Erste Ergebnisse der Pilotstudie</h3>
 
 <p>Der nächste Schritt ist erfolgreich getan: Es liegen nun erste Ergebnisse zu der Pilotstudie mit dem mobilen Labor vor!</p>
 
@@ -34,7 +34,7 @@ title: News
 
 
 
-<h2>Einladung zur Studienteilnahme</h2>
+<h3>Einladung zur Studienteilnahme</h3>
 
 <p>Der Startschuss für unsere erste Studie ist gefallen!</p>
 
@@ -46,12 +46,12 @@ Weitere Informationen zur Studie und den Kontaktangaben finden Sie im offizielle
 
 
 
-<h2>Aktuelles Forschungsprojekt</h2>
+<h3>Aktuelles Forschungsprojekt</h3>
 
 <p>Am Lehrstuhl für "Empirische Schul- und Unterrichtsforschung" untersuchen wir aktuell, wie junge und erfahrene Lehrkräfte sich im Unterrichtskontext bewegen, Gestik einsetzen und ihre Aufmerksamkeit verteilen. Gegenwärtig versuchen wir klassische Verhaltensanalysen mit automatisierter Audio- und Videoanalyse zu kombinieren sowie Gesten- und Objekterkennungssoftware für die Bildungsforschung nutzbar zu machen.</p>
  
 
 
-<h2>Dies Academicus, 02.12.2019</h2>
+<h3>Dies Academicus, 02.12.2019</h3>
 
 <p><img src="assets/images/Dies_Award.jpg" width="150" hight="200" alt="" style="float:left; margin-right:20px;">Alljährlich feiert die Universität Leipzig den akademischen Feiertag "Dies academicus". Die Erziehungswissenschaftliche Fakultät verleiht in jedem Jahr an diesem Tag den Posterpreis "Dies Award". Den diesjährigen Preis erhielt unsere Mitarbeiterin Franziska Frohberg für ihr Poster zum Thema "Implizite Theorien von Intelligenz bei Lehramtsstudierenden" <a href="/assets/pdfs/Frohberg_Poster_2019_12_02.pdf">[&rarr; PDF]</a>.</p>
