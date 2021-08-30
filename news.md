@@ -52,6 +52,6 @@ Weitere Informationen zur Studie und den Kontaktangaben finden Sie im offizielle
  
 
 
-<b>Dies Academicus, 02.12.2019</b> 
+<b>Dies Academicus, 02.12.2019</b>
 
 <p><img src="assets/images/Dies_Award.jpg" width="150" hight="200" alt="" style="float:left; margin-right:20px;">Alljährlich feiert die Universität Leipzig den akademischen Feiertag "Dies academicus". Die Erziehungswissenschaftliche Fakultät verleiht in jedem Jahr an diesem Tag den Posterpreis "Dies Award". Den diesjährigen Preis erhielt unsere Mitarbeiterin Franziska Frohberg für ihr Poster zum Thema "Implizite Theorien von Intelligenz bei Lehramtsstudierenden" <a href="/assets/pdfs/Frohberg_Poster_2019_12_02.pdf">[&rarr; PDF]</a>.</p>
