@@ -892,7 +892,7 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 
 <h3><img style="float: left; margin: 0px 15px 15px 0px; border-radius: 50%;" src="assets/images/Eulitz.jpg" width="150" hight="200"/>Gereon Eulitz</h3>
 <p><b>Doktorand</b></p>
-<p style="padding-left: 165px;">Gereon Eulitz ist Lehrer im Hochschuldienst und gehört der Professur "Empirische Schul- und Unterrichtsforschung" an. Sein Forschungsinteresse gilt der kooperativen Unterrichtsentwicklung. Das Modul 05-BWI-02 (SPS) "Praxis- und Studienfeld Schule" ist Schwerpunkt seiner Lehrtätigkeit. Außerdem wirkt er an der Mentorenqualifizierung im Freistaat Sachsen mit.
+<p style="padding-left: 165px;">Gereon Eulitz war Lehrer im Hochschuldienst und gehörte der Professur "Empirische Schul- und Unterrichtsforschung" an. Sein Forschungsinteresse gilt der kooperativen Unterrichtsentwicklung. Das Modul 05-BWI-02 (SPS) "Praxis- und Studienfeld Schule" waren Schwerpunkt seiner Lehrtätigkeit. Außerdem wirkt er an der Mentorenqualifizierung im Freistaat Sachsen mit.
 <p style="padding-left: 165px;"><span style="text-decoration: underline;">Arbeitsschwerpunkte und Forschungsinteressen</span><br>
  - Kooperation von Wissenschaftler*innen und Lehrer*innen im Rahmen didaktischer Entwicklungsforschung<br>
 - Unterrichtsentwicklung und Unterrichtsforschung, insbesondere kooperative Formate (z.B. Design-Based Research, Lesson Study, Professional Learning Communities<br>
@@ -932,10 +932,7 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 <br /> 
 <div align="center">
 </div>  
-  <p><b>Telefon:</b> +49 (0) 341 97-31437<br>
   <b>E-Mail:</b> <a href="mailto:gereon.eulitz@uni-leipzig.de">gereon.eulitz@uni-leipzig.de</a><br>
-  <b>Raum:</b> 107<br>
-  <b>Sprechzeit:</b> Anmeldung per E-Mail</p>
   
   <p><b>Kurzbiografie</b></p>
  <div class="table-wrapper">
