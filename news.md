@@ -15,7 +15,7 @@ title: News
  
 <p>Bei Fragen kontaktieren Sie sie am besten per <a href="mailto:mandy.klatt@uni-leipzig.de">E-Mail</a> oder Telefon <a href="tel:+4903419731572">(+49 (0) 341 97-31572).</p>
 
-
+	
 ***
 
 <b>Das "m<sup>3</sup>uvi-Lab" an Schulen</b>
