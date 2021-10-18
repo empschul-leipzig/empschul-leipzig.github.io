@@ -8,7 +8,9 @@ permalink: /publikationen/
 
 Sparfeldt, J. R., **Lotz, C.** & Keimerl, V. (submitted for publication). Vom Nutzen einer Vorlesung – Kompetenzerwerb im bildungswissenschaftlichen Lehramtsstudium.
 
-Valerius, S., **Lotz, C.** & Sparfeldt, J. R. (accepted for publication). „Hochbegabt“ oder „nicht hochbegabt“ – Zur Übereinstimmung der Hochbegabungsidentifikation mit SPM, CFT 20-R und KFT-N. Psychologie in Erziehung und Unterricht.
+Valerius, S., **Lotz, C.** & Sparfeldt, J. R. (in press). „Hochbegabt“ oder „nicht hochbegabt“ – Zur Übereinstimmung der Hochbegabungsidentifikation mit SPM, CFT 20-R und KFT-N. Psychologie in Erziehung und Unterricht.
+
+**Lotz, C.**, Sparfeldt, J.R., & Ringeisen, T. (2021). A latent growth curve analysis of state test anxiety in successive days of before and after an examination and in relations to trait test anxiety. Learning and Individual Differences, 92, 1–8.
 
 Hildebrandt, F., Glauer, R., & **Kachel, G.** (in press). Coming from a world without objects. Mind and Language.
 
@@ -79,6 +81,10 @@ Rummel, N. & **Meier, A.** (2008). Common Ground und Grounding. In N. Krämer, S
 Hauser, S., Spada, H., Rummel, N., & **Meier, A.** (2007). Kooperation über räumliche und fachliche Grenzen hinweg – Probleme und Lösungsmöglichkeiten. In: G. Schneider, B. Couné, C. Gayer, E. Vögele, & C. Weber (Eds.). *Neue Medien als Schrittmacher an der Universität Freiburg. Wie Informations- und Kommunikationstechnologien Studium, Verwaltung und Forschung verändern* (S. 355-364). Freiburg: Universitätsbibliothek.
 
 <h2>Konferenzbeiträge</h2>
+
+**Lotz, C.**, Scherer, R., Greiff, S. & Sparfeldt, J. R. (2021). g’s kleine Helfer – VOTAT und NOTAT als Mediatoren des Intelligenz-KPL-Zusammenhangs. Vortrag auf der 18. Fachgruppentagung Pädagogische Psychologie (PAEPSY), Heidelberg.
+
+Sparfeldt, J. R., Valerius, S. & **Lotz, C.** (2021). “Hochbegabt” oder “Nicht Hochbegabt“ – Übereinstimmung der Diagnose verschiedener Intelligenztests. Vortrag auf der 18. Fachgruppentagung Pädagogische Psychologie (PAEPSY), Heidelberg.
 
 Peteranderl., S., & **Deiglmayr, A.** (2019). Does Physics instruction in elementary school boost the learning of experimentation skills? Gemeinsame Tagung der Fachgruppen Pädagogische und Entwicklungspsychologie (paePsy) 2019, Leipzig, Deutschland.
 
