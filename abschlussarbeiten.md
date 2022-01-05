@@ -326,7 +326,7 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 <table class="tab24" align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
 <tr bgcolor="#BDBDBD">
 <td width="53%" height="30" style="padding-left:15px; padding-right:15px;">
-<b>Explorationsverhalten beim Lösen komplexer Probleme <span style="color:red">(erst wieder ab WiSe 2022/23!)</span></b>
+<b>Gender-gerechte Sprache: Kann die kognitive Repräsentation von Frauen durch die Verwendung gender-gerechter und sprachlicher Alternativen zum generischen Maskulinum erhöht werden?</b>
 </td>
 <td align="right" width="13%" style="padding-left:15px; padding-right:15px;">
 <a href="#swap" onclick="javascript:swap('Einblenden','Ausblenden', 'swaplink7', 'hideme7')" id="swaplink7" onfocus="this.blur()" name="swaplink7">Einblenden</a>
@@ -340,96 +340,6 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 </div> 
  <h4>Ansprechperson</h4>
  	<p><a href="https://empschul-leipzig.github.io/team#Lotz">Dr. Christin Lotz</a></p>  
- <h4>Anforderungen</h4>
- 	<p>Modellierung von komplexen Systemen in NetLogo, Programmierkenntnisse von Vorteil</p>
- <h4>Hinweise</h4>
- 	<p><b>Anfragen zu diesem Forschungsthema werden ab sofort nur noch für einen Abschluss im PZR WiSe 2022/23 oder später angenommen!!!</b></p>
- </div>
-</td>
-</tr>
-</table>
-
-<script type="text/javascript">
-//<![CDATA[
-function swap(openlink,closelink, linkid, dataid)
-{
-if( document.getElementById(dataid).style.display == 'none')
-{
-document.getElementById(dataid).style.display='inline';
-document.getElementById(linkid).firstChild.nodeValue=closelink;
-} else
-{
-document.getElementById(dataid).style.display='none';
-document.getElementById(linkid).firstChild.nodeValue=openlink;
-}
-}
-//]]>
-</script>
-<table class="tab24" align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
-<tr bgcolor="#BDBDBD">
-<td width="53%" height="30" style="padding-left:15px; padding-right:15px;">
-<b>Zusammenhang motivationaler Variablen und Schulerfolg <span style="color:red">(erst wieder ab WiSe 2022/23!)</span></b>
-</td>
-<td align="right" width="13%" style="padding-left:15px; padding-right:15px;">
-<a href="#swap" onclick="javascript:swap('Einblenden','Ausblenden', 'swaplink8', 'hideme8')" id="swaplink8" onfocus="this.blur()" name="swaplink8">Einblenden</a>
-</td>
-</tr> 
-<tr style=" text-align: justify; font-size: 14px; font-weight: normal; background-color: rgb(242,242,242);">
-<td colspan="3" style="padding-left:15px; padding-right:15px;">
-<div id="hideme8" style="display:none">
-<br /> 
-<div align="center">
-</div> 
- <h4>Ansprechperson</h4>
- 	<p><a href="https://empschul-leipzig.github.io/team#Lotz">Dr. Christin Lotz</a></p>  
- <h4>Anforderungen</h4>
- 	<p>Datengrundlage: NEPS, Statistikkenntnisse und Bereitschaft zur Einarbeitung in das Programm Mplus von Vorteil</p>
- <h4>Hinweise</h4>
- 	<p><b>Anfragen zu diesem Forschungsthema werden ab sofort nur noch für einen Abschluss im PZR WiSe 2022/23 oder später angenommen!!!</b></p>
- </div>
-</td>
-</tr>
-</table>
-
-<script type="text/javascript">
-//<![CDATA[
-function swap(openlink,closelink, linkid, dataid)
-{
-if( document.getElementById(dataid).style.display == 'none')
-{
-document.getElementById(dataid).style.display='inline';
-document.getElementById(linkid).firstChild.nodeValue=closelink;
-} else
-{
-document.getElementById(dataid).style.display='none';
-document.getElementById(linkid).firstChild.nodeValue=openlink;
-}
-}
-//]]>
-</script>
-<table class="tab24" align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
-<tr bgcolor="#BDBDBD">
-<td width="53%" height="30" style="padding-left:15px; padding-right:15px;">
-<b>Erfassung der Unterrichtswahrnehmung von Lehrpersonen und Schüler:innen <span style="color:red">(erst wieder ab WiSe 2022/23!)</span></b>
-</td>
-<td align="right" width="13%" style="padding-left:15px; padding-right:15px;">
-<a href="#swap" onclick="javascript:swap('Einblenden','Ausblenden', 'swaplink9', 'hideme9')" id="swaplink9" onfocus="this.blur()" name="swaplink9">Einblenden</a>
-</td>
-</tr> 
-<tr style=" text-align: justify; font-size: 14px; font-weight: normal; background-color: rgb(242,242,242);">
-<td colspan="3" style="padding-left:15px; padding-right:15px;">
-<div id="hideme9" style="display:none">
-<br /> 
-<div align="center">
-</div> 
- <h4>Ansprechperson</h4>
- 	<p><a href="https://empschul-leipzig.github.io/team#Lotz">Dr. Christin Lotz</a></p> 
- <h4>Weitere Betreuungspersonen</h4>
- 	<p><a href="https://empschul-leipzig.github.io/team#Frohberg">Franziska Frohberg</a>,<a href="https://empschul-leipzig.github.io/team#Klatt">Mandy Klatt</a></p>  
- <h4>Ziel</h4>
- 	<p>Pilotierung eines Fragebogens</p>
- <h4>Hinweise</h4>
- 	<p><b>Anfragen zu diesem Forschungsthema werden ab sofort nur noch für einen Abschluss im PZR WiSe 2022/23 oder später angenommen!!!</b></p>
  </div>
 </td>
 </tr>
@@ -457,12 +367,12 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 <b>Schriftliche Reflexionsaufgaben in der universitären Lehramtsausbildung - Fluch oder Segen?</b>
 </td>
 <td align="right" width="13%" style="padding-left:15px; padding-right:15px;">
-<a href="#swap" onclick="javascript:swap('Einblenden','Ausblenden', 'swaplink10', 'hideme10')" id="swaplink10" onfocus="this.blur()" name="swaplink10">Einblenden</a>
+<a href="#swap" onclick="javascript:swap('Einblenden','Ausblenden', 'swaplink8', 'hideme8')" id="swaplink8" onfocus="this.blur()" name="swaplink8">Einblenden</a>
 </td>
 </tr> 
 <tr style=" text-align: justify; font-size: 14px; font-weight: normal; background-color: rgb(242,242,242);">
 <td colspan="3" style="padding-left:15px; padding-right:15px;">
-<div id="hideme10" style="display:none">
+<div id="hideme8" style="display:none">
 <br /> 
 <div align="center">
 </div> 
