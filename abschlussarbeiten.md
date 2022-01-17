@@ -423,7 +423,7 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
      	<p>Hängen unterschiedliche Motivationsfacetten, ein Lehramtsstudium aufzunehmen, differentiell mit Lehrer-Enthusiasmus zusammen? Hängt beispielsweise Lehrerenthusiasmus enger mit dem Interesse für pädagogische Situationen zusammen als mit fachlichem Interesse oder der (vermeintlichen) geringen Schwierigkeit des Lehramtsstudiums?</p>
  <h4>Hinweise</h4>
 	<p>ACHTUNG: Anfragen zu diesem Forschungsthema werden ab sofort nur noch für Abschlussarbeiten mit der Abgabe im PZR SoSe 2023 angenommen!!!!</p>
-</div>
+ </div>
 </td>
 </tr>
 </table>
