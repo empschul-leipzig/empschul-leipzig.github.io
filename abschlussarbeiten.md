@@ -326,7 +326,7 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 <table class="tab24" align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
 <tr bgcolor="#BDBDBD">
 <td width="53%" height="30" style="padding-left:15px; padding-right:15px;">
-<b>Gender-gerechte Sprache: Kann die kognitive Repräsentation von Frauen durch die Verwendung gender-gerechter und sprachlicher Alternativen zum generischen Maskulinum erhöht werden?</b>
+<b>Gender-gerechte Sprache: Kann die kognitive Repräsentation von Frauen durch die Verwendung gender-gerechter und sprachlicher Alternativen zum generischen Maskulinum erhöht werden? <span style="color:red">(ACHTUNG: Anfragen nur für PZR SoSe 23)</span></b>
 </td>
 <td align="right" width="13%" style="padding-left:15px; padding-right:15px;">
 <a href="#swap" onclick="javascript:swap('Einblenden','Ausblenden', 'swaplink7', 'hideme7')" id="swaplink7" onfocus="this.blur()" name="swaplink7">Einblenden</a>
@@ -340,6 +340,8 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 </div> 
  <h4>Ansprechperson</h4>
  	<p><a href="https://empschul-leipzig.github.io/team#Lotz">Dr. Christin Lotz</a></p>  
+ <h4>Hinweise</h4>
+	<p>ACHTUNG: Anfragen zu diesem Forschungsthema werden ab sofort nur noch für Abschlussarbeiten mit der Abgabe im PZR SoSe 2023 angenommen!!!!</p>
  </div>
 </td>
 </tr>
@@ -402,7 +404,8 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 <table class="tab24" align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
 <tr bgcolor="#BDBDBD">
 <td width="53%" height="30" style="padding-left:15px; padding-right:15px;">
-<b>Lehrer-Enthusiasmus und Studieneingangsmotivation</b>
+<b>Lehrer-Enthusiasmus und Studieneingangsmotivation <span style="color:red">(ACHTUNG: Anfragen nur für PZR SoSe 23)</span><b>
+</b>
 </td>
 <td align="right" width="13%" style="padding-left:15px; padding-right:15px;">
 <a href="#swap" onclick="javascript:swap('Einblenden','Ausblenden', 'swaplink9', 'hideme9')" id="swaplink9" onfocus="this.blur()" name="swaplink9">Einblenden</a>
@@ -418,6 +421,8 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
  	<p><a href="https://empschul-leipzig.github.io/team#Lotz">Dr. Christin Lotz</a></p> 
  <h4>Projektbeschreibung</h4>
      	<p>Hängen unterschiedliche Motivationsfacetten, ein Lehramtsstudium aufzunehmen, differentiell mit Lehrer-Enthusiasmus zusammen? Hängt beispielsweise Lehrerenthusiasmus enger mit dem Interesse für pädagogische Situationen zusammen als mit fachlichem Interesse oder der (vermeintlichen) geringen Schwierigkeit des Lehramtsstudiums?</p>
+ <h4>Hinweise</h4>
+	<p>ACHTUNG: Anfragen zu diesem Forschungsthema werden ab sofort nur noch für Abschlussarbeiten mit der Abgabe im PZR SoSe 2023 angenommen!!!!</p>
 </div>
 </td>
 </tr>
