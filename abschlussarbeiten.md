@@ -406,29 +406,31 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 <table class="tab24" align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
 <tr bgcolor="#BDBDBD">
 <td width="53%" height="30" style="padding-left:15px; padding-right:15px;">
-<b>Lehrer-Enthusiasmus und Studieneingangsmotivation <span style="color:red">(ACHTUNG: Anfragen nur für PZR SoSe 23)</span><b>
-</b>
+<b>Lehrer-Enthusiasmus und Studieneingangsmotivation <span style="color:red">(ACHTUNG: Anfragen nur für PZR SoSe 23)</span></b>
 </td>
 <td align="right" width="13%" style="padding-left:15px; padding-right:15px;">
-<a href="#swap" onclick="javascript:swap('Einblenden','Ausblenden', 'swaplink9', 'hideme9')" id="swaplink9" onfocus="this.blur()" name="swaplink9">Einblenden</a>
+<a href="#swap" onclick="javascript:swap('Einblenden','Ausblenden', 'swaplink8', 'hideme8')" id="swaplink8" onfocus="this.blur()" name="swaplink8">Einblenden</a>
 </td>
 </tr> 
 <tr style=" text-align: justify; font-size: 14px; font-weight: normal; background-color: rgb(242,242,242);">
 <td colspan="3" style="padding-left:15px; padding-right:15px;">
-<div id="hideme9" style="display:none">
+<div id="hideme8" style="display:none">
 <br /> 
 <div align="center">
 </div> 
  <h4>Ansprechperson</h4>
- 	<p><a href="https://empschul-leipzig.github.io/team#Lotz">Dr. Christin Lotz</a></p> 
+   <p><a href="https://empschul-leipzig.github.io/team#Lotz">Dr. Christin Lotz</a></p> 
  <h4>Projektbeschreibung</h4>
-     	<p>Hängen unterschiedliche Motivationsfacetten, ein Lehramtsstudium aufzunehmen, differentiell mit Lehrer-Enthusiasmus zusammen? Hängt beispielsweise Lehrerenthusiasmus enger mit dem Interesse für pädagogische Situationen zusammen als mit fachlichem Interesse oder der (vermeintlichen) geringen Schwierigkeit des Lehramtsstudiums?</p>
+   <p>Hängen unterschiedliche Motivationsfacetten, ein Lehramtsstudium aufzunehmen, differentiell mit Lehrer-Enthusiasmus zusammen? Hängt beispielsweise Lehrerenthusiasmus enger mit dem Interesse für pädagogische Situationen zusammen als mit fachlichem Interesse oder der (vermeintlichen) geringen Schwierigkeit des Lehramtsstudiums?</p>
  <h4>Hinweise</h4>
-	<p>ACHTUNG: Anfragen zu diesem Forschungsthema werden ab sofort nur noch für Abschlussarbeiten mit der Abgabe im PZR SoSe 2023 angenommen!!!!</p>
+   <p>ACHTUNG: Anfragen zu diesem Forschungsthema werden ab sofort nur noch für Abschlussarbeiten mit der Abgabe im PZR SoSe 2023 angenommen!!!!</p>
 </div>
 </td>
 </tr>
 </table>
+
+
+
 
 --- 
 
