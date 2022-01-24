@@ -445,7 +445,7 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 <hr>
 
 <h4>Fristen:</h4>
-<p>Die Fristen für die Bewerbung um eine **Staatsexamensarbeit** richten sich nach dem Prüfungszeitraum, in dem Sie Ihre Abschlussarbeit abgeben wollen:</p>
+<p>Die Fristen für die Bewerbung um eine <b>Staatsexamensarbeit</b> richten sich nach dem Prüfungszeitraum, in dem Sie Ihre Abschlussarbeit abgeben wollen:</p>
 
 <hr>
 
