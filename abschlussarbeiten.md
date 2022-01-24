@@ -5,24 +5,33 @@ permalink: /arbeiten
 image: assets/images/abschlussarbeit .jpg
 ---
 
-## Unsere Unterstützungs- und Betreuungsangebote
+<h2>Unsere Unterstützungs- und Betreuungsangebote</h2>
+<p>Haben Sie Interesse, Ihre Bachelor-, Master- oder Staatsexamensarbeit in unserem Arbeitsbereich der "Empirischen Schul- und Unterrichtsforschung" zu schreiben?</p>
 
-Haben Sie Interesse, Ihre Bachelor-, Master- oder Staatsexamensarbeit in unserem Arbeitsbereich der "Empirischen Schul- und Unterrichtsforschung" zu schreiben?
+<hr>
 
-#### Wir bieten Ihnen:
-*	Mitarbeit in unseren laufenden Forschungsprojekten
-*	Betreuung beim Verfassen einer wissenschaftlichen Arbeit in einem interessanten, interdisziplinären Forschungsumfeld
+<h4>Wir bieten Ihnen:</h4>
+<ul>
+<li>Mitarbeit in unseren laufenden Forschungsprojekten</li>
+<li>Betreuung beim Verfassen einer wissenschaftlichen Arbeit in einem interessanten, interdisziplinären Forschungsumfeld</li>
+</ul>
+
+<hr>
 
 <div class="box">
 <p><b>Methodenseminar / Forschungskolloquium für Staatsexamensarbeiten</b></p>
 <p>Für alle Studierenden, die in unserem Arbeitsbereich eine Staatsexamensarbeit schreiben (Erstbetreuung), wird in Kooperation mit der Pädagogischen Psychologie ein Methodenseminar / Forschungskolloquium angeboten, in dem jede Staatsexamensarbeit mindestens einmal präsentiert werden sollte. Die Veranstaltung findet in jedem Semester statt, und zwar immer donnerstags von 13:30 – 15:00 Uhr. Die Anmeldung erfolgt über Ihre Betreuerin / Ihren Betreuer, oder per <a href="mailto:empschul@uni-leipzig.de">E-Mail</a></p>
 </div>
 
-#### Bedingungen:
-Gemäß der Denomination der Professur betreuen wir ausschließlich empirisch ausgerichtete Abschlussarbeiten. Daher gelten bei uns die [Anforderungen und Rahmenbedingungen](https://home.uni-leipzig.de/~paedpsy/wp-content/uploads/2019/01/PPT_Infoveranstaltung_allgemein.pdf) wie in der Pädagogischen Psychologie. Mit den entsprechenden Arbeitsbereichen bestehen Kooperationen in Forschung und Lehre, zum Beispiel ein gemeinsames Kolloquium für wissenschaftliche Abschlussarbeiten.
+<hr>
 
-#### Forschungsprojekte:
-In folgenden Projekten ist das Verfassen einer wissenschaftlichen Abschlussarbeit aktuell möglich:
+<h4>Bedingungen:</h4>
+<p>Gemäß der Denomination der Professur betreuen wir ausschließlich empirisch ausgerichtete Abschlussarbeiten. Daher gelten bei uns die [Anforderungen und Rahmenbedingungen](https://home.uni-leipzig.de/~paedpsy/wp-content/uploads/2019/01/PPT_Infoveranstaltung_allgemein.pdf) wie in der Pädagogischen Psychologie. Mit den entsprechenden Arbeitsbereichen bestehen Kooperationen in Forschung und Lehre, zum Beispiel ein gemeinsames Kolloquium für wissenschaftliche Abschlussarbeiten.</p>
+
+<hr>
+
+<h4>Forschungsprojekte:</h4>
+<p>In folgenden Projekten ist das Verfassen einer wissenschaftlichen Abschlussarbeit aktuell möglich:</p>
 
 <script type="text/javascript">
 //<![CDATA[
@@ -423,23 +432,31 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 
 --- 
 
-**Bei Interesse** melden Sie sich bitte innerhalb der jeweiligen Frist (siehe unten) bei dem oder der für das gewählte Projekt verantwortlichen Mitarbeiter bzw. Mitarbeiterin (siehe Projektbeschreibungen) mit den folgenden...
+<p><b>Bei Interesse</b> melden Sie sich bitte innerhalb der jeweiligen Frist (siehe unten) bei dem oder der für das gewählte Projekt verantwortlichen Mitarbeiter bzw. Mitarbeiterin (siehe Projektbeschreibungen) mit den folgenden...</p>
 
-#### Unterlagen und Angaben:
+<h4>Unterlagen und Angaben:</h4>
+<ul>
+<li>Anschreiben mit Darlegung der Motivation für eine wissenschaftliche Abschlussarbeit im gewählten Projekt</li>
+<li>geplanter Abgabetermin Ihrer Abschlussarbeit</li>
+</ul>
 
-*	Anschreiben mit Darlegung der Motivation für eine wissenschaftliche Abschlussarbeit im gewählten Projekt
-*	geplanter Abgabetermin Ihrer Abschlussarbeit
+<hr>
 
-#### Fristen:
-Die Fristen für die Bewerbung um eine **Staatsexamensarbeit** richten sich nach dem Prüfungszeitraum, in dem Sie Ihre Abschlussarbeit abgeben wollen:
+<h4>Fristen:</h4>
+<p>Die Fristen für die Bewerbung um eine **Staatsexamensarbeit** richten sich nach dem Prüfungszeitraum, in dem Sie Ihre Abschlussarbeit abgeben wollen:</p>
 
-**Für einen Abschluss…**
+<hr>
 
-* 	im **PZR SoSe 2022** melden Sie sich bitte bis spätestens **31. August 2021**
-* 	im **PZR WiSe 2022/23** melden Sie sich bitte bis spätestens **15. Januar 2022**
+<b>Für einen Abschluss…</b>
+<ul>
+<li>im <b>PZR SoSe 2022</b> melden Sie sich bitte bis spätestens <b>31. August 2021</b></li>
+<li>im <b>PZR WiSe 2022/23</b> melden Sie sich bitte bis spätestens <b>15. Januar 2022</b></li>
+</ul>
 
-**Bachelor- und Master-Studierende** melden sich **unabhängig dieser Fristen** mit den oben genannten Unterlagen bei der/dem Forschungsprojektverantwortlichen.
+<p><b>Bachelor- und Master-Studierende</b> melden sich <b>unabhängig dieser Fristen</b> mit den oben genannten Unterlagen bei der/dem Forschungsprojektverantwortlichen.</p>
 
-#### Aktuelle Termine und weitere Informationen:
-*Zur Zeit finden keine Informationsveranstaltungen statt*
+<hr>
+
+<h4>Aktuelle Termine und weitere Informationen:</h4>
+<p><i>Zur Zeit finden keine Informationsveranstaltungen statt</i></p>
 
