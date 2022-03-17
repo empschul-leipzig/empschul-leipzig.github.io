@@ -298,10 +298,8 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 <h3><img style="float: left; margin: 0px 15px 15px 0px; border-radius: 50%;" src="assets/images/Klatt.jpg" width="150" hight="200"/>Mandy Klatt</h3>
 <p><b>Doktorandin</b></p>
 </article>
-<p style="padding-left: 165px;">Mandy Klatt forscht und lehrt als wissenschaftliche Mitarbeiterin an der Professur "Empirische Schul- und Unterrichtsforschung" an der Erziehungswissenschaftlichen Fakultät der Universität Leipzig.<br>
-Im Mittelpunkt ihrer Forschungsinteressen stehen neue, multimodale Methoden zur Erforschung von Lehr- und Lernprozessen wie mehrkanalige Prozessmessungen, Eye-Tracking, Audio- und Videografie im Unterricht. Ziel ist es außerdem, automatisierte Analyseverfahren anhand von Beobachtungsdaten zu validieren, um sie für die Unterrichtsforschung nutzbar zu machen. In ihrer Dissertation widmet sie sich u. a. der Fragestellung nach der Expertiseentwicklung von Lehrpersonen.<br>
-Mandy Klatt bietet Lehrveranstaltungen im Bereich der bildungswissenschaftlichen Module der Lehramtsstudiengänge (Modul 02 "Praxis- und Studienfeld Schule") an.<br>
-Vor ihrer Beschäftigung an der Universität Leipzig absolvierte sie einen anderthalbjährigen Aufenthalt in Frankreich mit Lehrtätigkeit.<br style="clear: both;"/>
+<p style="padding-left: 165px;">Mandy Klatt forscht und lehrt als wissenschaftliche Mitarbeiterin im Arbeitsbereich "Empirische Schul- und Unterrichtsforschung" an der Erziehungswissenschaftlichen Fakultät der Universität Leipzig.<br>
+Im Mittelpunkt ihrer Forschungsinteressen stehen neue, multimodale Methoden zur Erforschung von Lehr- und Lernprozessen wie Eye-Tracking, Audio- und Videografie im Unterricht.<br style="clear: both;"/>
 
 <script type="text/javascript">
 //<![CDATA[
@@ -579,10 +577,10 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 <h2>Studentische und Wissenschaftliche Hilfskräfte</h2>
 <hr>
 
-<!--Pelikan-->
+ <!--Heidemeyer-->
 
-<h3><img style="float: left; margin: 0px 15px 15px 0px; border-radius: 50%;" src="assets/images/Pelikan.jpg" width="150" hight="200"/>Anna Pelikan</h3>
-<p style="padding-left: 165px;">Anna Pelikan studiert Höheres Lehramt an Gymnasien für die Fächer Englisch und Deutsch an der Universität Leipzig. An der Professur für "Empirische Schul- und Unterrichtsforschung" ist sie als studentische Hilfskraft tätig. <br style="clear: both;"/>
+<h3><img style="float: left; margin: 0px 15px 15px 0px; border-radius: 50%;" src="assets/images/.jpg" width="150" hight="200"/>Anne Heidemeyer</h3>
+<p style="padding-left: 165px;"><br style="clear: both;"/>
 
 <script type="text/javascript">
 //<![CDATA[
@@ -614,7 +612,7 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 <div id="hideme8" style="display:none">
 <br /> 
 <div align="center">
-</div> 
+</div>
   <p><b>E-Mail:</b> <a href="mailto:empschul_hiwi@uni-leipzig.de">empschul_hiwi@uni-leipzig.de</a><br>
   <b>Raum:</b> 009<br></p>
 </div>
@@ -849,7 +847,8 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 <!--Hawlitschek-->
   
 <h3><img style="float: left; margin: 0px 15px 15px 0px; border-radius: 50%;" src="assets/images/Hawlitschek.jpg" width="150" hight="200"/>Patrick Hawlitschek</h3>
-<p style="padding-left: 165px;">Patrick Hawlitschek absolvierte die Studiengänge Lehramt an Gymnasien (Deutsch/Ethik) und Soziologie an der Universität Leipzig. An der Professur für "Empirische Schul- und Unterrichtsforschung" war er als Studentische Hilfskraft tätig. Seine Interessen liegen in den Methoden der empirischen Sozialforschung und der angewandten Statistik. <br style="clear: both;"/>
+<p><b>ehemalige studentische Hilfskraft</b></p>
+<p style="padding-left: 165px;">Patrick Hawlitschek absolvierte die Studiengänge Lehramt an Gymnasien (Deutsch/Ethik) und Soziologie an der Universität Leipzig. An der Professur für "Empirische Schul- und Unterrichtsforschung" war er als Studentische Hilfskraft tätig. Seine Interessen liegen in den Methoden der empirischen Sozialforschung und der angewandten Statistik.<br style="clear: both;"/>
 
 <script type="text/javascript">
 //<![CDATA[
@@ -891,15 +890,8 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 <!--Eulitz-->
 
 <h3><img style="float: left; margin: 0px 15px 15px 0px; border-radius: 50%;" src="assets/images/Eulitz.jpg" width="150" hight="200"/>Gereon Eulitz</h3>
-<p><b>Doktorand</b></p>
-<p style="padding-left: 165px;">Gereon Eulitz war Lehrer im Hochschuldienst und gehörte der Professur "Empirische Schul- und Unterrichtsforschung" an. Sein Forschungsinteresse gilt der kooperativen Unterrichtsentwicklung. Das Modul 05-BWI-02 (SPS) "Praxis- und Studienfeld Schule" waren Schwerpunkt seiner Lehrtätigkeit. Außerdem wirkt er an der Mentorenqualifizierung im Freistaat Sachsen mit.
-<p style="padding-left: 165px;"><span style="text-decoration: underline;">Arbeitsschwerpunkte und Forschungsinteressen</span><br>
- - Kooperation von Wissenschaftler*innen und Lehrer*innen im Rahmen didaktischer Entwicklungsforschung<br>
-- Unterrichtsentwicklung und Unterrichtsforschung, insbesondere kooperative Formate (z.B. Design-Based Research, Lesson Study, Professional Learning Communities<br>
-- Theorie-Praxis-Beziehungen / Innovations- und Transferforschung<br>
-- Schul- und Unterrichtsentwicklung in internationalen und interkulturellen Kontexten<br>
-- Schulpraktische Studien: Praxis- und Studienfeld Schule (Bildungswissenschaft)<br>
-- Mentorenqualifizierung f&uuml;r LehrerInnen aller Schularten</p>
+<p><b>ehemaliger wissenschaftlicher Mitarbeiter</b></p>
+<p style="padding-left: 165px;">Gereon Eulitz war Lehrer im Hochschuldienst und gehörte der Professur "Empirische Schul- und Unterrichtsforschung" an. Sein Forschungsinteresse gilt der kooperativen Unterrichtsentwicklung. Das Modul 05-BWI-02 (SPS) "Praxis- und Studienfeld Schule" waren Schwerpunkt seiner Lehrtätigkeit. Außerdem wirkt er an der Mentorenqualifizierung im Freistaat Sachsen mit.<br style="clear: both;"/>
 
 <script type="text/javascript">
 //<![CDATA[
@@ -932,33 +924,49 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 <br /> 
 <div align="center">
 </div>  
-  <b>E-Mail:</b> <a href="mailto:gereon.eulitz@uni-leipzig.de">gereon.eulitz@uni-leipzig.de</a><br>
-  
-  <p><b>Kurzbiografie</b></p>
- <div class="table-wrapper">
-        <table>
-          <tbody>
-            <tr>
-              <td>bis WiSe<br>2019/20</td>
-              <td>Mitarbeit im Arbeitsbereich 'Empirische Schul- und Unterrichtsforschung'</td>
-            </tr>
-            <tr>
-              <td>seit WiSe<br>2017/18</td>
-              <td>Doktorand bei Prof. Dr. Hallitzky / Arbeitstitel  "Die interprofessionelle Kooperation von Lehrkräften und Forschenden im Rahmen des Design-Based Research-Ansatzes"</td>
-            </tr>
-            <tr>
-              <td>seit WiSe<br>2016/17</td>
-              <td>Mitarbeit im Arbeitsbereich 'Allgemeine Didaktik & Schulpädagogik des Sekundarbereichs'</td>
-            </tr>
-            <tr>
-              <td>seit WiSe<br>2014/15</td>
-              <td>Lehrer im Hochschuldienst / ZLS der Universität Leipzig
-              Professur International und interkulturell vergleichende Bildungswissenschaft</td>
-            </tr>
-          </tbody>
-        </table>
-      </div>
 </div>
 </td>
 </tr>
 </table>
+  
+<!--Pelikan-->
+
+<h3><img style="float: left; margin: 0px 15px 15px 0px; border-radius: 50%;" src="assets/images/Pelikan.jpg" width="150" hight="200"/>Anna Pelikan</h3>
+<p><b>ehemalige studentische Hilfskraft</b></p>
+<p style="padding-left: 165px;">Anna Pelikan studiert Höheres Lehramt an Gymnasien für die Fächer Englisch und Deutsch an der Universität Leipzig. An der Professur für "Empirische Schul- und Unterrichtsforschung" war sie als studentische Hilfskraft tätig. <br style="clear: both;"/>
+
+<script type="text/javascript">
+//<![CDATA[
+function swap(openlink,closelink, linkid, dataid)
+{
+if( document.getElementById(dataid).style.display == 'none')
+{
+document.getElementById(dataid).style.display='inline';
+document.getElementById(linkid).firstChild.nodeValue=closelink;
+} else
+{
+document.getElementById(dataid).style.display='none';
+document.getElementById(linkid).firstChild.nodeValue=openlink;
+}
+}
+//]]>
+</script>
+<table class="tab24" align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr bgcolor="#BDBDBD">
+<td width="33%" height="30" style="padding-left:15px; padding-right:15px;">
+<b>Kontakt und Weiteres</b>
+</td>
+<td align="right" width="33%" style="padding-left:15px; padding-right:15px;">
+<a href="#swap" onclick="javascript:swap('Einblenden','Ausblenden', 'swaplink15', 'hideme15')" id="swaplink15" onfocus="this.blur()" name="swaplink15">Einblenden</a>
+</td>
+</tr> 
+<tr style=" text-align: justify; font-size: 14px; font-weight: normal; background-color: rgb(242,242,242);">
+<td colspan="3" style="padding-left:15px; padding-right:15px;">
+<div id="hideme15" style="display:none">
+<br /> 
+<div align="center">
+</div>
+</td>
+</tr>
+</table>
+
