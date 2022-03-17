@@ -788,146 +788,17 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 <p><b>ehemalige Sekretärin</b></p>
 <p style="padding-left: 165px;">Anne-Katrhin Pagel war Sekretärin an der Professur "Empirische Schul- und Unterrichtsforschung" an der Erziehungswissenschaftlichen Fakultät der Universität Leipzig.<br style="clear: both;"/>
 
-<script type="text/javascript">
-//<![CDATA[
-function swap(openlink,closelink, linkid, dataid)
-{
-if( document.getElementById(dataid).style.display == 'none')
-{
-document.getElementById(dataid).style.display='inline';
-document.getElementById(linkid).firstChild.nodeValue=closelink;
-} else
-{
-document.getElementById(dataid).style.display='none';
-document.getElementById(linkid).firstChild.nodeValue=openlink;
-}
-}
-//]]>
-</script>
-<table class="tab24" align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
-<tr bgcolor="#BDBDBD">
-<td width="33%" height="30" style="padding-left:15px; padding-right:15px;">
-<b>Kontakt und Weiteres</b>
-</td>
-<td align="right" width="33%" style="padding-left:15px; padding-right:15px;">
-<a href="#swap" onclick="javascript:swap('Einblenden','Ausblenden', 'swaplink12', 'hideme12')" id="swaplink12" onfocus="this.blur()" name="swaplink12">Einblenden</a>
-</td>
-</tr> 
-<tr style=" text-align: justify; font-size: 14px; font-weight: normal; background-color: rgb(242,242,242);">
-<td colspan="3" style="padding-left:15px; padding-right:15px;">
-<div id="hideme12" style="display:none">
-<br /> 
-<div align="center">
-</div> 
-
-  <p><b>Kurzbiografie</b></p>
-  <div class="table-wrapper">
-        <table>
-          <tbody>
-            <tr>
-              <td>2019-2020</td>
-              <td>Sekretärin an der Professur für "Empirische Schul- und Unterrichtsforschung"</td>
-            </tr>
-            <tr>
-              <td>2006-2019</td>
-              <td>verschiedene Beschäftigungen an der TU Dresden und Universität Leipzig</td>
-            </tr>
-            <tr>
-              <td>2003-2006</td>
-              <td>Ausbildung zur Fremdsprachensekretärin</td>
-            </tr>
-          </tbody>
-        </table>
-      </div>
-</div>
-</td>
-</tr>
-</table>
-  
 <!--Hawlitschek-->
   
 <h3><img style="float: left; margin: 0px 15px 15px 0px; border-radius: 50%;" src="assets/images/Hawlitschek.jpg" width="150" hight="200"/>Patrick Hawlitschek</h3>
 <p><b>ehemalige studentische Hilfskraft</b></p>
 <p style="padding-left: 165px;">Patrick Hawlitschek absolvierte die Studiengänge Lehramt an Gymnasien (Deutsch/Ethik) und Soziologie an der Universität Leipzig. An der Professur für "Empirische Schul- und Unterrichtsforschung" war er als Studentische Hilfskraft tätig. Seine Interessen liegen in den Methoden der empirischen Sozialforschung und der angewandten Statistik.<br style="clear: both;"/>
 
-<script type="text/javascript">
-//<![CDATA[
-function swap(openlink,closelink, linkid, dataid)
-{
-if( document.getElementById(dataid).style.display == 'none')
-{
-document.getElementById(dataid).style.display='inline';
-document.getElementById(linkid).firstChild.nodeValue=closelink;
-} else
-{
-document.getElementById(dataid).style.display='none';
-document.getElementById(linkid).firstChild.nodeValue=openlink;
-}
-}
-//]]>
-</script>
-<table class="tab24" align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
-<tr bgcolor="#BDBDBD">
-<td width="33%" height="30" style="padding-left:15px; padding-right:15px;">
-<b>Kontakt und Weiteres</b>
-</td>
-<td align="right" width="33%" style="padding-left:15px; padding-right:15px;">
-<a href="#swap" onclick="javascript:swap('Einblenden','Ausblenden', 'swaplink13', 'hideme13')" id="swaplink13" onfocus="this.blur()" name="swaplink13">Einblenden</a>
-</td>
-</tr> 
-<tr style=" text-align: justify; font-size: 14px; font-weight: normal; background-color: rgb(242,242,242);">
-<td colspan="3" style="padding-left:15px; padding-right:15px;">
-<div id="hideme13" style="display:none">
-<br /> 
-<div align="center">
-</div> 
-  <p><b>E-Mail:</b> <a href="mailto:patrick.hawlitschek@uni-leipzig.de">patrick.hawlitschek@uni-leipzig.de</a></p>
-</div>
-</td>
-</tr>
-</table>
-
 <!--Eulitz-->
 
 <h3><img style="float: left; margin: 0px 15px 15px 0px; border-radius: 50%;" src="assets/images/Eulitz.jpg" width="150" hight="200"/>Gereon Eulitz</h3>
 <p><b>ehemaliger wissenschaftlicher Mitarbeiter</b></p>
 <p style="padding-left: 165px;">Gereon Eulitz war Lehrer im Hochschuldienst und gehörte der Professur "Empirische Schul- und Unterrichtsforschung" an. Sein Forschungsinteresse gilt der kooperativen Unterrichtsentwicklung. Das Modul 05-BWI-02 (SPS) "Praxis- und Studienfeld Schule" waren Schwerpunkt seiner Lehrtätigkeit. Außerdem wirkt er an der Mentorenqualifizierung im Freistaat Sachsen mit.<br style="clear: both;"/>
-
-<script type="text/javascript">
-//<![CDATA[
-function swap(openlink,closelink, linkid, dataid)
-{
-if( document.getElementById(dataid).style.display == 'none')
-{
-document.getElementById(dataid).style.display='inline';
-document.getElementById(linkid).firstChild.nodeValue=closelink;
-} else
-{
-document.getElementById(dataid).style.display='none';
-document.getElementById(linkid).firstChild.nodeValue=openlink;
-}
-}
-//]]>
-</script>
-<table class="tab24" align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
-<tr bgcolor="#BDBDBD">
-<td width="33%" height="30" style="padding-left:15px; padding-right:15px;">
-<b>Kontakt und Weiteres</b>
-</td>
-<td align="right" width="33%" style="padding-left:15px; padding-right:15px;">
-<a href="#swap" onclick="javascript:swap('Einblenden','Ausblenden', 'swaplink14', 'hideme14')" id="swaplink14" onfocus="this.blur()" name="swaplink14">Einblenden</a>
-</td>
-</tr> 
-<tr style=" text-align: justify; font-size: 14px; font-weight: normal; background-color: rgb(242,242,242);">
-<td colspan="3" style="padding-left:15px; padding-right:15px;">
-<div id="hideme14" style="display:none">
-<br /> 
-<div align="center">
-</div>  
-</div>
-</td>
-</tr>
-</table>
   
 <!--Pelikan-->
 
@@ -935,38 +806,5 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 <p><b>ehemalige studentische Hilfskraft</b></p>
 <p style="padding-left: 165px;">Anna Pelikan studiert Höheres Lehramt an Gymnasien für die Fächer Englisch und Deutsch an der Universität Leipzig. An der Professur für "Empirische Schul- und Unterrichtsforschung" war sie als studentische Hilfskraft tätig. <br style="clear: both;"/>
 
-<script type="text/javascript">
-//<![CDATA[
-function swap(openlink,closelink, linkid, dataid)
-{
-if( document.getElementById(dataid).style.display == 'none')
-{
-document.getElementById(dataid).style.display='inline';
-document.getElementById(linkid).firstChild.nodeValue=closelink;
-} else
-{
-document.getElementById(dataid).style.display='none';
-document.getElementById(linkid).firstChild.nodeValue=openlink;
-}
-}
-//]]>
-</script>
-<table class="tab24" align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
-<tr bgcolor="#BDBDBD">
-<td width="33%" height="30" style="padding-left:15px; padding-right:15px;">
-<b>Kontakt und Weiteres</b>
-</td>
-<td align="right" width="33%" style="padding-left:15px; padding-right:15px;">
-<a href="#swap" onclick="javascript:swap('Einblenden','Ausblenden', 'swaplink15', 'hideme15')" id="swaplink15" onfocus="this.blur()" name="swaplink15">Einblenden</a>
-</td>
-</tr> 
-<tr style=" text-align: justify; font-size: 14px; font-weight: normal; background-color: rgb(242,242,242);">
-<td colspan="3" style="padding-left:15px; padding-right:15px;">
-<div id="hideme15" style="display:none">
-<br /> 
-<div align="center">
-</div>
-</td>
-</tr>
-</table>
+
 
