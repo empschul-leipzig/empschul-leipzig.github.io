@@ -233,43 +233,6 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 </tr>
 </table>
 
-<script type="text/javascript">
-//<![CDATA[
-function swap(openlink,closelink, linkid, dataid)
-{
-if( document.getElementById(dataid).style.display == 'none')
-{
-document.getElementById(dataid).style.display='inline';
-document.getElementById(linkid).firstChild.nodeValue=closelink;
-} else
-{
-document.getElementById(dataid).style.display='none';
-document.getElementById(linkid).firstChild.nodeValue=openlink;
-}
-}
-//]]>
-</script>
-<table class="tab24" align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
-<tr bgcolor="#BDBDBD">
-<td width="53%" height="30" style="padding-left:15px; padding-right:15px;">
-<b>Evaluation einer Testphase mit späteren Unterrichtszeiten an einem Leipziger Gymnasium</b>
-</td>
-<td align="right" width="13%" style="padding-left:15px; padding-right:15px;">
-<a href="#swap" onclick="javascript:swap('Einblenden','Ausblenden', 'swaplink5', 'hideme5')" id="swaplink5" onfocus="this.blur()" name="swaplink5">Einblenden</a>
-</td>
-</tr> 
-<tr style=" text-align: justify; font-size: 14px; font-weight: normal; background-color: rgb(242,242,242);">
-<td colspan="3" style="padding-left:15px; padding-right:15px;">
-<div id="hideme5" style="display:none">
-<br /> 
-<div align="center">
-</div> 
- <h4>Ansprechperson</h4>
- 	<p><a href="https://empschul-leipzig.github.io/team#Deiglmayr">Prof. Dr. Anne Deiglmayr</a></p>
-</div>
-</td>
-</tr>
-</table>
 
 <script type="text/javascript">
 //<![CDATA[
@@ -293,12 +256,12 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 <b>Gender-gerechte Sprache: Kann die kognitive Repräsentation von Frauen durch die Verwendung gender-gerechter und sprachlicher Alternativen zum generischen Maskulinum erhöht werden? <span style="color:red">(ACHTUNG: Anfragen nur für PZR SoSe 23)</span></b>
 </td>
 <td align="right" width="13%" style="padding-left:15px; padding-right:15px;">
-<a href="#swap" onclick="javascript:swap('Einblenden','Ausblenden', 'swaplink6', 'hideme6')" id="swaplink6" onfocus="this.blur()" name="swaplink6">Einblenden</a>
+<a href="#swap" onclick="javascript:swap('Einblenden','Ausblenden', 'swaplink5', 'hideme5')" id="swaplink5" onfocus="this.blur()" name="swaplink5">Einblenden</a>
 </td>
 </tr> 
 <tr style=" text-align: justify; font-size: 14px; font-weight: normal; background-color: rgb(242,242,242);">
 <td colspan="3" style="padding-left:15px; padding-right:15px;">
-<div id="hideme6" style="display:none">
+<div id="hideme5" style="display:none">
 <br /> 
 <div align="center">
 </div> 
@@ -333,12 +296,12 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 <b>Schriftliche Reflexionsaufgaben in der universitären Lehramtsausbildung - Fluch oder Segen?</b>
 </td>
 <td align="right" width="13%" style="padding-left:15px; padding-right:15px;">
-<a href="#swap" onclick="javascript:swap('Einblenden','Ausblenden', 'swaplink7', 'hideme7')" id="swaplink7" onfocus="this.blur()" name="swaplink7">Einblenden</a>
+<a href="#swap" onclick="javascript:swap('Einblenden','Ausblenden', 'swaplink6', 'hideme6')" id="swaplink6" onfocus="this.blur()" name="swaplink6">Einblenden</a>
 </td>
 </tr> 
 <tr style=" text-align: justify; font-size: 14px; font-weight: normal; background-color: rgb(242,242,242);">
 <td colspan="3" style="padding-left:15px; padding-right:15px;">
-<div id="hideme7" style="display:none">
+<div id="hideme6" style="display:none">
 <br /> 
 <div align="center">
 </div> 
@@ -371,12 +334,12 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 <b>Lehrer-Enthusiasmus und Studieneingangsmotivation <span style="color:red">(ACHTUNG: Anfragen nur für PZR SoSe 23)</span></b>
 </td>
 <td align="right" width="13%" style="padding-left:15px; padding-right:15px;">
-<a href="#swap" onclick="javascript:swap('Einblenden','Ausblenden', 'swaplink8', 'hideme8')" id="swaplink8" onfocus="this.blur()" name="swaplink8">Einblenden</a>
+<a href="#swap" onclick="javascript:swap('Einblenden','Ausblenden', 'swaplink7', 'hideme7')" id="swaplink7" onfocus="this.blur()" name="swaplink7">Einblenden</a>
 </td>
 </tr> 
 <tr style=" text-align: justify; font-size: 14px; font-weight: normal; background-color: rgb(242,242,242);">
 <td colspan="3" style="padding-left:15px; padding-right:15px;">
-<div id="hideme8" style="display:none">
+<div id="hideme7" style="display:none">
 <br /> 
 <div align="center">
 </div> 
@@ -413,8 +376,8 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 
 <b>Für einen Abschluss…</b>
 <ul>
-<li>im <b>PZR SoSe 2022</b> melden Sie sich bitte bis spätestens <b>31. August 2021</b></li>
 <li>im <b>PZR WiSe 2022/23</b> melden Sie sich bitte bis spätestens <b>15. Januar 2022</b></li>
+<li>im <b>PZR SoSe 2023</b> melden Sie sich bitte bis spätestens <b>31. August 2022</b></li>
 </ul>
 
 <p><b>Bachelor- und Master-Studierende</b> melden sich <b>unabhängig dieser Fristen</b> mit den oben genannten Unterlagen bei der/dem Forschungsprojektverantwortlichen.</p>
