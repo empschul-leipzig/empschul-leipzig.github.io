@@ -576,7 +576,7 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 <h2>Studentische und Wissenschaftliche Hilfskräfte</h2>
 <hr>
   
-!--Becker-->
+<!--Becker-->
 
 <h3><img style="float: left; margin: 0px 15px 15px 0px; border-radius: 50%;" src="assets/images/Lugovaya.jpg" width="150" hight="200"/>Franziska Becker</h3>
 <p style="padding-left: 165px;"><br style="clear: both;"/>
@@ -619,7 +619,7 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 </tr>
 </table>
   
-!--Zachrau-->
+<!--Zachrau-->
 
 <h3><img style="float: left; margin: 0px 15px 15px 0px; border-radius: 50%;" src="assets/images/Lugovaya.jpg" width="150" hight="200"/>Jonathan Zachrau</h3>
 <p style="padding-left: 165px;">Jonathan Zachrau studiert Höheres Lehramt an Gymnasien mit den Fächern Mathematik und Deutsch an der Universität Leipzig. An der Professur "Empirische Schul- und Unterrichtsforschung" ist er als studentische Hilfskraft tätig. <br style="clear: both;"/>
