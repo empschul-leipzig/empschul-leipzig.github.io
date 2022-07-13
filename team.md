@@ -525,7 +525,6 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 </tr>
 </table>
 
-
 <!--Leistner-->
 
 <h3><img style="float: left; margin: 0px 15px 15px 0px; border-radius: 50%;" src="assets/images/Leistner.jpg" width="150" hight="200"/>Mirjam Leistner</h3>
@@ -576,10 +575,10 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 <hr>
 <h2>Studentische und Wissenschaftliche Hilfskräfte</h2>
 <hr>
+  
+!--Becker-->
 
- <!--Heidemeyer-->
-
-<h3><img style="float: left; margin: 0px 15px 15px 0px; border-radius: 50%;" src="assets/images/.jpg" width="150" hight="200"/>Anne Heidemeyer</h3>
+<h3><img style="float: left; margin: 0px 15px 15px 0px; border-radius: 50%;" src="assets/images/Lugovaya.jpg" width="150" hight="200"/>Franziska Becker</h3>
 <p style="padding-left: 165px;"><br style="clear: both;"/>
 
 <script type="text/javascript">
@@ -619,11 +618,11 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 </td>
 </tr>
 </table>
+  
+!--Zachrau-->
 
-<!--Schwertfeger-->
-
-<h3><img style="float: left; margin: 0px 15px 15px 0px; border-radius: 50%;" src="assets/images/Schwertfeger.jpg" width="150" hight="200"/>Peer Schwertfeger</h3>
-<p style="padding-left: 165px;">Peer Schwertfeger studiert im Master Soziologie an der Universität Leipzig. An der Professur für "Empirische Schul- und Unterrichtsforschung" ist er als wissenschaftliche Hilfskraft tätig. <br style="clear: both;"/>
+<h3><img style="float: left; margin: 0px 15px 15px 0px; border-radius: 50%;" src="assets/images/Lugovaya.jpg" width="150" hight="200"/>Jonathan Zachrau</h3>
+<p style="padding-left: 165px;">Jonathan Zachrau studiert Höheres Lehramt an Gymnasien mit den Fächern Mathematik und Deutsch an der Universität Leipzig. An der Professur "Empirische Schul- und Unterrichtsforschung" ist er als studentische Hilfskraft tätig. <br style="clear: both;"/>
 
 <script type="text/javascript">
 //<![CDATA[
@@ -655,47 +654,18 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 <div id="hideme9" style="display:none">
 <br /> 
 <div align="center">
-</div> 
-  <p><b>E-Mail:</b> <a href="mailto:peer.schwertfeger@uni-leipzig.de">peer.schwertfeger@uni-leipzig.de</a><br>
+</div>
+  <p><b>E-Mail:</b> <a href="mailto:jonathan.zachrau@uni-leipzig.de">jonathan.zachrau@uni-leipzig.de</a><br>
   <b>Raum:</b> 009<br></p>
-  
-  <p><b>Kurzbiografie</b></p>
- <div class="table-wrapper">
-        <table>
-          <tbody>
-            <tr>
-              <td>seit 2020</td>
-              <td>Studium Soziologie (Master) an der Universität Leipzig</td>
-            </tr>
-            <tr>
-              <td>2017-2020</td>
-              <td>Studium Soziologie an der Universität Leipzig mit Abschluss Bachelor of Arts</td>
-            </tr>
-            <tr>
-              <td>2017</td>
-              <td>Erasmus Aufenthalt an der Universität Lund (Schweden)</td>
-            </tr>
-            <tr>
-              <td>2015-2017</td>
-              <td>Studium Rechtswissenschaften an der Universität Greifswald</td>
-            </tr>
-             <tr>
-              <td>2011-2015</td>
-              <td>Studium 'Good Governance' – Wirtschaft, Gesellschaft, Recht an der Universität Rostock mit Abschluss Bachelor of Laws
-</td>
-            </tr>
-          </tbody>
-        </table>
-      </div>
 </div>
 </td>
 </tr>
 </table>
   
-<!--Lugovaya-->
+<!--Schuster-->
 
-<h3><img style="float: left; margin: 0px 15px 15px 0px; border-radius: 50%;" src="assets/images/Lugovaya.jpg" width="150" hight="200"/>Anna Lugovaya</h3>
-<p style="padding-left: 165px;">Anna Lugovaya studiert Lehramt an Grundschulen mit dem Kernfach Ethik und dem Lehramtserweiterungsfach Deutsch als Zweitsprache. An der Professur "Empirische Schul- und Unterrichtsforschung" ist sie als studentische Hilfskraft tätig. <br style="clear: both;"/>
+<h3><img style="float: left; margin: 0px 15px 15px 0px; border-radius: 50%;" src="assets/images/Lugovaya.jpg" width="150" hight="200"/>Gina Maria Schuster</h3>
+<p style="padding-left: 165px;"><br style="clear: both;"/>
 
 <script type="text/javascript">
 //<![CDATA[
@@ -735,10 +705,10 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 </tr>
 </table>
 
-<!--Schmidtke-->
+<!--Heidemeyer-->
 
-<h3><img style="float: left; margin: 0px 15px 15px 0px; border-radius: 50%;" src="assets/images/Schmidtke.jpg" width="150" hight="200"/>Anna Schmidtke</h3>
-<p style="padding-left: 165px;">Anna Schmidtke studiert den Studiengang Höheres Lehramt an Gymnasien mit den Fächern Deutsch und Ethik an der Universität Leipzig. An der Professur für "Empirische Schul- und Unterrichtsforschung" ist sie als studentische Hilfskraft tätig.<br style="clear: both;"/>
+<h3><img style="float: left; margin: 0px 15px 15px 0px; border-radius: 50%;" src="assets/images/Lugovaya.jpg" width="150" hight="200"/>Anne Heidemeyer</h3>
+<p style="padding-left: 165px;"><br style="clear: both;"/>
 
 <script type="text/javascript">
 //<![CDATA[
@@ -768,6 +738,92 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 <tr style=" text-align: justify; font-size: 14px; font-weight: normal; background-color: rgb(242,242,242);">
 <td colspan="3" style="padding-left:15px; padding-right:15px;">
 <div id="hideme11" style="display:none">
+<br /> 
+<div align="center">
+</div>
+  <p><b>E-Mail:</b> <a href="mailto:empschul_hiwi@uni-leipzig.de">empschul_hiwi@uni-leipzig.de</a><br>
+  <b>Raum:</b> 009<br></p>
+</div>
+</td>
+</tr>
+</table>
+
+<!--Lugovaya-->
+
+<h3><img style="float: left; margin: 0px 15px 15px 0px; border-radius: 50%;" src="assets/images/Lugovaya.jpg" width="150" hight="200"/>Anna Lugovaya</h3>
+<p style="padding-left: 165px;">Anna Lugovaya studiert Lehramt an Grundschulen mit dem Kernfach Ethik und dem Lehramtserweiterungsfach Deutsch als Zweitsprache. An der Professur "Empirische Schul- und Unterrichtsforschung" ist sie als studentische Hilfskraft tätig. <br style="clear: both;"/>
+
+<script type="text/javascript">
+//<![CDATA[
+function swap(openlink,closelink, linkid, dataid)
+{
+if( document.getElementById(dataid).style.display == 'none')
+{
+document.getElementById(dataid).style.display='inline';
+document.getElementById(linkid).firstChild.nodeValue=closelink;
+} else
+{
+document.getElementById(dataid).style.display='none';
+document.getElementById(linkid).firstChild.nodeValue=openlink;
+}
+}
+//]]>
+</script>
+<table class="tab24" align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr bgcolor="#BDBDBD">
+<td width="33%" height="30" style="padding-left:15px; padding-right:15px;">
+<b>Kontakt und Weiteres</b>
+</td>
+<td align="right" width="33%" style="padding-left:15px; padding-right:15px;">
+<a href="#swap" onclick="javascript:swap('Einblenden','Ausblenden', 'swaplink12', 'hideme12')" id="swaplink12" onfocus="this.blur()" name="swaplink12">Einblenden</a>
+</td>
+</tr> 
+<tr style=" text-align: justify; font-size: 14px; font-weight: normal; background-color: rgb(242,242,242);">
+<td colspan="3" style="padding-left:15px; padding-right:15px;">
+<div id="hideme12" style="display:none">
+<br /> 
+<div align="center">
+</div>
+  <p><b>E-Mail:</b> <a href="mailto:empschul_hiwi@uni-leipzig.de">empschul_hiwi@uni-leipzig.de</a><br>
+  <b>Raum:</b> 009<br></p>
+</div>
+</td>
+</tr>
+</table>
+
+<!--Schmidtke-->
+
+<h3><img style="float: left; margin: 0px 15px 15px 0px; border-radius: 50%;" src="assets/images/Schmidtke.jpg" width="150" hight="200"/>Anna Schmidtke</h3>
+<p style="padding-left: 165px;">Anna Schmidtke studiert den Studiengang Höheres Lehramt an Gymnasien mit den Fächern Deutsch und Ethik an der Universität Leipzig. An der Professur für "Empirische Schul- und Unterrichtsforschung" ist sie als studentische Hilfskraft tätig.<br style="clear: both;"/>
+
+<script type="text/javascript">
+//<![CDATA[
+function swap(openlink,closelink, linkid, dataid)
+{
+if( document.getElementById(dataid).style.display == 'none')
+{
+document.getElementById(dataid).style.display='inline';
+document.getElementById(linkid).firstChild.nodeValue=closelink;
+} else
+{
+document.getElementById(dataid).style.display='none';
+document.getElementById(linkid).firstChild.nodeValue=openlink;
+}
+}
+//]]>
+</script>
+<table class="tab24" align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr bgcolor="#BDBDBD">
+<td width="33%" height="30" style="padding-left:15px; padding-right:15px;">
+<b>Kontakt und Weiteres</b>
+</td>
+<td align="right" width="33%" style="padding-left:15px; padding-right:15px;">
+<a href="#swap" onclick="javascript:swap('Einblenden','Ausblenden', 'swaplink13', 'hideme13')" id="swaplink13" onfocus="this.blur()" name="swaplink13">Einblenden</a>
+</td>
+</tr> 
+<tr style=" text-align: justify; font-size: 14px; font-weight: normal; background-color: rgb(242,242,242);">
+<td colspan="3" style="padding-left:15px; padding-right:15px;">
+<div id="hideme13" style="display:none">
 <br /> 
 <div align="center">
 </div> 
@@ -805,6 +861,12 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 <h3><img style="float: left; margin: 0px 15px 15px 0px; border-radius: 50%;" src="assets/images/Pelikan.jpg" width="150" hight="200"/>Anna Pelikan</h3>
 <p><b>ehemalige studentische Hilfskraft</b></p>
 <p style="padding-left: 165px;">Anna Pelikan studiert Höheres Lehramt an Gymnasien für die Fächer Englisch und Deutsch an der Universität Leipzig. An der Professur für "Empirische Schul- und Unterrichtsforschung" war sie als studentische Hilfskraft tätig. <br style="clear: both;"/>
+  
+<!--Keßler-->
+
+<h3><img style="float: left; margin: 0px 15px 15px 0px; border-radius: 50%;" src="assets/images/Schwertfeger.jpg" width="150" hight="200"/>Peer Keßler</h3>
+<p><b>ehemalige studentische Hilfskraft</b></p>
+<p style="padding-left: 165px;">Peer Keßler studiert im Master Soziologie an der Universität Leipzig. An der Professur für "Empirische Schul- und Unterrichtsforschung" war er als studentische Hilfskraft tätig. <br style="clear: both;"/>
 
 
 
