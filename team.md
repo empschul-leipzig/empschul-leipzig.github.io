@@ -286,7 +286,7 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
       </div>
 
  <p><b>Publikationen</b></p>
-  Klicken Sie hier: <a href="/assets/pdfs/Publikationen_Christin Lotz.pdf">[&rarr; PDF]</a>
+  Klicken Sie hier: <a href="/assets/pdfs/Publikationsliste_Christin Lotz.pdf">[&rarr; PDF]</a>
 
 </div>
 </td>
