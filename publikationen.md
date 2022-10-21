@@ -6,9 +6,9 @@ permalink: /publikationen/
 
 <h2>Publikationen mit Peer-Review</h2>
 
-Sparfeldt, J. R., **Lotz, C.** & Keimerl, V. (submitted for publication). Vom Nutzen einer Vorlesung – Kompetenzerwerb im bildungswissenschaftlichen Lehramtsstudium.
+**Lotz, C.**, Scherer, R., Greiff, S., & Sparfeldt, J. R. (2022). g's little helpers – VOTAT and NOTAT mediate the relation between intelligence and complex problem solving. Intelligence, 95, 101685.
 
-Valerius, S., **Lotz, C.** & Sparfeldt, J. R. (in press). „Hochbegabt“ oder „nicht hochbegabt“ – Zur Übereinstimmung der Hochbegabungsidentifikation mit SPM, CFT 20-R und KFT-N. Psychologie in Erziehung und Unterricht.
+Valerius, S., **Lotz, C.** & Sparfeldt, J. R. (2021). „Hochbegabt“ oder „nicht hochbegabt“ – Zur Übereinstimmung der Hochbegabungsidentifikation mit SPM, CFT 20-R und KFT-N. Psychologie in Erziehung und Unterricht.
 
 **Lotz, C.**, Sparfeldt, J.R., & Ringeisen, T. (2021). A latent growth curve analysis of state test anxiety in successive days of before and after an examination and in relations to trait test anxiety. Learning and Individual Differences, 92, 1–8.
 
@@ -81,6 +81,16 @@ Rummel, N. & **Meier, A.** (2008). Common Ground und Grounding. In N. Krämer, S
 Hauser, S., Spada, H., Rummel, N., & **Meier, A.** (2007). Kooperation über räumliche und fachliche Grenzen hinweg – Probleme und Lösungsmöglichkeiten. In: G. Schneider, B. Couné, C. Gayer, E. Vögele, & C. Weber (Eds.). *Neue Medien als Schrittmacher an der Universität Freiburg. Wie Informations- und Kommunikationstechnologien Studium, Verwaltung und Forschung verändern* (S. 355-364). Freiburg: Universitätsbibliothek.
 
 <h2>Konferenzbeiträge</h2>
+
+**Lotz, C.** & Sparfeldt, J. R. (2022). Everything at once? – Orchestration of mono- & polytelic behavior while controlling complex problems. Vortrag auf der SIG 27 Conference, Online Measures of Learning Processes, Southampton, United Kingdom.
+
+**Klatt, M., Kachel, G., Lotz, C. & Deiglmayr, A.** (2022). I see you – Expertise differences in the perception of classroom disruptions via mobile eye-tracking. Vortrag auf der SIG 27 Conference, Online Measures of Learning Processes, Southampton, United Kingdom.
+
+**Klatt, M., Kachel, G., Lotz, C. & Deiglmayr, A.** (2022). Learning from the expert? Multimodal exploration of expertise differences in the perception of classroom disruptions. Vortrag auf der SIG 11 Conference, Teaching and Teacher Education, Oldenburg, Germany.
+
+**Lotz, C.** & Sparfeldt, J. R. (2022). Alles auf einmal oder eins nach dem anderen? – Zum Zusammenhang von Intelligenz mit poly- und monotelischen Verhaltensweisen beim Steuern komplexer Systeme. Digitaler Vortrag auf der 9. Tagung der Gesellschaft für empirische Bildungsforschung (GEBF), Bamberg.
+
+**Klatt, M., Kachel, G., Lotz, C. & Deiglmayr, A.** (2022). Wer hat’s zuerst gesehen? Expertiseunterschiede in der Wahrnehmung von Unterrichtsstörungen multimodal erforscht. Digitaler Vortrag auf der DACH-Nachwuchsakademie 2022, Innsbruck, Österrreich.
 
 **Lotz, C.**, Scherer, R., Greiff, S. & Sparfeldt, J. R. (2021). g’s kleine Helfer – VOTAT und NOTAT als Mediatoren des Intelligenz-KPL-Zusammenhangs. Vortrag auf der 18. Fachgruppentagung Pädagogische Psychologie (PAEPSY), Heidelberg.
 
