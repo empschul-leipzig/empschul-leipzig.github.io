@@ -26,7 +26,7 @@ image: assets/images/abschlussarbeit .jpg
 <hr>
 
 <h4>Bedingungen:</h4>
-<p>Gemäß der Denomination der Professur betreuen wir ausschließlich empirisch ausgerichtete Abschlussarbeiten. Daher gelten bei uns die [Anforderungen und Rahmenbedingungen](https://home.uni-leipzig.de/~paedpsy/wp-content/uploads/2019/01/PPT_Infoveranstaltung_allgemein.pdf) wie in der Pädagogischen Psychologie. Mit den entsprechenden Arbeitsbereichen bestehen Kooperationen in Forschung und Lehre, zum Beispiel ein gemeinsames Kolloquium für wissenschaftliche Abschlussarbeiten.</p>
+<p>Gemäß der Denomination der Professur betreuen wir ausschließlich empirisch ausgerichtete Abschlussarbeiten. Daher gelten bei uns die <a href="https://home.uni-leipzig.de/~paedpsy/wp-content/uploads/2019/01/PPT_Infoveranstaltung_allgemein.pdf">Anforderungen und Rahmenbedingungen</a> wie in der Pädagogischen Psychologie. Mit den entsprechenden Arbeitsbereichen bestehen Kooperationen in Forschung und Lehre, zum Beispiel ein gemeinsames Kolloquium für wissenschaftliche Abschlussarbeiten.</p>
 
 <hr>
 
@@ -166,7 +166,7 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 <table class="tab24" align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
 <tr bgcolor="#BDBDBD">
 <td width="53%" height="30" style="padding-left:15px; padding-right:15px;">
-<b>Symbolic Literacy – Symbolverstehen zwischen dem 2. und 7. Lebensjahr</b>
+<b>Professionelle Wahrnehmung von Lehramtsstudierenden und Lehrpersonen multimodal erforscht <font color="red">(ACHTUNG: Anfragen können nur für den PZR SoSe 2023 angenommen werden)</font></b>
 </td>
 <td align="right" width="13%" style="padding-left:15px; padding-right:15px;">
 <a href="#swap" onclick="javascript:swap('Einblenden','Ausblenden', 'swaplink3', 'hideme3')" id="swaplink3" onfocus="this.blur()" name="swaplink3">Einblenden</a>
@@ -179,60 +179,11 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 <div align="center">
 </div> 
  <h4>Ansprechperson</h4>
- 	<p><a href="https://empschul-leipzig.github.io/team#Kachel">Dr. Gregor Kachel</a></p>  
- <h4>Anforderungen</h4>
- 	<p>Vorerfahrung im Umgang mit Vorschulkindern</p>
- <h4>Projektbeschreibung</h4>
- 	<p>Im Rahmen des DFG-Projektes Symbolic Literacy untersuchen wir, wie Klein- und Vorschulkinder konventionelle Symbole (Zahlen, Buchstaben, Ikone etc.) verstehen und wie gut sie darin sind, die Bedeutung unbekannter graphischer Symbole spontan zu erschließen. Die Arbeit in diesem Projekt setzt die Bereitschaft voraus, eigene Daten an Kindergärten, in den Testräumen des MPI EVA oder online zu erheben. Die Studien werden als Bilderbuchgeschichten auf Touch-Screen-Laptops präsentiert. Die Programmierung und Analyse sowie die Kontakte zu Kindergärten und Teilnehmenden werden von uns bereitgestellt.</p>
+ 	<p><a href="https://empschul-leipzig.github.io/team#Klatt">Mandy Klatt</a></p>  
 </div>
 </td>
 </tr>
 </table>
-
-<script type="text/javascript">
-//<![CDATA[
-function swap(openlink,closelink, linkid, dataid)
-{
-if( document.getElementById(dataid).style.display == 'none')
-{
-document.getElementById(dataid).style.display='inline';
-document.getElementById(linkid).firstChild.nodeValue=closelink;
-} else
-{
-document.getElementById(dataid).style.display='none';
-document.getElementById(linkid).firstChild.nodeValue=openlink;
-}
-}
-//]]>
-</script>
-<table class="tab24" align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
-<tr bgcolor="#BDBDBD">
-<td width="53%" height="30" style="padding-left:15px; padding-right:15px;">
-<b>Computer Vision in der Bildungsforschung</b>
-</td>
-<td align="right" width="13%" style="padding-left:15px; padding-right:15px;">
-<a href="#swap" onclick="javascript:swap('Einblenden','Ausblenden', 'swaplink4', 'hideme4')" id="swaplink4" onfocus="this.blur()" name="swaplink4">Einblenden</a>
-</td>
-</tr> 
-<tr style=" text-align: justify; font-size: 14px; font-weight: normal; background-color: rgb(242,242,242);">
-<td colspan="3" style="padding-left:15px; padding-right:15px;">
-<div id="hideme4" style="display:none">
-<br /> 
-<div align="center">
-</div> 
- <h4>Ansprechperson</h4>
- 	<p><a href="https://empschul-leipzig.github.io/team#Kachel">Dr. Gregor Kachel</a></p>  
- <h4>Anforderungen</h4>
- 	<p>Programmiererfahrung (Hintergund in Phython)</p>
- <h4>Projektbeschreibung</h4>
- 	<p>Wir möchten Computer Vision Tools wie etwa Objekterkennung (Mask-RCNN,YOLO) und Gestenerkennung aus Pose Estimation (OpenPose, DensePose) für die empirische Bildungsforschung nutzbar machen. In diesem Projekt würden wir versuchen unter Verwendung bereits bestehender Videoaufnahmen realer Unterrichtseinheiten, einfache Forschungsfragen automatisiert mittels Computer Vision Tools zu beantworten:<br>
-	<i>Wie viele Personen sind in einem Raum? Wie viele von Ihnen stehen oder sitzen? Können wir Handmeldungen auszählen? Wie bewegen sich Lehrkräfte im Raum? Wie setzen sie Gestik ein?</i><br>
-	Die Wahl der Forschungsfrage ist dabei weitgehend offen. Es geht nicht darum, selbst neue Analysemöglichkeiten zu entwickeln, sondern eher darum, bestehende Analysemöglichkeiten an einer konkreten Forschungsfrage anzuwenden.</p>
-</div>
-</td>
-</tr>
-</table>
-
 
 <script type="text/javascript">
 //<![CDATA[
@@ -256,12 +207,12 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 <b>Gender-gerechte Sprache: Kann die kognitive Repräsentation von Frauen durch die Verwendung gender-gerechter und sprachlicher Alternativen zum generischen Maskulinum erhöht werden? <font color="red">(ACHTUNG: Anfragen können erst wieder für den PZR SoSe 2023 angenommen werden)</font></b>
 </td>
 <td align="right" width="13%" style="padding-left:15px; padding-right:15px;">
-<a href="#swap" onclick="javascript:swap('Einblenden','Ausblenden', 'swaplink5', 'hideme5')" id="swaplink5" onfocus="this.blur()" name="swaplink5">Einblenden</a>
+<a href="#swap" onclick="javascript:swap('Einblenden','Ausblenden', 'swaplink4', 'hideme4')" id="swaplink4" onfocus="this.blur()" name="swaplink4">Einblenden</a>
 </td>
 </tr> 
 <tr style=" text-align: justify; font-size: 14px; font-weight: normal; background-color: rgb(242,242,242);">
 <td colspan="3" style="padding-left:15px; padding-right:15px;">
-<div id="hideme5" style="display:none">
+<div id="hideme4" style="display:none">
 <br /> 
 <div align="center">
 </div> 
