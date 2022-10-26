@@ -166,7 +166,7 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 <table class="tab24" align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
 <tr bgcolor="#BDBDBD">
 <td width="53%" height="30" style="padding-left:15px; padding-right:15px;">
-<b>Professionelle Wahrnehmung von Lehramtsstudierenden und Lehrpersonen multimodal erforscht <font color="red">(ACHTUNG: Anfragen können nur für den PZR SoSe 2023 angenommen werden)</font></b>
+<b>Professionelle Wahrnehmung von Lehramtsstudierenden und Lehrpersonen multimodal erforscht <font color="red">(ACHTUNG: Anfragen können erst wieder für den PZR SoSe 2023 angenommen werden)</font></b>
 </td>
 <td align="right" width="13%" style="padding-left:15px; padding-right:15px;">
 <a href="#swap" onclick="javascript:swap('Einblenden','Ausblenden', 'swaplink3', 'hideme3')" id="swaplink3" onfocus="this.blur()" name="swaplink3">Einblenden</a>
