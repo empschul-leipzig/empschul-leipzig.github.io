@@ -202,3 +202,14 @@ Spada, H., & **Meier, A.** (2007). Constructing new knowledge in collaboration: 
 Hauser, S., Spada, H., Rummel, N., & **Meier, A.** (2006). Expertise development in clinical psychology. In R. Sun, N. Miyake & C. D. Schunn (Eds.), *Proceedings of the 28th Annual Conference of the Cognitive Science Society*. (pp. 1458-1463). Mahwah: Erlbaum.
 
 Spada, H., **Meier, A.**, Rummel, N., & Hauser, S. (2005). A new method to assess the quality of collaborative processes in CSCL. In T. Koschmann, D. Suthers, & Chan, T.W. (Eds.), *Proceedings of the CSCL 2005* (pp. 622-631). Mahwah, NJ: Lawrence Erlbaum Associates.
+
+<h2>Poster</h2>
+
+**Lotz, C., Hawlitschek, P. & Deiglmayr, A.** (2022). Motivational antecedents of teacher enthusiasm in early stages of teacher education. Posterpräsentation auf der SIG 11 Conference, Teaching and Teacher Education, Oldenburg, Germany.
+
+**Klatt, M., Kachel, G., Lotz, C. & Deiglmayr, A.** (2020, December). Expert and novice teachers managing classroom disruptions: First findings from a pilot-study in the lab. Virtual SIG 27 Conference, Online Measures of Learning Processes, Antwerp, Belgium.
+
+**Frohberg, F.** (2019, December). Implizite Theorien von Intelligenz bei Lehramtsstudierenden. Dies Academicus, Leipzig, Germany.
+
+**Klatt, M., Kachel, G. & Deiglmayr, A.** (2019, December). Through the eyes of the teacher – Methods and approaches of the lab for Empirical School and Classroom Research. Dies Academicus, Leipzig, Germany.
+
