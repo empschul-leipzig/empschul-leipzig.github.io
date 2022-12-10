@@ -4,7 +4,7 @@ title: Stellenausschreibungen
 permalink: /stellen
 image: assets/images/bewerbung.jpg
 ---
-<p>Du bist auf der Suche nach einem flexiblen und interessanten Nebenjob? - Dann bewirb dich bei uns als studentische oder wissenschaftliche Hilfskraft für 9 Stunden pro Woche per <a href="mailto:empschul@uni-leipzig.de">Mail</a>.</p>
+<p><b>Du bist auf der Suche nach einem flexiblen und interessanten Nebenjob? - Dann bewirb dich bei uns als studentische oder wissenschaftliche Hilfskraft für 9 Stunden pro Woche per <a href="mailto:empschul@uni-leipzig.de">Mail</a>.</b></p>
 
 <img src="assets/images/Stellenausschreibung.jpg">Fyler Stellenausschreibung</img> 
 
