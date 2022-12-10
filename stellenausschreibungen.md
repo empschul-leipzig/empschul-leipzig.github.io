@@ -6,5 +6,5 @@ image: assets/images/bewerbung.jpg
 ---
 <p><b>Du bist auf der Suche nach einem flexiblen und interessanten Nebenjob? - Dann bewirb dich bei uns als studentische oder wissenschaftliche Hilfskraft für 9 Stunden pro Woche per <a href="mailto:empschul@uni-leipzig.de">Mail</a>.</b></p>
 
-<img src="assets/images/Stellenausschreibung.jpg"</img> 
+<img src="assets/images/Stellenausschreibung.jpg"> 
 
