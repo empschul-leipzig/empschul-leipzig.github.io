@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Team
+image: assets/images/Gruppenfoto_Banner.jpg
 ---
 <!--Team-->
 <h2>Wer wir sind</h2>
