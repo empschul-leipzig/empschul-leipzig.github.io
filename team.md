@@ -576,10 +576,10 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 <h2>Studentische und Wissenschaftliche Hilfskräfte</h2>
 <hr>
   
-<!--Becker-->
+<!--Steinbock-->
 
-<h3><img style="float: left; margin: 0px 15px 15px 0px; border-radius: 50%;" src="assets/images/Lugovaya.jpg" width="150" hight="200"/>Franziska Becker</h3>
-<p style="padding-left: 165px;"><br style="clear: both;"/>
+<h3><img style="float: left; margin: 0px 15px 15px 0px; border-radius: 50%;" src="assets/images/Platzhalter.jpg" width="150" hight="200"/>Celine Steinbock</h3>
+<p style="padding-left: 165px;">Celine Steinbock studiert den Studiengang Lehramt an Oberschulen mit den Fächern Biologie und Geschichte an der Universität Leipzig. An der Professur für "Empirische Schul- und Unterrichtsforschung" ist sie als studentische Hilfskraft tätig.<br style="clear: both;"/>
 
 <script type="text/javascript">
 //<![CDATA[
@@ -621,8 +621,8 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
   
 <!--Zachrau-->
 
-<h3><img style="float: left; margin: 0px 15px 15px 0px; border-radius: 50%;" src="assets/images/Lugovaya.jpg" width="150" hight="200"/>Jonathan Zachrau</h3>
-<p style="padding-left: 165px;">Jonathan Zachrau studiert Höheres Lehramt an Gymnasien mit den Fächern Mathematik und Deutsch an der Universität Leipzig. An der Professur "Empirische Schul- und Unterrichtsforschung" ist er als studentische Hilfskraft tätig. <br style="clear: both;"/>
+<h3><img style="float: left; margin: 0px 15px 15px 0px; border-radius: 50%;" src="assets/images/Platzhalter.jpg" width="150" hight="200"/>Jonathan Zachrau</h3>
+<p style="padding-left: 165px;">Jonathan Zachrau studiert Höheres Lehramt an Gymnasien mit den Fächern Mathematik und Deutsch an der Universität Leipzig. An der Professur "Empirische Schul- und Unterrichtsforschung" ist er als studentische Hilfskraft tätig.<br style="clear: both;"/>
 
 <script type="text/javascript">
 //<![CDATA[
@@ -664,7 +664,7 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
   
 <!--Schuster-->
 
-<h3><img style="float: left; margin: 0px 15px 15px 0px; border-radius: 50%;" src="assets/images/Lugovaya.jpg" width="150" hight="200"/>Gina Maria Schuster</h3>
+<h3><img style="float: left; margin: 0px 15px 15px 0px; border-radius: 50%;" src="assets/images/Platzhalter.jpg" width="150" hight="200"/>Gina Maria Schuster</h3>
 <p style="padding-left: 165px;"><br style="clear: both;"/>
 
 <script type="text/javascript">
@@ -707,7 +707,7 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 
 <!--Heidemeyer-->
 
-<h3><img style="float: left; margin: 0px 15px 15px 0px; border-radius: 50%;" src="assets/images/Lugovaya.jpg" width="150" hight="200"/>Anne Heidemeyer</h3>
+<h3><img style="float: left; margin: 0px 15px 15px 0px; border-radius: 50%;" src="assets/images/Platzhalter.jpg" width="150" hight="200"/>Anne Heidemeyer</h3>
 <p style="padding-left: 165px;"><br style="clear: both;"/>
 
 <script type="text/javascript">
@@ -867,6 +867,18 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 <h3><img style="float: left; margin: 0px 15px 15px 0px; border-radius: 50%;" src="assets/images/Schwertfeger.jpg" width="150" hight="200"/>Peer Keßler</h3>
 <p><b>ehemalige studentische Hilfskraft</b></p>
 <p style="padding-left: 165px;">Peer Keßler studiert im Master Soziologie an der Universität Leipzig. An der Professur für "Empirische Schul- und Unterrichtsforschung" war er als studentische Hilfskraft tätig. <br style="clear: both;"/>
+  
+<!--Becker-->
+
+<h3><img style="float: left; margin: 0px 15px 15px 0px; border-radius: 50%;" src="assets/images/Schwertfeger.jpg" width="150" hight="200"/>Franziska Becker</h3>
+<p><b>ehemalige studentische Hilfskraft</b></p>
+<p style="padding-left: 165px;"><br style="clear: both;"/>
+  
+<!--Becker-->
+
+<h3><img style="float: left; margin: 0px 15px 15px 0px; border-radius: 50%;" src="assets/images/Schwertfeger.jpg" width="150" hight="200"/>Fine Saeltzer</h3>
+<p><b>ehemalige studentische Hilfskraft</b></p>
+<p style="padding-left: 165px;"><br style="clear: both;"/>
 
 
 
