@@ -204,8 +204,8 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 
 <b>Für einen Abschluss…</b>
 <ul>
-<li>im <b>PZR WiSe 2022/23</b> melden Sie sich bitte bis spätestens <b>15. Januar 2022</b></li>
-<li>im <b>PZR SoSe 2023</b> melden Sie sich bitte bis spätestens <b>31. August 2022</b></li>
+<li>im im <b>PZR Wintersemester</b> (Abgabe Oktober) melden Sie sich bitte bis spätestens <b>15. Januar des jeweiligen Jahres</b></li>
+<li>im <b>PZR Sommersemester</b> (Abgabe April) melden Sie sich bitte bis spätestens <b>15. August des Vorjahres</b></li>
 </ul>
 
 <p><b>Bachelor- und Master-Studierende</b> melden sich <b>unabhängig dieser Fristen</b> mit den oben genannten Unterlagen bei der/dem Forschungsprojektverantwortlichen.</p>
