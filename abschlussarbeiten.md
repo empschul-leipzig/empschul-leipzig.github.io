@@ -141,7 +141,7 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 <div align="center">
 </div> 
  <h4>Ansprechperson</h4>
- 	<p><a href="https://empschul-leipzig.github.io/team#Lotz">Christin Lotz</a></p>  
+ 	<p><a href="https://empschul-leipzig.github.io/team#Lotz">Dr. Christin Lotz</a></p>  
 </div>
 </td>
 </tr>
