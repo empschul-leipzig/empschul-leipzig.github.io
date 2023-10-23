@@ -6,10 +6,10 @@ description:
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://empschul-leipzig.github.io" # the base hostname & protocol for your site
 author:
-street_address: Dittrichring 5-7
-city: 04109 Leipzig
+street_address: Marschnerstraße 29 a
+city: Leipzig
 state: 
-zip_code: 
+zip_code: 04109
 country: Deutschland
 phone: +49 (0) 341 97-31570
 
@@ -17,7 +17,7 @@ phone: +49 (0) 341 97-31570
 github_url: https://github.com/empschul-leipzig
 slack_url: https://empschul.slack.com
 twitter_url: https://twitter.com/empschul 
-university_url: https://www.uni-leipzig.de/
+university_url: https://www.erzwiss.uni-leipzig.de/institut-fuer-bildungswissenschaften/empirische-schul-und-unterrichtsforschung#c330830
 
 # Build settings
 markdown: kramdown
