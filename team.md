@@ -622,38 +622,5 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 <h2>Studentische und Wissenschaftliche Hilfskräfte</h2>
 <hr>
 
-<div class="container"></div>
-<div class="container-fluid">
-  <div class="container">
-    <div class="row">
-      <div class="slider-services">
-        <div class="col-xs-12 col-sm-6 col-md-4">
-          <div><h3>Elena Fröhner</h3> </div>Studentische Hilfskraft
-        </div>
-        <div class="col-xs-12 col-sm-6 col-md-4">
-          <div><h3>Anne Heidmeyer</h3></div>Studentische Hilfskraft
-        </div>
-        <div class="col-xs-12 col-sm-6 col-md-4">
-          <div><h3>Jonathan Höschele</h3> </div>Studentische Hilfskraft
-        </div>
-        <div class="col-xs-12 col-sm-6 col-md-4">
-          <div><h3>Anna Schmidtke</h3></div>Studentische Hilfskraft
-        </div>
-        <div class="col-xs-12 col-sm-6 col-md-4">
-          <div><h3>Celine Steinbock</h3></div>Studentische Hilfskraft
-        </div>
-        <div class="col-xs-12 col-sm-6 col-md-4">
-          <div><h3>Frederick Preuß</h3></div>Wissenschaftliche Hilfskraft
-        </div>
-        <div class="col-xs-12 col-sm-6 col-md-4">
-          <div><h3>Emilia Wernicke</h3> </div>Studentische Hilfskraft
-        </div>
-        <div class="col-xs-12 col-sm-6
-      <div class="slider-dots"></div>
-    </div>
-  </div>
-</div>
-</div>
-  
 
 
