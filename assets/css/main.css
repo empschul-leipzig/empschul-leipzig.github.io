@@ -2867,6 +2867,60 @@
 			margin-left: 2em;
 		}
 
+/* Slick List Overflow */
+
+.container-fluid {
+  overflow: hidden;
+  position: relative;
+}
+.container {
+  background-color:;
+}
+.slider-services {
+  background-color:;
+  position: initial; /*important, allows container-fluid to be the relative*/
+}
+.slick-slide {
+  height: 150px;
+}
+.slick-slide .col-xs-12 > div {
+  background-color:rgb(242,242,242);
+}
+
+.slick-list {
+  overflow: visible;/*important, allows overflow slides to be visible*/
+}
+.slick-next:before,
+.slick-prev:before {
+  color: black;
+}
+.slick-next,
+.slick-prev {
+  height: 100%;
+  width: 150px;
+  z-index: 2;
+}
+.slick-prev,
+.slick-prev:hover {
+  left: 0;
+  background-image: linear-gradient(to right, #fff, rgba(255, 255, 255, 0));
+}
+.slick-next,
+.slick-next:hover {
+  right: 0;
+  background-image: linear-gradient(to left, #fff, rgba(255, 255, 255, 0));
+}
+.slick-next.slick-disabled:before,
+.slick-prev.slick-disabled:before {
+  display: none;
+}
+.slider-dots {
+  position: relative;
+}
+.slick-dots {
+  bottom: 5px;
+}
+
 /* Table */
 
 	.table-wrapper {
