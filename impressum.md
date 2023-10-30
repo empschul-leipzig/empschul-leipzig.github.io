@@ -8,11 +8,11 @@ Universität Leipzig<br>
 Erziehungswissenschaftliche Fakultät<br>
 Institut für Bildungswissenschaften<br>
 Empirische Schul- und Unterrichtsforschung<br>
-Dittrichring 5-7<br>
+Marschnerstraße 29a<br>
 04109 Leipzig
 
 #### Kontakt
-Raum: 009<br>
+Raum: 207<br>
 Tel.: +49 (0) 341 97-31570<br>
 E-Mail: [empschul@uni-leipzig.de](empschul@uni-leipzig.de)
 
