@@ -622,8 +622,7 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 <h2>Studentische und Wissenschaftliche Hilfskräfte</h2>
 <hr>
 
-<div class="container">
-</div>
+<div class="container"></div>
 <div class="container-fluid">
   <div class="container">
     <div class="row">
@@ -652,8 +651,8 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
         <div class="col-xs-12 col-sm-6
       <div class="slider-dots"></div>
     </div>
-
   </div>
+</div>
 </div>
   
 
