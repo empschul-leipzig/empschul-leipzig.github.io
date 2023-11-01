@@ -621,15 +621,15 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 <hr>
 <h2>Hilfskräfte</h2>
 <hr>
-
+<div class="row">
 	<div class="4u 12u$(medium)">
 		<h3>Studentische Hilfskräfte</h3>
 		<p>Elena Fröhner<br>
-       Anne Heidemeyer<br>
-       Jonathan Höschele<br>
-       Anna Schmidtke<br>
-       Celine Steinbock<br>
-       Emilia Wernicke</p>
+       		Anne Heidemeyer<br>
+       		Jonathan Höschele<br>
+       		Anna Schmidtke<br>
+       		Celine Steinbock<br>
+       		Emilia Wernicke</p>
 	</div>
 	<div class="4u 12u$(medium)">
 		<h3>Wissenschaftliche Hilfskräfte</h3>
@@ -637,12 +637,27 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 	</div>
 	<div class="4u$ 12u$(medium)">
 		<h3>Kontakt</h3>
-  <div class="box">
-  <p><b>E-Mail:</b> <a href="empschul_hiwi@uni-leipzig.de">empschul_hiwi@uni-leipzig.de"</a><br>
-  <b>Raum:</b>235<br></p>
-  </div>		
+  		<div class="box">
+  			<p><b>E-Mail:</b> <a href="empschul_hiwi@uni-leipzig.de">empschul_hiwi@uni-leipzig.de"</a><br>
+  			<b>Raum:</b>235<br></p>
+  		</div>		
 	</div>
 </div>
+
+<hr>
+<h2>Ehemalige Mitarbeitende</h2>
+<hr>
+
+<!--Pagel-->
+
+<h3><img style="float: left; margin: 0px 15px 15px 0px; border-radius: 50%;" src="assets/images/Pagel.jpg" width="150" 			hight="200"/>Anne-Kathrin Pagel</h3>
+<p><b>ehemalige Sekräterin</b></p>
+
+<!--Eulitz-->
+
+<h3><img style="float: left; margin: 0px 15px 15px 0px; border-radius: 50%;" src="assets/images/Eulitz.jpg" width="150" 			hight="200"/>Gereon Eulitz</h3>
+<p><b>ehemalige wissenschaftlicher Mitarbeiter</b></p>
+
 
 
 
