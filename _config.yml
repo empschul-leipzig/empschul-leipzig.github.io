@@ -7,9 +7,9 @@ baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://empschul-leipzig.github.io" # the base hostname & protocol for your site
 author:
 street_address: Marschnerstraße 29 a
-city: Leipzig
+city: 04109 Leipzig
 state: 
-zip_code: 04109
+zip_code: 
 country: Deutschland
 phone: +49 (0) 341 97-31570
 
