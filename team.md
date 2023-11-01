@@ -621,42 +621,82 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 <hr>
 <h2>Hilfskräfte</h2>
 <hr>
-<div class="row">
-	<div class="4u 12u$(medium)">
-		<h3>Studentische Hilfskräfte</h3>
-		<p>Elena Fröhner<br>
-       		Anne Heidemeyer<br>
-       		Jonathan Höschele<br>
-       		Anna Schmidtke<br>
-       		Celine Steinbock<br>
-       		Emilia Wernicke</p>
+
+<script type="text/javascript">
+//<![CDATA[
+function swap(openlink,closelink, linkid, dataid)
+{
+if( document.getElementById(dataid).style.display == 'none')
+{
+document.getElementById(dataid).style.display='inline';
+document.getElementById(linkid).firstChild.nodeValue=closelink;
+} else
+{
+document.getElementById(dataid).style.display='none';
+document.getElementById(linkid).firstChild.nodeValue=openlink;
+}
+}
+//]]>
+</script>
+<table class="tab24" align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr bgcolor="#BDBDBD">
+<td width="33%" height="30" style="padding-left:15px; padding-right:15px;">
+<b>Kontakt und Weiteres</b>
+</td>
+<td align="right" width="33%" style="padding-left:15px; padding-right:15px;">
+<a href="#swap" onclick="javascript:swap('Einblenden','Ausblenden', 'swaplink9', 'hideme9')" id="swaplink9" onfocus="this.blur()" name="swaplink9">Einblenden</a>
+</td>
+</tr> 
+<tr style=" text-align: justify; font-size: 14px; font-weight: normal; background-color: rgb(242,242,242);">
+<td colspan="3" style="padding-left:15px; padding-right:15px;">
+<div id="hideme9" style="display:none">
+<br /> 
+<div align="center">
+</div> 
+
+	<div class="row">
+		<div class="4u 12u$(medium)">
+			<h3>Studentische Hilfskräfte</h3>
+			<p>Elena Fröhner<br>
+       			Anne Heidemeyer<br>
+       			Jonathan Höschele<br>
+       			Anna Schmidtke<br>
+       			Celine Steinbock<br>
+       			Emilia Wernicke</p>
+		</div>
+		<div class="4u 12u$(medium)">
+			<h3>Wissenschaftliche Hilfskräfte</h3>
+			<p>Frederick Preuß</p>
+		</div>
+		<div class="4u$ 12u$(medium)">
+			<h3>Kontakt</h3>
+  			<div class="box">
+  				<p><b>E-Mail: </b><a href="empschul_hiwi@uni-leipzig.de">empschul_hiwi@uni-leipzig.de</a><br>
+  				<b>Raum: </b>235<br></p>
+  			</div>		
+		</div>
 	</div>
-	<div class="4u 12u$(medium)">
-		<h3>Wissenschaftliche Hilfskräfte</h3>
-		<p>Frederick Preuß</p>
-	</div>
-	<div class="4u$ 12u$(medium)">
-		<h3>Kontakt</h3>
-  		<div class="box">
-  			<p><b>E-Mail:</b> <a href="empschul_hiwi@uni-leipzig.de">empschul_hiwi@uni-leipzig.de"</a><br>
-  			<b>Raum:</b>235<br></p>
-  		</div>		
-	</div>
+
 </div>
+</td>
+</tr>
+</table>
 
 <hr>
 <h2>Ehemalige Mitarbeitende</h2>
 <hr>
 
-<!--Pagel-->
+<div class="row">
+		<div class="4u 12u$(medium)">
+			<h3><img style="float: left; margin: 0px 15px 15px 0px; border-radius: 50%;" src="assets/images/Pagel.jpg" 				width="150"hight="200"/>Anne-Kathrin Pagel</h3>
+			<p><b>ehemalige Sekräterin</b></p>
+		</div>
 
-<h3><img style="float: left; margin: 0px 15px 15px 0px; border-radius: 50%;" src="assets/images/Pagel.jpg" width="150" 			hight="200"/>Anne-Kathrin Pagel</h3>
-<p><b>ehemalige Sekräterin</b></p>
-
-<!--Eulitz-->
-
-<h3><img style="float: left; margin: 0px 15px 15px 0px; border-radius: 50%;" src="assets/images/Eulitz.jpg" width="150" 			hight="200"/>Gereon Eulitz</h3>
-<p><b>ehemaliger wissenschaftlicher Mitarbeiter</b></p>
+ 		<div class="4u 12u$(medium)">
+			<h3><img style="float: left; margin: 0px 15px 15px 0px; border-radius: 50%;" src="assets/images/Eulitz.jpg" 				width="150" hight="200"/>Gereon Eulitz</h3>
+			<p><b>ehemaliger wissenschaftlicher Mitarbeiter</b></p>
+   		</div>
+</div>
 
 
 
