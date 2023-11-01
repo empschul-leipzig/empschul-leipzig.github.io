@@ -622,5 +622,27 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 <h2>Hilfskräfte</h2>
 <hr>
 
+	<div class="4u 12u$(medium)">
+		<h3>Studentische Hilfskräfte</h3>
+		<p>Elena Fröhner<br>
+       Anne Heidemeyer<br>
+       Jonathan Höschele<br>
+       Anna Schmidtke<br>
+       Celine Steinbock<br>
+       Emilia Wernicke</p>
+	</div>
+	<div class="4u 12u$(medium)">
+		<h3>Wissenschaftliche Hilfskräfte</h3>
+		<p>Frederick Preuß</p>
+	</div>
+	<div class="4u$ 12u$(medium)">
+		<h3>Kontakt</h3>
+  <div class="box">
+  <p><b>E-Mail:</b> <a href="empschul_hiwi@uni-leipzig.de">empschul_hiwi@uni-leipzig.de"</a><br>
+  <b>Raum:</b>235<br></p>
+  </div>		
+	</div>
+</div>
+
 
 
