@@ -656,7 +656,7 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 <!--Eulitz-->
 
 <h3><img style="float: left; margin: 0px 15px 15px 0px; border-radius: 50%;" src="assets/images/Eulitz.jpg" width="150" 			hight="200"/>Gereon Eulitz</h3>
-<p><b>ehemalige wissenschaftlicher Mitarbeiter</b></p>
+<p><b>ehemaliger wissenschaftlicher Mitarbeiter</b></p>
 
 
 
