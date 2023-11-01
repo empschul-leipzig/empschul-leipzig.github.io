@@ -527,7 +527,7 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 
 <!--Haigis-->
 <article id="Haigis">
-<h3><img style="float: left; margin: 0px 15px 15px 0px; border-radius: 50%;" src="assets/images/de_Groote.jpg" width="150" hight="200"/>Tim Haigis</h3>
+<h3><img style="float: left; margin: 0px 15px 15px 0px; border-radius: 50%;" src="assets/images/Platzhalter.jpg" width="150" hight="200"/>Tim Haigis</h3>
 <p><b>Abgeordneter Lehrer</b></p>
 <p style="padding-left: 165px;">Informationen folgen.<br style="clear: both;"/>
 
@@ -562,10 +562,10 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 <br /> 
 <div align="center">
 </div>   
-  <p><b>Telefon:</b>+49 (0) 341 97-31577<br>
-  <b>E-Mail:</b> <a href="mailto:tim.haigis@uni-leipzig.de">tim.haigis@uni-leipzig.de</a><br>
-  <b>Raum:</b>234<br>
-  <b>Sprechzeit:</b>-</p>
+  <p><b>Telefon: </b>+49 (0) 341 97-31577<br>
+  <b>E-Mail: </b><a href="mailto:tim.haigis@uni-leipzig.de">tim.haigis@uni-leipzig.de</a><br>
+  <b>Raum: </b>234<br>
+  <b>Sprechzeit: </b>-</p>
 </div>
 </td>
 </tr>
@@ -619,7 +619,7 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 </table>
 
 <hr>
-<h2>Studentische und Wissenschaftliche Hilfskräfte</h2>
+<h2>Hilfskräfte</h2>
 <hr>
 
 
