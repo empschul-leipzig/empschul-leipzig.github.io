@@ -119,7 +119,7 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
   
 <!--Habelt-->
 
-<h3><img style="float: left; margin: 0px 15px 15px 0px; border-radius: 50%;" src="assets/images/Habelt.jpg" width="150" hight="200"/>Henriette Habelt</h3>
+<h3><img style="float: left; margin: 0px 15px 15px 0px; border-radius: 50%;" src="assets/images/Habelt.jpeg" width="150" hight="200"/>Henriette Habelt</h3>
 <p><b>Sekretärin</b></p>
 <p style="padding-left: 165px;">Henriette Habelt ist Sekretärin an der Professur "Empirische Schul- und Unterrichtsforschung" an der Erziehungswissenschaftlichen Fakultät der Universität Leipzig.<br style="clear: both;"/>
 
@@ -527,9 +527,9 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 
 <!--Haigis-->
 <article id="Haigis">
-<h3><img style="float: left; margin: 0px 15px 15px 0px; border-radius: 50%;" src="assets/images/Platzhalter.jpg" width="150" hight="200"/>Tim Haigis</h3>
+<h3><img style="float: left; margin: 0px 15px 15px 0px; border-radius: 50%;" src="assets/images/Haigis.jpg" width="150" hight="200"/>Tim Haigis</h3>
 <p><b>Abgeordneter Lehrer</b></p>
-<p style="padding-left: 165px;">Informationen folgen.<br style="clear: both;"/>
+<p style="padding-left: 165px;">Tim Haigis lehrt und forscht als abgeordnete Lehrkraft an der Professur "Empirische Schul- und Unterrichtsforschung" an der Erziehungswissenschaftlichen Fakultät der Universität Leipzig. Seine Forschung konzentriert sich auf die Analyse von Lehr- und Lernprozessen, insbesondere den Einfluss der Expertise von Lehrkräften auf diese Abläufe. Hierbei kommen innovative multimodale Methoden wie Eye-Tracking sowie Audio- und Videografie zum Einsatz, um einen umfassenden Einblick in die Wechselwirkungen zwischen Lehrkompetenz und Lernprozessen zu gewinnen.<br style="clear: both;"/>
 
 <script type="text/javascript">
 //<![CDATA[
