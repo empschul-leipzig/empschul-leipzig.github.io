@@ -14,6 +14,7 @@ image: assets/images/abschlussarbeit .jpg
 <ul>
 <li>Mitarbeit in unseren laufenden Forschungsprojekten</li>
 <li>Betreuung beim Verfassen einer wissenschaftlichen Arbeit in einem interessanten, interdisziplinären Forschungsumfeld</li>
+<li>Methodenseminar/Forschungskolloquium für Staatsexamensarbeiten</li>
 </ul>
 
 <hr>
@@ -52,7 +53,7 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 <table class="tab24" align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
 <tr bgcolor="#BDBDBD">
 <td width="53%" height="30" style="padding-left:15px; padding-right:15px;">
-<b>Is the pen mightier than the keyboard? Eine Replikationsstudie zu Unterrichtsmitschriften von Hand vs. am Laptop</b>
+<b>Einstellung von Lehramtsstudierenden/Lehrpersonen zu aktuellen Themen der Digitalisierung im schulischen Kontextp</b>
 </td>
 <td align="right" width="13%" style="padding-left:15px; padding-right:15px;">
 <a href="#swap" onclick="javascript:swap('Einblenden','Ausblenden', 'swaplink1', 'hideme1')" id="swaplink1" onfocus="this.blur()" name="swaplink1">Einblenden</a>
@@ -65,7 +66,9 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 <div align="center">
 </div> 
  <h4>Ansprechperson</h4>
- 	 <p><a href="https://empschul-leipzig.github.io/team#Deiglmayr">Prof. Dr. Anne Deiglmayr</a></p>  
+ 	 <p><a href="https://empschul-leipzig.github.io/team#Deiglmayr">Prof. Dr. Anne Deiglmayr</a></p> 
+ <h4>Kapazität</h4>
+   <p>1-2 Personen</p>
 </div>
 </td>
 </tr>
@@ -90,7 +93,7 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 <table class="tab24" align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
 <tr bgcolor="#BDBDBD">
 <td width="53%" height="30" style="padding-left:15px; padding-right:15px;">
-<b>Evaluation der Einführung des FreiDay-Formats in einer Grundschule</b>
+<b>Bezugsnormorientierung und diagnostik-bezogene Selbstwirksamkeits-erwartung von Lehramtsstudierenden</b>
 </td>
 <td align="right" width="13%" style="padding-left:15px; padding-right:15px;">
 <a href="#swap" onclick="javascript:swap('Einblenden','Ausblenden', 'swaplink2', 'hideme2')" id="swaplink2" onfocus="this.blur()" name="swaplink2">Einblenden</a>
@@ -104,6 +107,8 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 </div> 
  <h4>Ansprechperson</h4>
  	 <p><a href="https://empschul-leipzig.github.io/team#Deiglmayr">Prof. Dr. Anne Deiglmayr</a></p>  
+ <h4>Kapazität</h4>
+   <p>1-2 Personen</p>
 </div>
 </td>
 </tr>
@@ -128,7 +133,7 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 <table class="tab24" align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
 <tr bgcolor="#BDBDBD">
 <td width="53%" height="30" style="padding-left:15px; padding-right:15px;">
-<b>Praktikum im Lehramtsstudium: Wie erleben Lehramtsstudierende ihr erstes Schulpraktikum und welche Effekte hat es auf Motivation und Einstellungen gegenüber ihrem Lehramtsstudium?</b>
+<b>Technikgestützte Lernstrategien im Studium</b>
 </td>
 <td align="right" width="13%" style="padding-left:15px; padding-right:15px;">
 <a href="#swap" onclick="javascript:swap('Einblenden','Ausblenden', 'swaplink3', 'hideme3')" id="swaplink3" onfocus="this.blur()" name="swaplink3">Einblenden</a>
@@ -140,8 +145,12 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 <br /> 
 <div align="center">
 </div> 
+ <h4>Vertiefung</h4>
+  <p>Lernen mit Erklärvideos (Fragebogenstudie); Kapazität: 1 Person</p>
+  <p>Bestandsaufnahme: Nutzung technikgestützter Lernstrategien im Lehramtsstudium (Fragebogenstudie); Kapazität: 1 Person</p>
  <h4>Ansprechperson</h4>
- 	<p><a href="https://empschul-leipzig.github.io/team#Lotz">Dr. Christin Lotz</a></p>  
+ 	<p><a href="https://empschul-leipzig.github.io/team#Deiglmayr">Prof. Dr. Anne Deiglmayr</a></p>  
+ 
 </div>
 </td>
 </tr>
@@ -180,6 +189,122 @@ document.getElementById(linkid).firstChild.nodeValue=openlink;
 </div> 
  <h4>Ansprechperson</h4>
  	<p><a href="https://empschul-leipzig.github.io/team#Lotz">Dr. Christin Lotz</a></p>  
+ </div>
+</td>
+</tr>
+</table>
+
+<script type="text/javascript">
+//<![CDATA[
+function swap(openlink,closelink, linkid, dataid)
+{
+if( document.getElementById(dataid).style.display == 'none')
+{
+document.getElementById(dataid).style.display='inline';
+document.getElementById(linkid).firstChild.nodeValue=closelink;
+} else
+{
+document.getElementById(dataid).style.display='none';
+document.getElementById(linkid).firstChild.nodeValue=openlink;
+}
+}
+//]]>
+</script>
+<table class="tab24" align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr bgcolor="#BDBDBD">
+<td width="53%" height="30" style="padding-left:15px; padding-right:15px;">
+<b>Ein Expertisevergleich zur Generierung von Reaktionsalternativen bei Unterrichtsstörungen im Lehr-Lern-Setting</b>
+</td>
+<td align="right" width="13%" style="padding-left:15px; padding-right:15px;">
+<a href="#swap" onclick="javascript:swap('Einblenden','Ausblenden', 'swaplink5', 'hideme5')" id="swaplink5" onfocus="this.blur()" name="swaplink5">Einblenden</a>
+</td>
+</tr> 
+<tr style=" text-align: justify; font-size: 14px; font-weight: normal; background-color: rgb(242,242,242);">
+<td colspan="3" style="padding-left:15px; padding-right:15px;">
+<div id="hideme5" style="display:none">
+<br /> 
+<div align="center">
+</div> 
+ <h4>Ansprechperson</h4>
+ 	<p><a href="https://empschul-leipzig.github.io/team#Klatt">Mandy Klatt</a></p>  
+ </div>
+</td>
+</tr>
+</table>
+
+<script type="text/javascript">
+//<![CDATA[
+function swap(openlink,closelink, linkid, dataid)
+{
+if( document.getElementById(dataid).style.display == 'none')
+{
+document.getElementById(dataid).style.display='inline';
+document.getElementById(linkid).firstChild.nodeValue=closelink;
+} else
+{
+document.getElementById(dataid).style.display='none';
+document.getElementById(linkid).firstChild.nodeValue=openlink;
+}
+}
+//]]>
+</script>
+<table class="tab24" align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr bgcolor="#BDBDBD">
+<td width="53%" height="30" style="padding-left:15px; padding-right:15px;">
+<b>Eine Laborstudie zur Untersuchung von Expertiseunterschieden in der professionellen Wahrnehmung von Unterrichtsstörungen mittels mobilem Eye-Tracking</b>
+</td>
+<td align="right" width="13%" style="padding-left:15px; padding-right:15px;">
+<a href="#swap" onclick="javascript:swap('Einblenden','Ausblenden', 'swaplink6', 'hideme6')" id="swaplink6" onfocus="this.blur()" name="swaplink6">Einblenden</a>
+</td>
+</tr> 
+<tr style=" text-align: justify; font-size: 14px; font-weight: normal; background-color: rgb(242,242,242);">
+<td colspan="3" style="padding-left:15px; padding-right:15px;">
+<div id="hideme6" style="display:none">
+<br /> 
+<div align="center">
+</div> 
+ <h4>Ansprechperson</h4>
+ 	<p><a href="https://empschul-leipzig.github.io/team#Klatt">Mandy Klatt</a></p>  
+ </div>
+</td>
+</tr>
+</table>
+
+<script type="text/javascript">
+//<![CDATA[
+function swap(openlink,closelink, linkid, dataid)
+{
+if( document.getElementById(dataid).style.display == 'none')
+{
+document.getElementById(dataid).style.display='inline';
+document.getElementById(linkid).firstChild.nodeValue=closelink;
+} else
+{
+document.getElementById(dataid).style.display='none';
+document.getElementById(linkid).firstChild.nodeValue=openlink;
+}
+}
+//]]>
+</script>
+<table class="tab24" align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr bgcolor="#BDBDBD">
+<td width="53%" height="30" style="padding-left:15px; padding-right:15px;">
+<b>Pilotierung eines Fragebogens zur Bewertung des Sportunterrichts hinsichtlich der Klassenführung und weiterer mehrperspektivischer Items</b>
+</td>
+<td align="right" width="13%" style="padding-left:15px; padding-right:15px;">
+<a href="#swap" onclick="javascript:swap('Einblenden','Ausblenden', 'swaplink7', 'hideme7')" id="swaplink7" onfocus="this.blur()" name="swaplink7">Einblenden</a>
+</td>
+</tr> 
+<tr style=" text-align: justify; font-size: 14px; font-weight: normal; background-color: rgb(242,242,242);">
+<td colspan="3" style="padding-left:15px; padding-right:15px;">
+<div id="hideme7" style="display:none">
+<br /> 
+<div align="center">
+</div> 
+ <h4>Ansprechperson</h4>
+ 	<p><a href="https://empschul-leipzig.github.io/team#Haigis">Tim Haigis</a></p>  
+ <h4>Kapazität</h4>
+  <p>2-3 Personen</p>
  </div>
 </td>
 </tr>
